@@ -1,0 +1,61 @@
+github version v72.13-2-gc4d0b19-native (c4d0b1990129dce2b28095277173ee0d7702d304)
+
+we have 23 user defined desync profile(s) and default low priority profile 0
+Loading hostlist C:\Users\какашка\AppData\Roaming\ZapretTwo\lists\russia-blacklist.txt
+loading plain text list
+Loaded 117132 hosts from C:\Users\какашка\AppData\Roaming\ZapretTwo\lists\russia-blacklist.txt
+Loading hostlist C:\Users\какашка\AppData\Roaming\ZapretTwo\lists\discord-media.txt
+loading plain text list
+Loaded 1 hosts from C:\Users\какашка\AppData\Roaming\ZapretTwo\lists\discord-media.txt
+Loading hostlist C:\Users\какашка\AppData\Roaming\ZapretTwo\lists\whatsapp.txt
+loading plain text list
+Loaded 6 hosts from C:\Users\какашка\AppData\Roaming\ZapretTwo\lists\whatsapp.txt
+Loading hostlist C:\Users\какашка\AppData\Roaming\ZapretTwo\lists\instagram.txt
+loading plain text list
+Loaded 2 hosts from C:\Users\какашка\AppData\Roaming\ZapretTwo\lists\instagram.txt
+Loading hostlist C:\Users\какашка\AppData\Roaming\ZapretTwo\lists\facebook.txt
+loading plain text list
+Loaded 4 hosts from C:\Users\какашка\AppData\Roaming\ZapretTwo\lists\facebook.txt
+Loading hostlist C:\Users\какашка\AppData\Roaming\ZapretTwo\lists\itch.txt
+loading plain text list
+Loaded 6 hosts from C:\Users\какашка\AppData\Roaming\ZapretTwo\lists\itch.txt
+Loading hostlist C:\Users\какашка\AppData\Roaming\ZapretTwo\lists\roblox.txt
+loading plain text list
+Loaded 81 hosts from C:\Users\какашка\AppData\Roaming\ZapretTwo\lists\roblox.txt
+Loading hostlist C:\Users\какашка\AppData\Roaming\ZapretTwo\lists\rutor.txt
+loading plain text list
+Loaded 2 hosts from C:\Users\какашка\AppData\Roaming\ZapretTwo\lists\rutor.txt
+Loading hostlist C:\Users\какашка\AppData\Roaming\ZapretTwo\lists\rutracker.txt
+loading plain text list
+Loaded 14 hosts from C:\Users\какашка\AppData\Roaming\ZapretTwo\lists\rutracker.txt
+Loading hostlist C:\Users\какашка\AppData\Roaming\ZapretTwo\lists\soundcloud.txt
+loading plain text list
+Loaded 21 hosts from C:\Users\какашка\AppData\Roaming\ZapretTwo\lists\soundcloud.txt
+Loading hostlist C:\Users\какашка\AppData\Roaming\ZapretTwo\lists\discord.txt
+loading plain text list
+Loaded 43 hosts from C:\Users\какашка\AppData\Roaming\ZapretTwo\lists\discord.txt
+Loading hostlist C:\Users\какашка\AppData\Roaming\ZapretTwo\lists\discord-updates.txt
+loading plain text list
+Loaded 1 hosts from C:\Users\какашка\AppData\Roaming\ZapretTwo\lists\discord-updates.txt
+Loading hostlist C:\Users\какашка\AppData\Roaming\ZapretTwo\lists\googlevideo.txt
+loading plain text list
+Loaded 1 hosts from C:\Users\какашка\AppData\Roaming\ZapretTwo\lists\googlevideo.txt
+Loading hostlist C:\Users\какашка\AppData\Roaming\ZapretTwo\lists\youtube.txt
+loading plain text list
+Loaded 21 hosts from C:\Users\какашка\AppData\Roaming\ZapretTwo\lists\youtube.txt
+Loading ipset C:\Users\какашка\AppData\Roaming\ZapretTwo\lists\ipset-cloudflare.txt
+loading plain text list
+Loaded 130 ip/subnets from C:\Users\какашка\AppData\Roaming\ZapretTwo\lists\ipset-cloudflare.txt
+Loading ipset C:\Users\какашка\AppData\Roaming\ZapretTwo\lists\ipset-twitter.txt
+loading plain text list
+Loaded 15 ip/subnets from C:\Users\какашка\AppData\Roaming\ZapretTwo\lists\ipset-twitter.txt
+Loading ipset C:\Users\какашка\AppData\Roaming\ZapretTwo\lists\ipset-discord.txt
+loading plain text list
+Loaded 58 ip/subnets from C:\Users\какашка\AppData\Roaming\ZapretTwo\lists\ipset-discord.txt
+Loading ipset C:\Users\какашка\AppData\Roaming\ZapretTwo\lists\ipset-all.txt
+loading plain text list
+Loaded 33048 ip/subnets from C:\Users\какашка\AppData\Roaming\ZapretTwo\lists\ipset-all.txt
+Loading ipset C:\Users\какашка\AppData\Roaming\ZapretTwo\lists\ipset-youtube.txt
+loading plain text list
+Loaded 12 ip/subnets from C:\Users\какашка\AppData\Roaming\ZapretTwo\lists\ipset-youtube.txt
+windivert initialized. capture is started.

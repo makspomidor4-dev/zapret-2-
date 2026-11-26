@@ -1,0 +1,951 @@
+﻿=== Zapret 2 GUI Log - Started 2026-11-18 19:48:49 ===
+Log file: zapret_log_2026-11-18_19-48-49.txt
+Total log files in folder: 0
+============================================================
+
+[19:48:49] [INFO] 🛡️ Crash handler установлен (faulthandler + Python exceptions)
+[19:48:49] [🔹 main] === ЗАПУСК ПРИЛОЖЕНИЯ ===
+[19:48:49] [🔹 main] 22.0.0.0
+[19:48:49] [⏱ STARTUP] ⏱ Startup StartupExeToPython: 14ms | 509ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupSettingsDatabase: 59ms | 45ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupShellBootstrap: 63ms | 5ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupQtRuntimeQApplication: 91ms | 17ms
+[19:48:50] 
+[19:48:50] [1;33m📢 Tips:[0m QFluentWidgets Pro is now released. Click [1;96mhttps://qfluentwidgets.com/pages/pro[0m to learn more about it.
+[19:48:50] 
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupQtFluentTranslator: 155ms | 63ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupQtInfoBarDuration: 155ms | 0ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupQtInfoBarLayout: 156ms | 0ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupQtComboPopupGuard: 157ms | 0ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupQtNativeToolTipGuard: 158ms | 1ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupQtAnimationCompat: 158ms | 0ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupQtThemeSignalGuards: 158ms | 0ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupQtFluentIconCache: 158ms | 0ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupQtFluentStyleCache: 159ms | 0ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupQtButtonMotion: 162ms | 3ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupQtAccentSignal: 162ms | 0ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupQtRuntimeReadyHooks: 162ms | 71ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupQtRuntimeEnsure: 162ms | 99ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupQtApplicationIcon: 166ms | 4ms
+[19:48:50] [INFO] 🛡️ Qt crash handler установлен
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupQtCrashHandler: 166ms | 0ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupQtThemeMode: 166ms | 0ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupQtRoundMenuHairlineFix: 166ms | 0ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupQtSmoothScrollPolicy: 166ms | 0ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupQtAccent: 166ms | 0ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupApplicationBootstrap: 167ms | 103ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupApplicationControllerImport: 196ms | 29ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupQtAwesomePolicyReady: 247ms | 51ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupWindowClassImport: 253ms | 6ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupApplicationControllerInit: 253ms | 0ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupFluentWindowSuper: 410ms | 157ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupWindowCtorSuper: 445ms | 192ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupWindowBootstrapWindow: 445ms | 192ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupWindowRegisterAppWindow: 445ms | 0ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupWindowTrayPort: 445ms | 0ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupWindowFeatureDeps: 445ms | 0ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupWindowInitialUiState: 453ms | 8ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupAppRuntimePaths: 453ms | 0ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupAppRuntimeStateAccess: 454ms | 0ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupWindowStateActions: 454ms | 0ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupWindowFeatureDepsFactory: 454ms | 0ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupAppRuntimeFeatureDeps: 454ms | 0ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupFeatureFacadeImport.appearance: 454ms | 0ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupFeatureFacadeImport.blockcheck: 454ms | 1ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupFeatureFacadeImport.dns: 456ms | 1ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupFeatureFacadeImport.dpi_settings: 457ms | 1ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupFeatureFacadeImport.external: 457ms | 1ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupFeatureFacadeImport.fakes: 458ms | 1ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupFeatureFacadeImport.hosts: 459ms | 1ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupFeatureFacadeImport.lists: 459ms | 0ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupFeatureFacadeImport.logs: 460ms | 0ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupFeatureFacadeImport.orchestra: 467ms | 7ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupFeatureFacadeImport.premium: 468ms | 1ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupFeatureFacadeImport.program_settings: 468ms | 0ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupFeatureFacadeImport.runtime: 472ms | 4ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupFeatureFacadeImport.telegram_proxy: 475ms | 3ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupFeatureFacadeImport.tray: 476ms | 1ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupFeatureFacadeImport.updater: 477ms | 1ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupFeatureFacadeImport.window_geometry: 477ms | 0ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupFeatureAssemblyImports: 477ms | 24ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupFeatureAssemblyOrchestra: 477ms | 0ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupFeatureAssemblyPresetProfileImport: 505ms | 27ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupFeatureAssemblyPresets: 505ms | 0ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupFeatureAssemblyProfile: 505ms | 0ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupFeatureAssemblyPresetProfile: 505ms | 27ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupFeatureAssemblyRuntime: 511ms | 6ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupFeatureAssemblyTelegramProxy: 511ms | 0ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupFeatureAssemblyTray: 511ms | 0ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupFeatureAssemblySecondary: 512ms | 0ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupAppRuntimeFeatures: 512ms | 58ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupAppRuntimeBuild: 512ms | 67ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupWindowInitNotifications: 512ms | 0ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupWindowInitPageActions: 512ms | 0ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupWindowInitStartupDeps: 512ms | 0ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupWindowUiRootImport: 538ms | 25ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupWindowUiRootConstruct: 538ms | 0ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupWindowInitUiRootAttach: 538ms | 26ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupWindowInitRestoreGeometry: 538ms | 0ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupWindowAttachRuntime: 538ms | 26ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupWindowUiRootInitialize: 542ms | 0ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupWindowUiRootRuntimeCoordinator: 544ms | 2ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup UI Section: ZAPRET2_MODE_CONTROL __init__.base_page 2ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup UI Section: ZAPRET2_MODE_CONTROL _build_ui.status_card 4ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup UI Section: ZAPRET2_MODE_CONTROL _build_ui.top_summary 12ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup UI Section: ZAPRET2_MODE_CONTROL _build_ui.settings_runtime 2ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup UI Section: ZAPRET2_MODE_CONTROL _build_ui.settings_reload_schedule 0ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup UI Section: ZAPRET2_MODE_CONTROL _build_ui.total 18ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup UI Section: ZAPRET2_MODE_CONTROL __init__.total 28ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupWindowUiRootEagerPages: 583ms | 39ms
+[19:48:50] [INFO] [SIDEBAR] restore: панель развёрнута (width=900)
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupWindowUiRootNavigation: 613ms | 30ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupWindowUiRootStack: 617ms | 0ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupTTFF: 626ms | first showEvent
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupWindowInitShowCall: 638ms | 21ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupInteractive: 638ms | ui_ready, +12ms after StartupTTFF
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupContinueAfterUiReadyQueued: 638ms | 0ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupLateBootstrapShutdownHook: 639ms | 0ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupLateBootstrapAppearance: 640ms | 2ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupLateBootstrapShowBridge: 641ms | 1ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupLateBootstrapDeferredHooks: 648ms | 3ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupLateBootstrapTotal: 648ms | 9ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupFirstPaint: 653ms | first paint
+[19:48:50] [⏱ STARTUP] ⏱ Startup UI Section: ZAPRET2_MODE_CONTROL activation.total 1ms
+[19:48:50] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_MODE_CONTROL stage=open.activation.first elapsed=0ms budget=200ms
+[19:48:50] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_MODE_CONTROL stage=content.ready.first elapsed=0ms budget=200ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupContinueAfterUiReadyDispatch: 689ms | continue_startup_requested
+[19:48:50] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.read elapsed=5ms
+[19:48:50] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.parse elapsed=13ms
+[19:48:50] [INFO] Инициализация компонентов...
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupRuntimeInitQueued: 719ms | 0ms gaps
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupPostInitChecksQueued: 720ms | 6500ms after interactive
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupTelegramProxyPageWarmupQueued: 720ms | 3000ms after interactive
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupSecondaryPageWarmupQueued: 720ms | ZAPRET2_USER_PRESETS 5000ms after interactive
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupSecondaryPageWarmupQueued: 720ms | APPEARANCE 6200ms after interactive
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupSecondaryPageWarmupQueued: 720ms | PREMIUM 7400ms after interactive
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupNetworkDataWarmupQueued: 721ms | 10000ms after interactive
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupHostsPageWarmupQueued: 722ms | 0ms after interactive
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupBackendPageDataWarmupQueued: 722ms | 8000ms after interactive; premium 18000ms after interactive
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupProfileWarmupQueued: 723ms | 0ms current after interactive
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupProfileSetupUiWarmupQueued: 723ms | 1000ms after interactive
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupPresetSetupUiWarmupQueued: 723ms | 2200ms after interactive
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupBuiltinPresetOverrideRefreshQueued: 723ms | all
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupUserPresetContractMigrationQueued: 727ms | zapret2_mode
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupUserPresetsWarmupQueued: 727ms | 8000ms current after interactive; 15000ms secondary after interactive
+[19:48:50] [INFO] Используется winws2.exe для режима zapret2_mode
+[19:48:50] [INFO] Launch runtime API инициализирован
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupStepLaunchRuntimeApi: 742ms | launch runtime API 12ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup UI PageInit TOP: ZAPRET2_MODE_CONTROL=37ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupProfileWarmupStarted: 773ms | zapret2_mode
+[19:48:50] [INFO] Launch runtime инициализирован
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupStepLaunchRuntime: 803ms | launch runtime 19ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupRuntimePhaseTwoQueued: 806ms | 0ms gaps
+[19:48:50] [✅ SUCCESS] Основной startup-контур готов
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupCoreReady: 818ms | startup_coordinator, +180ms after StartupInteractive
+[19:48:50] [INFO] Инициализация завершена
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupStepStartupCoreReady: 819ms | startup core 1ms
+[19:48:50] [INFO] ✅ Инициализация завершена
+[19:48:50] [✅ SUCCESS] Критический startup-контур успешно инициализирован
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupPostInitDeferredScheduled: 820ms | auto, 0ms after post-init
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupDpiAutostart: 821ms | auto, 0ms after post-init
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupPostInitQuickPhase: 821ms | 1ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupPostInit: 822ms | post_init_scheduled:auto, +3ms after StartupCoreReady
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupPostInitTelegramProxyQueued: 822ms | 6500ms after post-init
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupPostInitListsQueued: 823ms | 7500ms after post-init
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupPostInitTrayQueued: 824ms | 1500ms after post-init
+[19:48:50] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.identity elapsed=143ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupDnsAddressMigrationFinished: 862ms | changed=0
+[19:48:50] [WARNING] Не удалось прочитать шапку пресета ALL TCP & UDP hostfakesplit.txt: [Errno 13] Permission denied: 'C:\\Users\\какашка\\AppData\\Roaming\\ZapretTwo\\presets\\winws2\\ALL TCP & UDP hostfakesplit.txt'
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupLocalDnsProxyChecked: 873ms | repaired=0
+[19:48:50] [INFO] Инициализация подписок...
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupPostInitResolveMethod: 979ms | zapret2_mode 0ms
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupPostInitDeferredStart: 979ms | zapret2_mode
+[19:48:50] [INFO] Автозапуск передан в единый DPI runtime-путь: zapret2_mode
+[19:48:50] [INFO] 🚀 Запуск DPI (прямой winws2): Пресет
+[19:48:50] [INFO] Запуск асинхронного старта DPI: Пресет (метод: прямой winws2)
+[19:48:50] [⏱ STARTUP] ⏱ Startup StartupPostInitDeferredDispatch: 982ms | zapret2_mode 3ms
+[19:48:50] [INFO] Используется метод запуска: zapret2_mode
+[19:48:51] [⏱ STARTUP] ⏱ Startup StartupStepThemeManager: 1079ms | theme manager 0ms
+[19:48:51] [INFO] Подписка: Free (уровень: -, дней: None, источник: api, статус: Устройство не привязано)
+[19:48:51] [INFO] Подписка инициализирована
+[19:48:51] [INFO] Process Monitor инициализирован
+[19:48:51] [⏱ STARTUP] ⏱ Startup StartupStepProcessMonitor: 1138ms | process monitor 2ms
+[19:48:51] [INFO] Process-monitor thread started (WinAPI canonical mode)
+[19:48:51] [INFO] Подготовка к запуску...
+[19:48:51] [INFO] Пресет «ALL TCP & UDP discord_urgent_sni.txt» заменён встроенным версии 2.44 (у вашей копии была 2.21); прежняя копия сохранена в presets/replaced
+[19:48:51] [INFO] Пресет «ALL TCP & UDP hostfakesplit.txt» заменён встроенным версии 2.44 (у вашей копии была 2.21); прежняя копия сохранена в presets/replaced
+[19:48:51] [INFO] Пресет «ALL TCP & UDP hostfakesplit_multi_syndata.txt» заменён встроенным версии 2.44 (у вашей копии была 2.21); прежняя копия сохранена в presets/replaced
+[19:48:51] [INFO] Пресет «Gaming (game filter).txt» заменён встроенным версии 2.44 (у вашей копии была 2.21); прежняя копия сохранена в presets/replaced
+[19:48:51] [INFO] Пресет «Send + Syndata (game filter).txt» заменён встроенным версии 2.44 (у вашей копии была 2.25); прежняя копия сохранена в presets/replaced
+[19:48:51] [INFO] Пресет «Syndata + MultiDisorder legacy (game filter).txt» заменён встроенным версии 2.44 (у вашей копии была 2.21); прежняя копия сохранена в presets/replaced
+[19:48:51] [INFO] Пресет «Ultimate Main Riot + Valorant (game filter).txt» заменён встроенным версии 2.44 (у вашей копии была 2.21); прежняя копия сохранена в presets/replaced
+[19:48:51] [INFO] Пресет «YTDisBystro_34_Amazon1.txt» заменён встроенным версии 1.2 (у вашей копии была без номера); прежняя копия сохранена в presets/replaced
+[19:48:51] [⏱ STARTUP] Notification received: source=presets.builtin_update, level=info, queue=startup
+[19:48:51] [⏱ STARTUP] Notification presenting: source=presets.builtin_update, presentation=infobar
+[19:48:51] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=4ms
+[19:48:51] [INFO] Запуск из preset файла: C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2_builtin\Default v1 (game filter).txt
+[19:48:51] [INFO] Запуск DPI...
+[19:48:51] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.templates.load elapsed=21ms
+[19:48:51] [INFO] Winws2StrategyRunner initialized. exe: C:\Users\какашка\AppData\Roaming\ZapretTwo\exe\winws2.exe
+[19:48:51] [INFO] Winws2StrategyRunner initialized
+[19:48:51] [INFO] Starting: starting from preset C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2_builtin\Default v1 (game filter).txt
+[19:48:51] [INFO] Winws2 launch command: C:\Users\какашка\AppData\Roaming\ZapretTwo\exe\winws2.exe @C:\Users\какашка\AppData\Roaming\ZapretTwo\user\tmp\winws2_at_config\winws2_at_ca8ab0f8f2ed56f71fca.txt
+[19:48:51] [INFO] Winws2 launch cwd: C:\Users\какашка\AppData\Roaming\ZapretTwo
+[19:48:51] [INFO] Winws2 launch @config: path=C:\Users\какашка\AppData\Roaming\ZapretTwo\user\tmp\winws2_at_config\winws2_at_ca8ab0f8f2ed56f71fca.txt, bytes=18669, sha1=c7ef14f8562e4fbba8a24e64b1a842f3d8fdbf1c, source=C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2_builtin\Default v1 (game filter).txt
+[19:48:51] [INFO] Strategy: Пресет: Default v1 (game filter)
+[19:48:51] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.strategy_catalogs.load elapsed=61ms
+[19:48:51] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.sources.build elapsed=5ms
+[19:48:51] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.profile_list_item.build elapsed=53ms
+[19:48:51] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.total elapsed=162ms
+[19:48:51] [⏱ UI] ⏱ UiMetric: scope=warmup name=zapret2_mode stage=profile_warmup.list_profiles elapsed=162ms
+[19:48:51] [INFO] [UPDATE] Имена сайтов проекта: git3.zapret.moe ответило за 0.7 с; список имён: git.zapret.moe, ohwbjkqcft.zapret.moe, cwdnvtsqdc.zapret.moe, git2.zapret.moe, git3.zapret.moe, git4.zapret.moe, git5.zapret.moe, git6.zapret.moe
+[19:48:51] [⏱ UI] ⏱ UiMetric: scope=warmup name=zapret2_mode stage=profile_warmup.view_state elapsed=24ms
+[19:48:51] [⏱ UI] ⏱ UiMetric: scope=warmup name=zapret2_mode stage=profile.full elapsed=194ms
+[19:48:51] [⏱ STARTUP] ⏱ Startup StartupHostsPageWarmupStarted: 1649ms | backend_cache
+[19:48:51] [⏱ STARTUP] ⏱ Startup StartupStepCoreStartup: 1649ms | core startup 30ms
+[19:48:51] [INFO] Файл hosts успешно прочитан с кодировкой: utf-8
+[19:48:51] [INFO] Hosts, проверка адресов: проверено 0, изменилось: False.
+[19:48:51] [⏱ STARTUP] ⏱ Startup StartupHostsAddressCheckFinished: 1660ms | checked=0 changed=False
+[19:48:51] [⏱ UI] ⏱ UiMetric: scope=warmup name=hosts stage=hosts_warmup.snapshot elapsed=32ms
+[19:48:51] [⏱ STARTUP] ⏱ Startup StartupHostsPageWarmupFinished: 1681ms | backend_cache
+[19:48:51] [⏱ UI] ⏱ UiMetric: scope=warmup name=hosts stage=backend_page_data elapsed=32ms
+[19:48:51] [⏱ STARTUP] ⏱ Startup StartupHostsAppliedSelectionRefreshFinished: 1682ms | changed=False (блока ZapretGUI в hosts нет)
+[19:48:51] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[19:48:52] [SUCCESS] Strategy 'Пресет: Default v1 (game filter)' started from preset (PID: 4380)
+[19:48:52] [✅ SUCCESS] Пресет 'Пресет: Default v1 (game filter)' успешно запущен
+[19:48:52] [⏱ UI] ⏱ UiMetric: scope=worker name=dpi stage=dpi_start.run elapsed=1177ms
+[19:48:52] [INFO] DPI запущен асинхронно
+[19:48:52] [INFO] ✅ DPI успешно запущен
+[19:48:52] [INFO] [UPDATE] Имена сайтов проекта: wiki3.zapret.moe ответило за 1.3 с; список имён: wiki.zapret.moe, dqcgtipanq.zapret.moe, jzesawgjsz.zapret.moe, wiki2.zapret.moe, wiki3.zapret.moe, wiki4.zapret.moe, wiki5.zapret.moe, wiki6.zapret.moe
+[19:48:52] [INFO] Системный трей инициализирован
+[19:48:52] [⏱ STARTUP] ⏱ Startup StartupTrayInit: 2401ms | 67ms
+[19:48:52] [⏱ UI] ⏱ UiMetric: scope=warmup name=zapret2_mode stage=profile_warmup.strategy_usage elapsed=762ms
+[19:48:52] [⏱ STARTUP] ⏱ Startup StartupImportWarmupFinished: 2451ms | asyncio, requests, psutil, telegram_proxy.runtime.commands, telegram_proxy.manager, tray
+[19:48:52] [⏱ STARTUP] ⏱ Startup StartupQtScrollStyle: 2642ms | 0ms | skipped: scrollbars already permanent
+[19:48:52] [INFO] Показан обучающий тур первого запуска
+[19:48:52] [⏱ STARTUP] ⏱ Startup OnboardingTourShown: 2836ms | attempt=0
+[19:48:52] [INFO] Проверка обновлений...
+[19:48:52] [🔁 UPDATE] Автоматическая проверка обновлений...
+[19:48:53] [⏱ STARTUP] ⏱ Startup StartupProfileSetupUiWarmupFinished: 3804ms | ZAPRET2_PROFILE_SETUP
+[19:48:53] [⏱ UI] ⏱ UiMetric: scope=warmup name=ZAPRET2_PROFILE_SETUP stage=ui_page.profile_setup elapsed=82ms
+[19:48:54] [⏱ STARTUP] ⏱ Startup StartupPresetSetupUiWarmupFinished: 4239ms | ZAPRET2_PRESET_SETUP
+[19:48:54] [⏱ UI] ⏱ UiMetric: scope=warmup name=ZAPRET2_PRESET_SETUP stage=ui_page.preset_setup elapsed=32ms
+[19:48:54] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=0ms
+[19:48:54] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.cached elapsed=5ms
+[19:48:54] [⏱ UI] ⏱ UiMetric: scope=worker name=profile_list stage=profile_feature.worker.list_profiles.total elapsed=12ms
+[19:48:54] [⏱ UI] ⏱ UiMetric: scope=ui name=Zapret2PresetSetupPage stage=profile_ui.profile_list.build elapsed=1ms detail=119 items
+[19:48:54] [⏱ UI] ⏱ UiMetric: scope=ui name=Zapret2PresetSetupPage stage=profile_ui.apply_payload.total elapsed=14ms
+[19:48:54] [⏱ STARTUP] ⏱ Startup StartupTelegramProxyPageWarmupFinished: 4728ms | ui_page
+[19:48:54] [⏱ UI] ⏱ UiMetric: scope=warmup name=TELEGRAM_PROXY stage=ui_page.telegram_proxy elapsed=85ms
+[19:48:55] [⏱ STARTUP] ⏱ Startup StartupSecondaryPageWarmupFinished: 5774ms | ZAPRET2_USER_PRESETS
+[19:48:55] [⏱ UI] ⏱ UiMetric: scope=warmup name=ZAPRET2_USER_PRESETS stage=ui_page.secondary.zapret2_user_presets elapsed=44ms
+[19:48:56] [🔄 RELEASE] ✅ Зеркало VPS Update (Новый основной) (HTTPS): выпуск 22.0.0.0
+[19:48:56] [🔁 UPDATE] Обновлений нет (v22.0.0.0)
+[19:48:56] [INFO] Обновлений нет, установлена версия 22.0.0.0
+[19:48:56] [⏱ STARTUP] Notification received: source=startup.update_check, level=success, queue=immediate
+[19:48:56] [⏱ STARTUP] Notification presenting: source=startup.update_check, presentation=infobar
+[19:48:56] [⏱ STARTUP] ⏱ Startup StartupPostInitMaintenanceStarted: 6830ms | telega_association_worker
+[19:48:56] [⏱ STARTUP] Telega deferred check: found=no
+[19:48:56] [⏱ STARTUP] Deferred maintenance notifications collected: count=0
+[19:48:56] [⏱ STARTUP] ⏱ Startup StartupPostInitMaintenanceFinished: 6841ms | 10ms
+[19:48:56] [⏱ STARTUP] ⏱ Startup StartupSecondaryPageWarmupFinished: 6964ms | APPEARANCE
+[19:48:56] [⏱ UI] ⏱ UiMetric: scope=warmup name=APPEARANCE stage=ui_page.secondary.appearance elapsed=41ms
+[19:48:56] [⏱ STARTUP] ⏱ Startup StartupInstallationIntegrity: 6979ms | 153 файлов, deep=False
+[19:48:57] [⏱ STARTUP] ⏱ Startup StartupPostInitChecksStarted: 7209ms | startup_checks_worker
+[19:48:57] [🧹 bfe_util] Выполняется проверка службы Base Filtering Engine (BFE)
+[19:48:57] [☑ INFO] Все системные команды доступны
+[19:48:57] [CHECK_START] Application path: C:\Users\какашка\AppData\Roaming\ZapretTwo
+[19:48:57] [⏱ STARTUP] Startup notifications collected: count=0
+[19:48:57] [⏱ STARTUP] Kaspersky startup check: detected=no
+[19:48:57] [⏱ STARTUP] ⏱ Startup StartupPostInitChecksFinished: 7246ms | 36ms
+[19:48:57] [🔹 main] ✅ Все проверки пройдены
+[19:48:57] [INFO] Telegram Proxy включён и запланирован после старта приложения
+[19:48:58] [⏱ STARTUP] ⏱ Startup StartupSecondaryPageWarmupFinished: 8160ms | PREMIUM
+[19:48:58] [⏱ UI] ⏱ UiMetric: scope=warmup name=PREMIUM stage=ui_page.secondary.premium elapsed=40ms
+[19:48:58] [HOSTLISTS] === Проверка хостлистов при запуске ===
+[19:48:58] [INFO] other.txt: 183 строк, user: 0
+[19:48:58] [IPSETS] === Проверка IPsets при запуске ===
+[19:48:58] [INFO] ipset-all.txt: 33048 строк, user: 0
+[19:48:58] [INFO] ipset-ru.txt: 658 строк, user: 0
+[19:48:58] [SUCCESS] ✅ Hostlist-файлы проверены и готовы
+[19:48:58] [SUCCESS] ✅ IPset-файлы проверены и готовы
+[19:48:58] [⏱ STARTUP] ⏱ Startup StartupUserPresetsWarmupStarted: 8721ms | zapret2_mode
+[19:48:58] [⏱ STARTUP] ⏱ Startup StartupBackendPageDataWarmupStarted: 8721ms | appearance, logs
+[19:48:58] [⏱ UI] ⏱ UiMetric: scope=warmup name=zapret2_mode stage=user_presets.metadata elapsed=6ms detail=137 presets
+[19:48:58] [⏱ UI] ⏱ UiMetric: scope=warmup name=Appearance stage=backend_page_data elapsed=0ms
+[19:48:58] [⏱ UI] ⏱ UiMetric: scope=warmup name=Logs stage=backend_page_data elapsed=4ms
+[19:48:58] [🔄 RELEASE] ✅ Forgejo: выпуск 22.0.0.0 (6.05 с)
+[19:48:59] [INFO] Telegram Proxy: перезапуск для применения настроек
+[19:49:00] [⏱ STARTUP] ⏱ Startup StartupPostInitNetworkDataWarmupStarted: 10723ms | backend_cache
+[19:49:00] [⏱ UI] ⏱ UiMetric: scope=warmup name=network stage=backend_page_data elapsed=6ms
+[19:49:02] [WARNING] 🛑 Остановка DPI (прямой winws2)...
+[19:49:02] [INFO] Запуск асинхронной остановки DPI (метод: прямой winws2)
+[19:49:02] [WARNING] Остановка DPI...
+[19:49:02] [INFO] Завершение процессов...
+[19:49:02] [INFO] Sync runtime shutdown requested: preset_stop_worker:zapret2_mode
+[19:49:02] [INFO] Stopping strategy 'Пресет: Default v1 (game filter)' (PID: 4380)
+[19:49:02] [SUCCESS] Process stopped, exit confirmed (PID: 4380)
+[19:49:02] [INFO] Драйвер Monkey выгружен, запись службы убрана
+[19:49:02] [⏱ UI] ⏱ UiMetric: scope=worker name=dpi stage=dpi_stop.run elapsed=118ms
+[19:49:02] [INFO] DPI остановлен асинхронно
+[19:49:02] [INFO] ✅ DPI успешно остановлен
+[19:49:02] [INFO] DPI успешно остановлен
+[19:49:03] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=open.navigation.first elapsed=5ms budget=200ms
+[19:49:03] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=open.activation.first elapsed=5ms budget=200ms
+[19:49:03] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=content.ready.first elapsed=14ms budget=200ms
+[19:49:03] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.metadata.read elapsed=5ms detail=137 presets
+[19:49:03] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.build elapsed=6ms detail=137 presets
+[19:49:03] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.apply elapsed=8ms
+[19:49:05] [⏱ STARTUP] ⏱ Startup StartupUserPresetsWarmupStarted: 15721ms | zapret1_mode
+[19:49:05] [⏱ UI] ⏱ UiMetric: scope=warmup name=zapret1_mode stage=user_presets.metadata elapsed=4ms detail=172 presets
+[19:49:08] [⏱ STARTUP] ⏱ Startup StartupBackendPageDataWarmupStarted: 18721ms | premium
+[19:49:08] [⏱ UI] ⏱ UiMetric: scope=warmup name=Premium stage=backend_page_data elapsed=53ms
+[19:49:15] [⏱ STARTUP] ⏱ Startup RemotePresetsSyncQueued: 25729ms | startup
+[19:49:24] [⏱ UI] ⏱ UiMetric: scope=page name=LOGS stage=open.navigation.first elapsed=21ms budget=160ms
+[19:49:24] [⏱ UI] ⏱ UiMetric: scope=page name=LOGS stage=open.activation.first elapsed=0ms budget=160ms
+[19:49:24] [⏱ UI] ⏱ UiMetric: scope=page name=LOGS stage=content.ready.first elapsed=23ms budget=160ms
+[19:49:24] [⏱ UI] ⏱ UiMetric: scope=page name=ABOUT stage=open.navigation.first elapsed=48ms budget=160ms
+[19:49:24] [⏱ UI] ⏱ UiMetric: scope=page name=ABOUT stage=open.activation.first elapsed=0ms budget=160ms
+[19:49:24] [⏱ UI] ⏱ UiMetric: scope=page name=ABOUT stage=content.ready.first elapsed=50ms budget=160ms
+[19:49:44] [⏱ UI] ⏱ UiMetric: scope=page name=DPI_SETTINGS stage=open.navigation.first elapsed=22ms budget=120ms
+[19:49:44] [⏱ UI] ⏱ UiMetric: scope=page name=DPI_SETTINGS stage=open.activation.first elapsed=1ms budget=120ms
+[19:49:44] [⏱ UI] ⏱ UiMetric: scope=page name=DPI_SETTINGS stage=content.ready.first elapsed=24ms budget=120ms
+[19:49:46] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_MODE_CONTROL stage=open.activation.repeat elapsed=0ms budget=40ms
+[19:49:46] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_MODE_CONTROL stage=content.ready.first elapsed=0ms budget=200ms
+[19:49:47] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=open.navigation.repeat elapsed=2ms budget=120ms
+[19:49:47] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=open.activation.repeat elapsed=0ms budget=40ms
+[19:49:47] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=content.ready.repeat elapsed=3ms budget=40ms
+[19:50:08] [INFO] Пресет переключен: zapret preset Bryansk fix.txt
+[19:50:08] [⏱ UI] ⏱ UiMetric: scope=worker name=presets stage=preset_activate.run elapsed=14ms
+[19:50:08] [INFO] Активирован пресет 'zapret preset Bryansk fix'
+[19:50:08] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.read elapsed=2ms
+[19:50:08] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.parse elapsed=1ms
+[19:50:08] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.identity elapsed=9ms
+[19:50:08] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=0ms
+[19:50:08] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.templates.load elapsed=0ms
+[19:50:08] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.strategy_catalogs.load elapsed=1ms
+[19:50:08] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.sources.build elapsed=2ms
+[19:50:08] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.profile_list_item.build elapsed=15ms
+[19:50:08] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.total elapsed=46ms
+[19:50:08] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=2ms
+[19:50:08] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.cached elapsed=6ms
+[19:50:08] [⏱ UI] ⏱ UiMetric: scope=worker name=profile_list stage=profile_feature.worker.list_profiles.total elapsed=62ms
+[19:50:08] [⏱ UI] ⏱ UiMetric: scope=ui name=Zapret2PresetSetupPage stage=profile_ui.apply_payload.total elapsed=1ms
+[19:50:10] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_MODE_CONTROL stage=open.activation.repeat elapsed=0ms budget=40ms
+[19:50:10] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_MODE_CONTROL stage=content.ready.first elapsed=0ms budget=200ms
+[19:50:13] [INFO] 🚀 Запуск DPI (прямой winws2): Пресет
+[19:50:13] [INFO] Запуск асинхронного старта DPI: Пресет (метод: прямой winws2)
+[19:50:13] [INFO] Используется метод запуска: zapret2_mode
+[19:50:13] [INFO] Используется выбранный source-пресет: C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2\zapret preset Bryansk fix.txt
+[19:50:13] [INFO] Подготовка к запуску...
+[19:50:13] [INFO] Запуск из preset файла: C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2\zapret preset Bryansk fix.txt
+[19:50:13] [INFO] Запуск DPI...
+[19:50:13] [INFO] Winws2StrategyRunner initialized. exe: C:\Users\какашка\AppData\Roaming\ZapretTwo\exe\winws2.exe
+[19:50:13] [INFO] Winws2StrategyRunner initialized
+[19:50:13] [WARNING] Preset содержит ссылки на отсутствующие файлы (5), например: --lua-init=zapret-lib.lua
+[19:50:13] [WARNING] - --lua-init=zapret-lib.lua  (ожидается: C:\Users\какашка\AppData\Roaming\ZapretTwo\zapret-lib.lua)
+[19:50:13] [WARNING] - --lua-init=zapret-antidpi.lua  (ожидается: C:\Users\какашка\AppData\Roaming\ZapretTwo\zapret-antidpi.lua)
+[19:50:13] [WARNING] - --hostlist=lists/list-general-user.txt  (ожидается: C:\Users\какашка\AppData\Roaming\ZapretTwo\lists\list-general-user.txt)
+[19:50:13] [WARNING] - --hostlist-exclude=lists/list-exclude-user.txt  (ожидается: C:\Users\какашка\AppData\Roaming\ZapretTwo\lists\list-exclude-user.txt)
+[19:50:13] [WARNING] - --ipset-exclude=lists/ipset-exclude-user.txt  (ожидается: C:\Users\какашка\AppData\Roaming\ZapretTwo\lists\ipset-exclude-user.txt)
+[19:50:13] [ERROR] Preset содержит ссылки на отсутствующие файлы (5), например: --lua-init=zapret-lib.lua
+[19:50:13] [❌ ERROR] Не удалось запустить пресет: Preset содержит ссылки на отсутствующие файлы (5), например: --lua-init=zapret-lib.lua
+[19:50:13] [⏱ UI] ⏱ UiMetric: scope=worker name=dpi stage=dpi_start.run elapsed=37ms
+[19:50:13] [⏱ STARTUP] Notification received: source=launch.dpi_error, level=error, queue=immediate
+[19:50:13] [⏱ STARTUP] Notification presenting: source=launch.dpi_error, presentation=infobar
+[19:50:13] [⏱ STARTUP] Notification received: source=launch.dpi_error, level=error, queue=immediate
+[19:50:13] [⏱ STARTUP] Notification skipped as duplicate: source=launch.dpi_error
+[19:50:13] [❌ ERROR] Ошибка асинхронного запуска DPI: Preset содержит ссылки на отсутствующие файлы (5), например: --lua-init=zapret-lib.lua
+[19:50:13] [WARNING] ❌ Ошибка запуска: Preset содержит ссылки на отсутствующие файлы (5), например: --lua-init=zapret-lib.lua
+[19:50:13] [⏱ STARTUP] Notification received: source=launch.dpi_error, level=error, queue=immediate
+[19:50:13] [⏱ STARTUP] Notification skipped as duplicate: source=launch.dpi_error
+[19:50:13] [INFO] ❌ Preset содержит ссылки на отсутствующие файлы (5), например: --lua-init=zapret-lib.lua
+[19:50:13] [INFO] Preset содержит ссылки на отсутствующие файлы (5), например: --lua-init=zapret-lib.lua
+[19:50:43] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=open.navigation.repeat elapsed=2ms budget=120ms
+[19:50:43] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=open.activation.repeat elapsed=0ms budget=40ms
+[19:50:43] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=content.ready.repeat elapsed=3ms budget=40ms
+[19:50:45] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_PRESET_RAW_EDITOR stage=open.navigation.first elapsed=4ms budget=200ms
+[19:50:45] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_PRESET_RAW_EDITOR stage=open.activation.first elapsed=0ms budget=200ms
+[19:50:45] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_PRESET_RAW_EDITOR stage=content.ready.first elapsed=11ms budget=200ms
+[19:50:50] [⏱ UI] ⏱ UiMetric: scope=worker name=presets stage=preset_save.run elapsed=21ms
+[19:50:52] [⏱ UI] ⏱ UiMetric: scope=worker name=presets stage=preset_save.run elapsed=13ms
+[19:50:52] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.read elapsed=3ms
+[19:50:52] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.parse elapsed=2ms
+[19:50:52] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.identity elapsed=5ms
+[19:50:52] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=0ms
+[19:50:52] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.templates.load elapsed=0ms
+[19:50:52] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.strategy_catalogs.load elapsed=1ms
+[19:50:52] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.sources.build elapsed=3ms
+[19:50:52] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.profile_list_item.build elapsed=3ms
+[19:50:52] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.total elapsed=22ms
+[19:50:52] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=0ms
+[19:50:52] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.cached elapsed=4ms
+[19:50:52] [⏱ UI] ⏱ UiMetric: scope=worker name=profile_list stage=profile_feature.worker.list_profiles.total elapsed=26ms
+[19:50:52] [⏱ UI] ⏱ UiMetric: scope=ui name=Zapret2PresetSetupPage stage=profile_ui.apply_payload.total elapsed=1ms
+[19:50:55] [INFO] 🚀 Запуск DPI (прямой winws2): Пресет
+[19:50:55] [INFO] Запуск асинхронного старта DPI: Пресет (метод: прямой winws2)
+[19:50:55] [INFO] Используется метод запуска: zapret2_mode
+[19:50:55] [INFO] Используется выбранный source-пресет: C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2\zapret preset Bryansk fix.txt
+[19:50:55] [INFO] Подготовка к запуску...
+[19:50:55] [INFO] Запуск из preset файла: C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2\zapret preset Bryansk fix.txt
+[19:50:55] [INFO] Запуск DPI...
+[19:50:55] [WARNING] Preset содержит ссылки на отсутствующие файлы (3), например: --hostlist=lists/list-general-user.txt
+[19:50:55] [WARNING] - --hostlist=lists/list-general-user.txt  (ожидается: C:\Users\какашка\AppData\Roaming\ZapretTwo\lists\list-general-user.txt)
+[19:50:55] [WARNING] - --hostlist-exclude=lists/list-exclude-user.txt  (ожидается: C:\Users\какашка\AppData\Roaming\ZapretTwo\lists\list-exclude-user.txt)
+[19:50:55] [WARNING] - --ipset-exclude=lists/ipset-exclude-user.txt  (ожидается: C:\Users\какашка\AppData\Roaming\ZapretTwo\lists\ipset-exclude-user.txt)
+[19:50:55] [ERROR] Preset содержит ссылки на отсутствующие файлы (3), например: --hostlist=lists/list-general-user.txt
+[19:50:55] [❌ ERROR] Не удалось запустить пресет: Preset содержит ссылки на отсутствующие файлы (3), например: --hostlist=lists/list-general-user.txt
+[19:50:55] [⏱ STARTUP] Notification received: source=launch.dpi_error, level=error, queue=immediate
+[19:50:55] [⏱ UI] ⏱ UiMetric: scope=worker name=dpi stage=dpi_start.run elapsed=30ms
+[19:50:55] [⏱ STARTUP] Notification presenting: source=launch.dpi_error, presentation=infobar
+[19:50:55] [⏱ STARTUP] Notification received: source=launch.dpi_error, level=error, queue=immediate
+[19:50:55] [⏱ STARTUP] Notification skipped as duplicate: source=launch.dpi_error
+[19:50:55] [❌ ERROR] Ошибка асинхронного запуска DPI: Preset содержит ссылки на отсутствующие файлы (3), например: --hostlist=lists/list-general-user.txt
+[19:50:55] [WARNING] ❌ Ошибка запуска: Preset содержит ссылки на отсутствующие файлы (3), например: --hostlist=lists/list-general-user.txt
+[19:50:55] [⏱ STARTUP] Notification received: source=launch.dpi_error, level=error, queue=immediate
+[19:50:55] [⏱ STARTUP] Notification skipped as duplicate: source=launch.dpi_error
+[19:50:55] [INFO] ❌ Preset содержит ссылки на отсутствующие файлы (3), например: --hostlist=lists/list-general-user.txt
+[19:50:55] [INFO] Preset содержит ссылки на отсутствующие файлы (3), например: --hostlist=lists/list-general-user.txt
+[19:51:08] [INFO] 🚀 Запуск DPI (прямой winws2): Пресет
+[19:51:08] [INFO] Запуск асинхронного старта DPI: Пресет (метод: прямой winws2)
+[19:51:08] [INFO] Используется метод запуска: zapret2_mode
+[19:51:08] [INFO] Используется выбранный source-пресет: C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2\zapret preset Bryansk fix.txt
+[19:51:08] [INFO] Подготовка к запуску...
+[19:51:08] [INFO] Запуск из preset файла: C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2\zapret preset Bryansk fix.txt
+[19:51:08] [INFO] Запуск DPI...
+[19:51:08] [WARNING] Preset содержит ссылки на отсутствующие файлы (3), например: --hostlist=lists/list-general-user.txt
+[19:51:08] [WARNING] - --hostlist=lists/list-general-user.txt  (ожидается: C:\Users\какашка\AppData\Roaming\ZapretTwo\lists\list-general-user.txt)
+[19:51:08] [WARNING] - --hostlist-exclude=lists/list-exclude-user.txt  (ожидается: C:\Users\какашка\AppData\Roaming\ZapretTwo\lists\list-exclude-user.txt)
+[19:51:08] [WARNING] - --ipset-exclude=lists/ipset-exclude-user.txt  (ожидается: C:\Users\какашка\AppData\Roaming\ZapretTwo\lists\ipset-exclude-user.txt)
+[19:51:08] [ERROR] Preset содержит ссылки на отсутствующие файлы (3), например: --hostlist=lists/list-general-user.txt
+[19:51:08] [❌ ERROR] Не удалось запустить пресет: Preset содержит ссылки на отсутствующие файлы (3), например: --hostlist=lists/list-general-user.txt
+[19:51:08] [⏱ UI] ⏱ UiMetric: scope=worker name=dpi stage=dpi_start.run elapsed=27ms
+[19:51:08] [⏱ STARTUP] Notification received: source=launch.dpi_error, level=error, queue=immediate
+[19:51:08] [⏱ STARTUP] Notification presenting: source=launch.dpi_error, presentation=infobar
+[19:51:08] [⏱ STARTUP] Notification received: source=launch.dpi_error, level=error, queue=immediate
+[19:51:08] [⏱ STARTUP] Notification skipped as duplicate: source=launch.dpi_error
+[19:51:08] [❌ ERROR] Ошибка асинхронного запуска DPI: Preset содержит ссылки на отсутствующие файлы (3), например: --hostlist=lists/list-general-user.txt
+[19:51:08] [WARNING] ❌ Ошибка запуска: Preset содержит ссылки на отсутствующие файлы (3), например: --hostlist=lists/list-general-user.txt
+[19:51:08] [⏱ STARTUP] Notification received: source=launch.dpi_error, level=error, queue=immediate
+[19:51:08] [⏱ STARTUP] Notification skipped as duplicate: source=launch.dpi_error
+[19:51:08] [INFO] ❌ Preset содержит ссылки на отсутствующие файлы (3), например: --hostlist=lists/list-general-user.txt
+[19:51:08] [INFO] Preset содержит ссылки на отсутствующие файлы (3), например: --hostlist=lists/list-general-user.txt
+[19:51:26] [⏱ UI] ⏱ UiMetric: scope=worker name=presets stage=preset_save.run elapsed=24ms
+[19:51:27] [⏱ UI] ⏱ UiMetric: scope=worker name=presets stage=preset_save.run elapsed=14ms
+[19:51:27] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.read elapsed=4ms
+[19:51:27] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.parse elapsed=1ms
+[19:51:27] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.identity elapsed=6ms
+[19:51:27] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=0ms
+[19:51:27] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.templates.load elapsed=0ms
+[19:51:27] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.strategy_catalogs.load elapsed=1ms
+[19:51:27] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.sources.build elapsed=2ms
+[19:51:27] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.profile_list_item.build elapsed=3ms
+[19:51:27] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.total elapsed=21ms
+[19:51:27] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=0ms
+[19:51:27] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.cached elapsed=4ms
+[19:51:27] [⏱ UI] ⏱ UiMetric: scope=worker name=profile_list stage=profile_feature.worker.list_profiles.total elapsed=30ms
+[19:51:27] [⏱ UI] ⏱ UiMetric: scope=ui name=Zapret2PresetSetupPage stage=profile_ui.apply_payload.total elapsed=1ms
+[19:51:27] [⏱ UI] ⏱ UiMetric: scope=worker name=presets stage=preset_save.run elapsed=14ms
+[19:51:27] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=0ms
+[19:51:27] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.cached elapsed=5ms
+[19:51:27] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=0ms
+[19:51:27] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.cached elapsed=2ms
+[19:51:27] [⏱ UI] ⏱ UiMetric: scope=worker name=profile_list stage=profile_feature.worker.list_profiles.total elapsed=10ms
+[19:51:28] [INFO] 🚀 Запуск DPI (прямой winws2): Пресет
+[19:51:28] [INFO] Запуск асинхронного старта DPI: Пресет (метод: прямой winws2)
+[19:51:28] [INFO] Используется метод запуска: zapret2_mode
+[19:51:28] [INFO] Используется выбранный source-пресет: C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2\zapret preset Bryansk fix.txt
+[19:51:28] [INFO] Подготовка к запуску...
+[19:51:28] [INFO] Запуск из preset файла: C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2\zapret preset Bryansk fix.txt
+[19:51:28] [INFO] Запуск DPI...
+[19:51:28] [INFO] Starting: starting from preset C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2\zapret preset Bryansk fix.txt
+[19:51:28] [INFO] Winws2 launch command: C:\Users\какашка\AppData\Roaming\ZapretTwo\exe\winws2.exe @C:\Users\какашка\AppData\Roaming\ZapretTwo\user\tmp\winws2_at_config\winws2_at_911fd692251ec7c0947a.txt
+[19:51:28] [INFO] Winws2 launch cwd: C:\Users\какашка\AppData\Roaming\ZapretTwo
+[19:51:28] [INFO] Winws2 launch @config: path=C:\Users\какашка\AppData\Roaming\ZapretTwo\user\tmp\winws2_at_config\winws2_at_911fd692251ec7c0947a.txt, bytes=3043, sha1=49dfd36fc2191b595e0d9f5917e22c713803db74, source=C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2\zapret preset Bryansk fix.txt
+[19:51:28] [INFO] Strategy: Пресет: zapret preset Bryansk fix
+[19:51:28] [WARNING] Preset dry-run failed before winws2 start (code: 1): @<config_file>|$<config_file>				; read file for options. must be the only argument. other options are ignored.
+[19:51:28] [WARNING] winws2 startup output (8654 B): github version v1.0.6-40-g8abcf55-native (8abcf5516be36a7ae8fa7cd15051522f81f63567) lua_compat_ver 6 |  |  @<config_file>|$<config_file>				; read file for options. must be the only argument. other options are ignored. |  |  --debug=0|1|syslog|@<filename> |  --version						; print version and exit |  --dry-run						; verify parameters and exit with code 0 if successful |  --comment=any_text |  --intercept=0|1					; enable interception. if disabled - run lua-init and exit |  --daemon						; daemonize |  --chdir[=path]						; change current directory. if no path specified use EXEDIR |  --pidfile=<filename>					; write pid to file |  --ctrack-timeouts=S:E:F[:U]				; internal conntrack timeouts for TCP SYN, ESTABLISHED, FIN stages, UDP timeout. default 60:300:60:60 |  --ctrack-disable=[0|1]					; 1 or no argument disables conntrack |  --payload-disable=[type[,type]]			; do not discover these payload types. for available payload types see '--payload'. disable all if no argument. |  --server=[0|1]						; change multiple aspects of src/dst ip/port handling for incoming connections |  --ipcache-lifetime=<int>				; time in seconds to keep cached hop count and domain name (default 7200). 0 = no expiration |  --ipcache-hostname=[0|1]				; 1 or no argument enables ip->hostname caching |  --reasm-disable=[type[,type]]				; disable reasm for these L7 payloads : tls_client_hello quic_initial . if no argument - disable all reasm. |  | WINDIVERT FILTER: |  --wf-iface=<int>[.<int>]				; numeric network interface and subinterface indexes |  --wf-l3=ipv4|ipv6					; L3 protocol filter. multiple comma separated values allowed. |  --wf-tcp-in=[~]port1[-port2]				; TCP in port filter. ~ means negation. multiple comma separated values allowed. |  --wf-tcp-out=[~]port1[-port2]				; TCP out port filter. ~ means negation. multiple comma separated values allowed. |  --wf-udp-in=[~]port1[-port2]				; UDP in port filter. ~ means negation. multiple comma separated values allowed. |  --wf-udp-out=[~]port1[-port2]				; UDP out port filter. ~ means ne […]
+[19:51:28] [ERROR] Проверка пресета через winws2 не прошла (код 1): @<config_file>|$<config_file>				; read file for options. must be the only argument. other options are ignored.
+[19:51:28] [❌ ERROR] Не удалось запустить пресет: Проверка пресета через winws2 не прошла (код 1): @<config_file>|$<config_file>				; read file for options. must be the only argument. other options are ignored.
+[19:51:28] [⏱ STARTUP] Notification received: source=global_logger, level=error, queue=immediate
+[19:51:28] [⏱ UI] ⏱ UiMetric: scope=worker name=dpi stage=dpi_start.run elapsed=77ms
+[19:51:28] [⏱ STARTUP] Notification presenting: source=global_logger, presentation=infobar
+[19:51:28] [⏱ STARTUP] Notification received: source=launch.dpi_error, level=error, queue=immediate
+[19:51:28] [⏱ STARTUP] Notification presenting: source=launch.dpi_error, presentation=infobar
+[19:51:28] [⏱ STARTUP] Notification received: source=launch.dpi_error, level=error, queue=immediate
+[19:51:28] [⏱ STARTUP] Notification skipped as duplicate: source=launch.dpi_error
+[19:51:28] [❌ ERROR] Ошибка асинхронного запуска DPI: Проверка пресета через winws2 не прошла (код 1): @<config_file>|$<config_file>				; read file for options. must be the only argument. other options are ignored.
+[19:51:28] [WARNING] ❌ Ошибка запуска: Проверка пресета через winws2 не прошла (код 1): @<config_file>|$<config_file>				; read file for options. must be the only argument. other options are ignored.
+[19:51:28] [⏱ STARTUP] Notification received: source=launch.dpi_error, level=error, queue=immediate
+[19:51:28] [⏱ STARTUP] Notification skipped as duplicate: source=launch.dpi_error
+[19:51:28] [INFO] ❌ Проверка пресета через winws2 не прошла (код 1): @<config_file>|$<config_file>				; read file for options. must be the only argument. other options are ignored.
+[19:51:28] [INFO] Проверка пресета через winws2 не прошла (код 1): @<config_file>|$<config_file>				; read file for options. must be the only argument. other options are ignored.
+[19:51:49] [⏱ UI] ⏱ UiMetric: scope=worker name=presets stage=preset_save.run elapsed=22ms
+[19:51:50] [⏱ UI] ⏱ UiMetric: scope=worker name=presets stage=preset_save.run elapsed=17ms
+[19:51:50] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.read elapsed=3ms
+[19:51:50] [⏱ UI] ⏱ UiMetric: scope=worker name=presets stage=preset_save.run elapsed=14ms
+[19:51:50] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.parse elapsed=2ms
+[19:51:50] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.identity elapsed=2ms
+[19:51:50] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=0ms
+[19:51:50] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.templates.load elapsed=0ms
+[19:51:51] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.strategy_catalogs.load elapsed=1ms
+[19:51:51] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.sources.build elapsed=2ms
+[19:51:51] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.profile_list_item.build elapsed=1ms
+[19:51:51] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.total elapsed=16ms
+[19:51:51] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=1ms
+[19:51:51] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.cached elapsed=5ms
+[19:51:51] [⏱ UI] ⏱ UiMetric: scope=worker name=profile_list stage=profile_feature.worker.list_profiles.total elapsed=25ms
+[19:51:51] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=1ms
+[19:51:51] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.cached elapsed=5ms
+[19:51:51] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=0ms
+[19:51:51] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.cached elapsed=2ms
+[19:51:51] [⏱ UI] ⏱ UiMetric: scope=worker name=profile_list stage=profile_feature.worker.list_profiles.total elapsed=11ms
+[19:51:51] [INFO] 🚀 Запуск DPI (прямой winws2): Пресет
+[19:51:51] [INFO] Запуск асинхронного старта DPI: Пресет (метод: прямой winws2)
+[19:51:51] [INFO] Используется метод запуска: zapret2_mode
+[19:51:51] [INFO] Используется выбранный source-пресет: C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2\zapret preset Bryansk fix.txt
+[19:51:51] [INFO] Подготовка к запуску...
+[19:51:51] [INFO] Запуск из preset файла: C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2\zapret preset Bryansk fix.txt
+[19:51:51] [INFO] Запуск DPI...
+[19:51:51] [INFO] Starting: starting from preset C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2\zapret preset Bryansk fix.txt
+[19:51:51] [INFO] Winws2 launch command: C:\Users\какашка\AppData\Roaming\ZapretTwo\exe\winws2.exe @C:\Users\какашка\AppData\Roaming\ZapretTwo\user\tmp\winws2_at_config\winws2_at_aca35b379fea08b4258f.txt
+[19:51:51] [INFO] Winws2 launch cwd: C:\Users\какашка\AppData\Roaming\ZapretTwo
+[19:51:51] [INFO] Winws2 launch @config: path=C:\Users\какашка\AppData\Roaming\ZapretTwo\user\tmp\winws2_at_config\winws2_at_aca35b379fea08b4258f.txt, bytes=3107, sha1=4fccc93d1db04fa4022eb2ddf39b79ab0289fd40, source=C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2\zapret preset Bryansk fix.txt
+[19:51:51] [INFO] Strategy: Пресет: zapret preset Bryansk fix
+[19:51:51] [WARNING] Preset dry-run failed before winws2 start (code: 1): @<config_file>|$<config_file>				; read file for options. must be the only argument. other options are ignored.
+[19:51:51] [WARNING] winws2 startup output (8654 B): github version v1.0.6-40-g8abcf55-native (8abcf5516be36a7ae8fa7cd15051522f81f63567) lua_compat_ver 6 |  |  @<config_file>|$<config_file>				; read file for options. must be the only argument. other options are ignored. |  |  --debug=0|1|syslog|@<filename> |  --version						; print version and exit |  --dry-run						; verify parameters and exit with code 0 if successful |  --comment=any_text |  --intercept=0|1					; enable interception. if disabled - run lua-init and exit |  --daemon						; daemonize |  --chdir[=path]						; change current directory. if no path specified use EXEDIR |  --pidfile=<filename>					; write pid to file |  --ctrack-timeouts=S:E:F[:U]				; internal conntrack timeouts for TCP SYN, ESTABLISHED, FIN stages, UDP timeout. default 60:300:60:60 |  --ctrack-disable=[0|1]					; 1 or no argument disables conntrack |  --payload-disable=[type[,type]]			; do not discover these payload types. for available payload types see '--payload'. disable all if no argument. |  --server=[0|1]						; change multiple aspects of src/dst ip/port handling for incoming connections |  --ipcache-lifetime=<int>				; time in seconds to keep cached hop count and domain name (default 7200). 0 = no expiration |  --ipcache-hostname=[0|1]				; 1 or no argument enables ip->hostname caching |  --reasm-disable=[type[,type]]				; disable reasm for these L7 payloads : tls_client_hello quic_initial . if no argument - disable all reasm. |  | WINDIVERT FILTER: |  --wf-iface=<int>[.<int>]				; numeric network interface and subinterface indexes |  --wf-l3=ipv4|ipv6					; L3 protocol filter. multiple comma separated values allowed. |  --wf-tcp-in=[~]port1[-port2]				; TCP in port filter. ~ means negation. multiple comma separated values allowed. |  --wf-tcp-out=[~]port1[-port2]				; TCP out port filter. ~ means negation. multiple comma separated values allowed. |  --wf-udp-in=[~]port1[-port2]				; UDP in port filter. ~ means negation. multiple comma separated values allowed. |  --wf-udp-out=[~]port1[-port2]				; UDP out port filter. ~ means ne […]
+[19:51:51] [ERROR] Проверка пресета через winws2 не прошла (код 1): @<config_file>|$<config_file>				; read file for options. must be the only argument. other options are ignored.
+[19:51:51] [❌ ERROR] Не удалось запустить пресет: Проверка пресета через winws2 не прошла (код 1): @<config_file>|$<config_file>				; read file for options. must be the only argument. other options are ignored.
+[19:51:51] [⏱ UI] ⏱ UiMetric: scope=worker name=dpi stage=dpi_start.run elapsed=76ms
+[19:51:51] [⏱ STARTUP] Notification received: source=global_logger, level=error, queue=immediate
+[19:51:51] [⏱ STARTUP] Notification presenting: source=global_logger, presentation=infobar
+[19:51:51] [⏱ STARTUP] Notification received: source=launch.dpi_error, level=error, queue=immediate
+[19:51:51] [⏱ STARTUP] Notification presenting: source=launch.dpi_error, presentation=infobar
+[19:51:51] [⏱ STARTUP] Notification received: source=launch.dpi_error, level=error, queue=immediate
+[19:51:51] [⏱ STARTUP] Notification skipped as duplicate: source=launch.dpi_error
+[19:51:51] [❌ ERROR] Ошибка асинхронного запуска DPI: Проверка пресета через winws2 не прошла (код 1): @<config_file>|$<config_file>				; read file for options. must be the only argument. other options are ignored.
+[19:51:51] [WARNING] ❌ Ошибка запуска: Проверка пресета через winws2 не прошла (код 1): @<config_file>|$<config_file>				; read file for options. must be the only argument. other options are ignored.
+[19:51:51] [⏱ STARTUP] Notification received: source=launch.dpi_error, level=error, queue=immediate
+[19:51:51] [⏱ STARTUP] Notification skipped as duplicate: source=launch.dpi_error
+[19:51:51] [INFO] ❌ Проверка пресета через winws2 не прошла (код 1): @<config_file>|$<config_file>				; read file for options. must be the only argument. other options are ignored.
+[19:51:51] [INFO] Проверка пресета через winws2 не прошла (код 1): @<config_file>|$<config_file>				; read file for options. must be the only argument. other options are ignored.
+[19:52:08] [⏱ UI] ⏱ UiMetric: scope=worker name=presets stage=preset_save.run elapsed=29ms
+[19:52:08] [⏱ UI] ⏱ UiMetric: scope=worker name=presets stage=preset_save.run elapsed=14ms
+[19:52:08] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.read elapsed=2ms
+[19:52:08] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.parse elapsed=1ms
+[19:52:08] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.identity elapsed=1ms
+[19:52:08] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=0ms
+[19:52:08] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.templates.load elapsed=0ms
+[19:52:08] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.strategy_catalogs.load elapsed=0ms
+[19:52:08] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.sources.build elapsed=2ms
+[19:52:08] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.profile_list_item.build elapsed=1ms
+[19:52:08] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.total elapsed=13ms
+[19:52:08] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=0ms
+[19:52:08] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.cached elapsed=3ms
+[19:52:08] [⏱ UI] ⏱ UiMetric: scope=worker name=profile_list stage=profile_feature.worker.list_profiles.total elapsed=26ms
+[19:52:08] [⏱ UI] ⏱ UiMetric: scope=ui name=Zapret2PresetSetupPage stage=profile_ui.apply_payload.total elapsed=1ms
+[19:52:08] [⏱ UI] ⏱ UiMetric: scope=worker name=presets stage=preset_save.run elapsed=15ms
+[19:52:08] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=0ms
+[19:52:08] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.cached elapsed=5ms
+[19:52:08] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=0ms
+[19:52:08] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.cached elapsed=2ms
+[19:52:08] [⏱ UI] ⏱ UiMetric: scope=worker name=profile_list stage=profile_feature.worker.list_profiles.total elapsed=10ms
+[19:52:13] [⏱ UI] ⏱ UiMetric: scope=page name=DPI_SETTINGS stage=open.navigation.repeat elapsed=1ms budget=120ms
+[19:52:13] [⏱ UI] ⏱ UiMetric: scope=page name=DPI_SETTINGS stage=open.activation.repeat elapsed=0ms budget=40ms
+[19:52:13] [⏱ UI] ⏱ UiMetric: scope=page name=DPI_SETTINGS stage=content.ready.repeat elapsed=2ms budget=40ms
+[19:52:14] [INFO] Метод запуска стратегий изменен на: zapret1_mode
+[19:52:14] [INFO] Смена метода zapret2_mode -> zapret1_mode
+[19:52:14] [INFO] Метод запуска изменён на: zapret1_mode
+[19:52:14] [INFO] Смена метода 'zapret1_mode' передана в единый restart pipeline
+[19:52:14] [INFO] Метод 'zapret1_mode' сохранён, UI переключается на страницы выбранного режима
+[19:52:14] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.read elapsed=3ms
+[19:52:14] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.parse elapsed=3ms
+[19:52:14] [INFO] Перезапуск DPI запросили, актуальное поколение 1, целевой режим zapret1_mode
+[19:52:14] [INFO] Перезапуск DPI: запускаем актуальный выбранный preset, поколение 1, режим zapret1_mode
+[19:52:14] [INFO] 🚀 Запуск DPI (прямой winws1): Пресет
+[19:52:14] [INFO] Запуск асинхронного старта DPI: Пресет (метод: прямой winws1)
+[19:52:14] [INFO] Используется метод запуска: zapret1_mode
+[19:52:14] [INFO] Используется выбранный source-пресет: C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws1_builtin\Default v1.txt
+[19:52:14] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.identity elapsed=17ms
+[19:52:14] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET1_MODE_CONTROL stage=open.navigation.first elapsed=7ms budget=200ms
+[19:52:14] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET1_MODE_CONTROL stage=open.activation.first elapsed=0ms budget=200ms
+[19:52:14] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET1_MODE_CONTROL stage=content.ready.first elapsed=10ms budget=200ms
+[19:52:14] [INFO] Подготовка к запуску...
+[19:52:14] [INFO] Запуск из preset файла: C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws1_builtin\Default v1.txt
+[19:52:14] [INFO] Смена runner: Winws2StrategyRunner → Winws1StrategyRunner
+[19:52:14] [INFO] Winws1StrategyRunner initialized. exe: C:\Users\какашка\AppData\Roaming\ZapretTwo\exe\winws.exe
+[19:52:14] [INFO] Запуск DPI...
+[19:52:15] [SUCCESS] Strategy 'Пресет: Default v1 (game filter)' started from preset (PID: 14932)
+[19:52:15] [✅ SUCCESS] Пресет 'Пресет: Default v1 (game filter)' успешно запущен
+[19:52:15] [⏱ UI] ⏱ UiMetric: scope=worker name=dpi stage=dpi_start.run elapsed=663ms
+[19:52:15] [INFO] DPI запущен асинхронно
+[19:52:15] [INFO] ✅ DPI успешно запущен
+[19:52:17] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET1_USER_PRESETS stage=open.navigation.first elapsed=35ms budget=200ms
+[19:52:17] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET1_USER_PRESETS stage=open.activation.first elapsed=3ms budget=200ms
+[19:52:17] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET1_USER_PRESETS stage=content.ready.first elapsed=39ms budget=200ms
+[19:52:17] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.metadata.read elapsed=6ms detail=172 presets
+[19:52:17] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.build elapsed=3ms detail=172 presets
+[19:52:17] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.apply elapsed=9ms
+[19:52:19] [INFO] Discord не запущен, перезапуск не требуется
+[19:52:37] [INFO] Импортирован пресет 'zapret preset Bryansk fix (2)'
+[19:52:37] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.metadata.read elapsed=8ms detail=173 presets
+[19:52:37] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.build elapsed=25ms detail=173 presets
+[19:52:38] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.apply elapsed=0ms
+[19:52:40] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET1_MODE_CONTROL stage=open.navigation.repeat elapsed=2ms budget=120ms
+[19:52:40] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET1_MODE_CONTROL stage=open.activation.repeat elapsed=0ms budget=40ms
+[19:52:40] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET1_MODE_CONTROL stage=content.ready.repeat elapsed=3ms budget=40ms
+[19:52:43] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET1_USER_PRESETS stage=open.navigation.repeat elapsed=2ms budget=120ms
+[19:52:43] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET1_USER_PRESETS stage=open.activation.repeat elapsed=0ms budget=40ms
+[19:52:43] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET1_USER_PRESETS stage=content.ready.repeat elapsed=3ms budget=40ms
+[19:52:49] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.build elapsed=2ms detail=173 presets
+[19:52:49] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.apply elapsed=2ms
+[19:52:50] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.build elapsed=1ms detail=173 presets
+[19:52:50] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.apply elapsed=1ms
+[19:52:52] [INFO] Пресет переключен: zapret preset Bryansk fix.txt
+[19:52:52] [INFO] Применение выбранного source preset (zapret1_mode, reason=preset_switched, preset=zapret preset Bryansk fix.txt) -> preset mode switch pipeline
+[19:52:52] [⏱ UI] ⏱ UiMetric: scope=worker name=presets stage=preset_activate.run elapsed=19ms
+[19:52:52] [INFO] Активирован пресет 'zapret preset Bryansk fix'
+[19:52:52] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.read elapsed=2ms
+[19:52:52] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.parse elapsed=1ms
+[19:52:52] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.identity elapsed=10ms
+[19:52:52] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=0ms
+[19:52:52] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.templates.load elapsed=4ms
+[19:52:52] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.strategy_catalogs.load elapsed=5ms
+[19:52:52] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.sources.build elapsed=2ms
+[19:52:52] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.profile_list_item.build elapsed=15ms
+[19:52:52] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.total elapsed=53ms
+[19:52:53] [INFO] Preset mode switch запросили, актуальное поколение 1 (zapret1_mode)
+[19:52:53] [INFO] Применяем пресет...
+[19:52:53] [⏱ UI] ⏱ UiMetric: scope=worker name=dpi stage=preset_switch.run elapsed=2ms
+[19:52:53] [❌ ERROR] Ошибка preset mode switch, поколение 1 (zapret1_mode): В выбранном preset нет включённых profile для запуска
+[19:52:53] [WARNING] ❌ Ошибка переключения пресета: В выбранном preset нет включённых profile для запуска
+[19:52:53] [⏱ STARTUP] Notification received: source=launch.dpi_error, level=error, queue=immediate
+[19:52:53] [⏱ STARTUP] Notification presenting: source=launch.dpi_error, presentation=infobar
+[19:54:59] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET1_PRESET_RAW_EDITOR stage=open.navigation.first elapsed=4ms budget=200ms
+[19:54:59] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET1_PRESET_RAW_EDITOR stage=open.activation.first elapsed=0ms budget=200ms
+[19:54:59] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET1_PRESET_RAW_EDITOR stage=content.ready.first elapsed=11ms budget=200ms
+[19:55:03] [⏱ UI] ⏱ UiMetric: scope=worker name=presets stage=preset_save.run elapsed=22ms
+[19:55:08] [INFO] Preset runtime apply (zapret1_mode, reason=editor_save) -> preset mode switch pipeline
+[19:55:08] [⏱ UI] ⏱ UiMetric: scope=worker name=presets stage=preset_save.run elapsed=11ms
+[19:55:08] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.read elapsed=4ms
+[19:55:08] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.parse elapsed=1ms
+[19:55:08] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=2ms
+[19:55:08] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.templates.load elapsed=0ms
+[19:55:08] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.strategy_catalogs.load elapsed=1ms
+[19:55:08] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.sources.build elapsed=0ms
+[19:55:08] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.profile_list_item.build elapsed=3ms
+[19:55:08] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.total elapsed=11ms
+[19:55:08] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.identity elapsed=12ms
+[19:55:08] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=1ms
+[19:55:08] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.templates.load elapsed=0ms
+[19:55:08] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.strategy_catalogs.load elapsed=1ms
+[19:55:08] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.sources.build elapsed=5ms
+[19:55:08] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.profile_list_item.build elapsed=6ms
+[19:55:08] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.total elapsed=36ms
+[19:55:08] [⏱ UI] ⏱ UiMetric: scope=worker name=profile_list stage=profile_feature.worker.list_profiles.total elapsed=31ms
+[19:55:08] [INFO] Preset mode switch запросили, актуальное поколение 2 (zapret1_mode)
+[19:55:08] [INFO] Применяем пресет...
+[19:55:08] [⏱ UI] ⏱ UiMetric: scope=worker name=dpi stage=preset_switch.run elapsed=5ms
+[19:55:08] [❌ ERROR] Ошибка preset mode switch, поколение 2 (zapret1_mode): В выбранном preset нет включённых profile для запуска
+[19:55:08] [WARNING] ❌ Ошибка переключения пресета: В выбранном preset нет включённых profile для запуска
+[19:55:08] [⏱ STARTUP] Notification received: source=launch.dpi_error, level=error, queue=immediate
+[19:55:08] [⏱ STARTUP] Notification presenting: source=launch.dpi_error, presentation=infobar
+[19:55:09] [⏱ UI] ⏱ UiMetric: scope=page name=DPI_SETTINGS stage=open.navigation.repeat elapsed=1ms budget=120ms
+[19:55:09] [⏱ UI] ⏱ UiMetric: scope=page name=DPI_SETTINGS stage=open.activation.repeat elapsed=0ms budget=40ms
+[19:55:09] [⏱ UI] ⏱ UiMetric: scope=page name=DPI_SETTINGS stage=content.ready.repeat elapsed=2ms budget=40ms
+[19:55:10] [INFO] Метод запуска стратегий изменен на: zapret2_mode
+[19:55:10] [INFO] Смена метода zapret1_mode -> zapret2_mode
+[19:55:10] [INFO] Метод запуска изменён на: zapret2_mode
+[19:55:10] [INFO] Смена метода 'zapret2_mode' передана в единый restart pipeline
+[19:55:10] [INFO] Метод 'zapret2_mode' сохранён, UI переключается на страницы выбранного режима
+[19:55:10] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_MODE_CONTROL stage=open.navigation.first elapsed=6ms budget=200ms
+[19:55:10] [INFO] Перезапуск DPI запросили, актуальное поколение 2, целевой режим zapret2_mode
+[19:55:10] [INFO] Перезапуск DPI: смена режима требует полного stop+cleanup, актуальное поколение 2
+[19:55:10] [WARNING] 🛑 Остановка DPI (прямой winws1)...
+[19:55:10] [INFO] Запуск асинхронной остановки DPI (метод: прямой winws1)
+[19:55:10] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_MODE_CONTROL stage=open.activation.repeat elapsed=0ms budget=40ms
+[19:55:10] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_MODE_CONTROL stage=content.ready.first elapsed=12ms budget=200ms
+[19:55:10] [WARNING] Остановка DPI...
+[19:55:10] [INFO] Завершение процессов...
+[19:55:10] [INFO] Sync runtime shutdown requested: preset_stop_worker:zapret1_mode
+[19:55:10] [INFO] Stopping strategy 'Пресет: Default v1 (game filter)' (PID: 14932)
+[19:55:10] [SUCCESS] Process stopped, exit confirmed (PID: 14932)
+[19:55:10] [⏱ UI] ⏱ UiMetric: scope=worker name=dpi stage=dpi_stop.run elapsed=88ms
+[19:55:10] [INFO] DPI остановлен асинхронно
+[19:55:10] [INFO] ✅ DPI успешно остановлен
+[19:55:10] [INFO] 🚀 Запуск DPI (прямой winws2): Пресет
+[19:55:10] [INFO] Запуск асинхронного старта DPI: Пресет (метод: прямой winws2)
+[19:55:10] [INFO] Используется метод запуска: zapret2_mode
+[19:55:10] [INFO] DPI успешно остановлен
+[19:55:10] [INFO] Используется выбранный source-пресет: C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2\zapret preset Bryansk fix.txt
+[19:55:10] [INFO] Подготовка к запуску...
+[19:55:10] [INFO] Запуск из preset файла: C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2\zapret preset Bryansk fix.txt
+[19:55:10] [INFO] Winws2StrategyRunner initialized. exe: C:\Users\какашка\AppData\Roaming\ZapretTwo\exe\winws2.exe
+[19:55:10] [INFO] Winws2StrategyRunner initialized
+[19:55:10] [INFO] Запуск DPI...
+[19:55:10] [WARNING] Preset содержит ссылки на отсутствующие файлы (5), например: --lua-init=zapret-lib.lua
+[19:55:10] [WARNING] - --lua-init=zapret-lib.lua  (ожидается: C:\Users\какашка\AppData\Roaming\ZapretTwo\zapret-lib.lua)
+[19:55:10] [WARNING] - --lua-init=zapret-antidpi.lua  (ожидается: C:\Users\какашка\AppData\Roaming\ZapretTwo\zapret-antidpi.lua)
+[19:55:10] [WARNING] - --hostlist=lists/list-general-user.txt  (ожидается: C:\Users\какашка\AppData\Roaming\ZapretTwo\lists\list-general-user.txt)
+[19:55:10] [WARNING] - --hostlist-exclude=lists/list-exclude-user.txt  (ожидается: C:\Users\какашка\AppData\Roaming\ZapretTwo\lists\list-exclude-user.txt)
+[19:55:10] [WARNING] - --ipset-exclude=lists/ipset-exclude-user.txt  (ожидается: C:\Users\какашка\AppData\Roaming\ZapretTwo\lists\ipset-exclude-user.txt)
+[19:55:10] [ERROR] Preset содержит ссылки на отсутствующие файлы (5), например: --lua-init=zapret-lib.lua
+[19:55:10] [⏱ STARTUP] Notification received: source=launch.dpi_error, level=error, queue=immediate
+[19:55:10] [⏱ STARTUP] Notification presenting: source=launch.dpi_error, presentation=infobar
+[19:55:10] [❌ ERROR] Не удалось запустить пресет: Preset содержит ссылки на отсутствующие файлы (5), например: --lua-init=zapret-lib.lua
+[19:55:10] [⏱ UI] ⏱ UiMetric: scope=worker name=dpi stage=dpi_start.run elapsed=35ms
+[19:55:10] [⏱ STARTUP] Notification received: source=launch.dpi_error, level=error, queue=immediate
+[19:55:10] [⏱ STARTUP] Notification skipped as duplicate: source=launch.dpi_error
+[19:55:10] [❌ ERROR] Ошибка асинхронного запуска DPI: Preset содержит ссылки на отсутствующие файлы (5), например: --lua-init=zapret-lib.lua
+[19:55:10] [WARNING] ❌ Ошибка запуска: Preset содержит ссылки на отсутствующие файлы (5), например: --lua-init=zapret-lib.lua
+[19:55:10] [⏱ STARTUP] Notification received: source=launch.dpi_error, level=error, queue=immediate
+[19:55:10] [⏱ STARTUP] Notification skipped as duplicate: source=launch.dpi_error
+[19:55:11] [INFO] ❌ Preset содержит ссылки на отсутствующие файлы (5), например: --lua-init=zapret-lib.lua
+[19:55:11] [INFO] Preset содержит ссылки на отсутствующие файлы (5), например: --lua-init=zapret-lib.lua
+[19:55:14] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=open.navigation.repeat elapsed=2ms budget=120ms
+[19:55:14] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=open.activation.repeat elapsed=0ms budget=40ms
+[19:55:14] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=content.ready.repeat elapsed=4ms budget=40ms
+[19:55:14] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.build elapsed=6ms detail=137 presets
+[19:55:14] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.apply elapsed=0ms
+[19:55:16] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_PRESET_RAW_EDITOR stage=open.navigation.repeat elapsed=2ms budget=40ms
+[19:55:16] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_PRESET_RAW_EDITOR stage=open.activation.repeat elapsed=0ms budget=40ms
+[19:55:16] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_PRESET_RAW_EDITOR stage=content.ready.repeat elapsed=4ms budget=40ms
+[19:55:22] [⏱ UI] ⏱ UiMetric: scope=worker name=presets stage=preset_save.run elapsed=27ms
+[19:55:22] [⏱ UI] ⏱ UiMetric: scope=worker name=presets stage=preset_save.run elapsed=13ms
+[19:55:22] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.read elapsed=1ms
+[19:55:22] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.parse elapsed=0ms
+[19:55:22] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.identity elapsed=1ms
+[19:55:22] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=0ms
+[19:55:22] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.templates.load elapsed=0ms
+[19:55:22] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.strategy_catalogs.load elapsed=0ms
+[19:55:22] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.sources.build elapsed=2ms
+[19:55:22] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.profile_list_item.build elapsed=2ms
+[19:55:22] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.total elapsed=12ms
+[19:55:22] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=1ms
+[19:55:22] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.cached elapsed=5ms
+[19:55:22] [⏱ UI] ⏱ UiMetric: scope=worker name=profile_list stage=profile_feature.worker.list_profiles.total elapsed=27ms
+[19:55:22] [⏱ UI] ⏱ UiMetric: scope=ui name=Zapret2PresetSetupPage stage=profile_ui.apply_payload.total elapsed=1ms
+[19:55:41] [⏱ UI] ⏱ UiMetric: scope=worker name=presets stage=preset_save.run elapsed=23ms
+[19:55:42] [⏱ UI] ⏱ UiMetric: scope=worker name=presets stage=preset_save.run elapsed=15ms
+[19:55:42] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.read elapsed=2ms
+[19:55:42] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.parse elapsed=1ms
+[19:55:42] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.identity elapsed=1ms
+[19:55:42] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=0ms
+[19:55:42] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.templates.load elapsed=0ms
+[19:55:42] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.strategy_catalogs.load elapsed=0ms
+[19:55:42] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.sources.build elapsed=2ms
+[19:55:42] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.profile_list_item.build elapsed=2ms
+[19:55:42] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.total elapsed=12ms
+[19:55:42] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=1ms
+[19:55:42] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.cached elapsed=4ms
+[19:55:42] [⏱ UI] ⏱ UiMetric: scope=worker name=presets stage=preset_save.run elapsed=12ms
+[19:55:42] [⏱ UI] ⏱ UiMetric: scope=worker name=profile_list stage=profile_feature.worker.list_profiles.total elapsed=31ms
+[19:55:42] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=0ms
+[19:55:42] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.cached elapsed=3ms
+[19:55:42] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=0ms
+[19:55:42] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.cached elapsed=3ms
+[19:55:42] [⏱ UI] ⏱ UiMetric: scope=worker name=profile_list stage=profile_feature.worker.list_profiles.total elapsed=12ms
+[19:55:42] [⏱ UI] ⏱ UiMetric: scope=ui name=Zapret2PresetSetupPage stage=profile_ui.apply_payload.total elapsed=1ms
+[19:55:59] [⏱ UI] ⏱ UiMetric: scope=worker name=presets stage=preset_save.run elapsed=22ms
+[19:56:01] [⏱ UI] ⏱ UiMetric: scope=worker name=presets stage=preset_save.run elapsed=12ms
+[19:56:01] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.read elapsed=3ms
+[19:56:01] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.parse elapsed=1ms
+[19:56:01] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.identity elapsed=1ms
+[19:56:01] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=0ms
+[19:56:01] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.templates.load elapsed=0ms
+[19:56:01] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.strategy_catalogs.load elapsed=0ms
+[19:56:01] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.sources.build elapsed=2ms
+[19:56:01] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.profile_list_item.build elapsed=2ms
+[19:56:01] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.total elapsed=15ms
+[19:56:01] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=0ms
+[19:56:01] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.cached elapsed=3ms
+[19:56:01] [⏱ UI] ⏱ UiMetric: scope=worker name=profile_list stage=profile_feature.worker.list_profiles.total elapsed=24ms
+[19:56:03] [INFO] 🚀 Запуск DPI (прямой winws2): Пресет
+[19:56:03] [INFO] Запуск асинхронного старта DPI: Пресет (метод: прямой winws2)
+[19:56:03] [INFO] Используется метод запуска: zapret2_mode
+[19:56:03] [INFO] Используется выбранный source-пресет: C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2\zapret preset Bryansk fix.txt
+[19:56:03] [INFO] Подготовка к запуску...
+[19:56:03] [INFO] Запуск из preset файла: C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2\zapret preset Bryansk fix.txt
+[19:56:03] [INFO] Запуск DPI...
+[19:56:03] [INFO] Starting: starting from preset C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2\zapret preset Bryansk fix.txt
+[19:56:03] [INFO] Winws2 launch command: C:\Users\какашка\AppData\Roaming\ZapretTwo\exe\winws2.exe @C:\Users\какашка\AppData\Roaming\ZapretTwo\user\tmp\winws2_at_config\winws2_at_5b54e1d15edb99cd071e.txt
+[19:56:03] [INFO] Winws2 launch cwd: C:\Users\какашка\AppData\Roaming\ZapretTwo
+[19:56:03] [INFO] Winws2 launch @config: path=C:\Users\какашка\AppData\Roaming\ZapretTwo\user\tmp\winws2_at_config\winws2_at_5b54e1d15edb99cd071e.txt, bytes=2073, sha1=37ca4c9d64729a9a50a8df56b1fa4e50186e64cb, source=C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2\zapret preset Bryansk fix.txt
+[19:56:03] [INFO] Strategy: Пресет: zapret preset Bryansk fix
+[19:56:03] [SUCCESS] Strategy 'Пресет: zapret preset Bryansk fix' started from preset (PID: 17944)
+[19:56:03] [✅ SUCCESS] Пресет 'Пресет: zapret preset Bryansk fix' успешно запущен
+[19:56:03] [⏱ UI] ⏱ UiMetric: scope=worker name=dpi stage=dpi_start.run elapsed=504ms
+[19:56:03] [INFO] DPI запущен асинхронно
+[19:56:03] [INFO] ✅ DPI успешно запущен
+[19:56:08] [INFO] Discord не запущен, перезапуск не требуется
+[19:56:10] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_MODE_CONTROL stage=open.activation.repeat elapsed=0ms budget=40ms
+[19:56:10] [WARNING] ⏱ UiMetric: scope=page name=ZAPRET2_MODE_CONTROL stage=content.ready.first elapsed=60112ms budget=200ms
+[19:56:12] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=open.navigation.repeat elapsed=2ms budget=120ms
+[19:56:12] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=open.activation.repeat elapsed=0ms budget=40ms
+[19:56:12] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=content.ready.repeat elapsed=4ms budget=40ms
+[19:56:12] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.build elapsed=4ms detail=137 presets
+[19:56:12] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.apply elapsed=0ms
+[19:56:16] [INFO] Пресет переключен: Preset.X1.txt
+[19:56:16] [INFO] Применение выбранного source preset (zapret2_mode, reason=preset_switched, preset=Preset.X1.txt) -> preset mode switch pipeline
+[19:56:16] [⏱ UI] ⏱ UiMetric: scope=worker name=presets stage=preset_activate.run elapsed=8ms
+[19:56:16] [INFO] Активирован пресет 'Preset.X1'
+[19:56:16] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.read elapsed=2ms
+[19:56:16] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.parse elapsed=2ms
+[19:56:16] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.identity elapsed=9ms
+[19:56:16] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=0ms
+[19:56:16] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.templates.load elapsed=0ms
+[19:56:16] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.strategy_catalogs.load elapsed=1ms
+[19:56:16] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.sources.build elapsed=2ms
+[19:56:16] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.profile_list_item.build elapsed=10ms
+[19:56:16] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.total elapsed=32ms
+[19:56:16] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=1ms
+[19:56:16] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.cached elapsed=4ms
+[19:56:16] [⏱ UI] ⏱ UiMetric: scope=worker name=profile_list stage=profile_feature.worker.list_profiles.total elapsed=54ms
+[19:56:16] [⏱ UI] ⏱ UiMetric: scope=ui name=Zapret2PresetSetupPage stage=profile_ui.apply_payload.total elapsed=1ms
+[19:56:17] [INFO] Preset mode switch запросили, актуальное поколение 3 (zapret2_mode)
+[19:56:17] [INFO] Применяем пресет...
+[19:56:17] [INFO] Preset switch: starting from preset C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2_builtin\Preset.X1.txt
+[19:56:17] [INFO] Winws2 launch command: C:\Users\какашка\AppData\Roaming\ZapretTwo\exe\winws2.exe @C:\Users\какашка\AppData\Roaming\ZapretTwo\user\tmp\winws2_at_config\winws2_at_c076e37b0e581aa3b6ed.txt
+[19:56:17] [INFO] Winws2 launch cwd: C:\Users\какашка\AppData\Roaming\ZapretTwo
+[19:56:17] [INFO] Winws2 launch @config: path=C:\Users\какашка\AppData\Roaming\ZapretTwo\user\tmp\winws2_at_config\winws2_at_c076e37b0e581aa3b6ed.txt, bytes=9432, sha1=684c51696fa09977fce5bbba34ed3e0377c7ffec, source=C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2_builtin\Preset.X1.txt
+[19:56:17] [SUCCESS] Preset switch successful (PID: 7760)
+[19:56:17] [INFO] Preset switch handoff: stopping previous process 'Пресет: zapret preset Bryansk fix' (PID: 17944)
+[19:56:17] [SUCCESS] Previous preset process stopped after handoff, exit confirmed (PID: 17944)
+[19:56:17] [⏱ UI] ⏱ UiMetric: scope=worker name=dpi stage=preset_switch.run elapsed=661ms
+[19:56:17] [INFO] Preset mode switch успешно завершён, поколение 3 (zapret2_mode)
+[19:56:17] [INFO] ✅ Пресет успешно применён
+[19:56:21] [INFO] Discord не запущен, перезапуск не требуется
+[19:56:35] [INFO] Пресет переключен: white sni (circular).txt
+[19:56:35] [INFO] Применение выбранного source preset (zapret2_mode, reason=preset_switched, preset=white sni (circular).txt) -> preset mode switch pipeline
+[19:56:35] [INFO] Активирован пресет 'white sni (circular)'
+[19:56:35] [⏱ UI] ⏱ UiMetric: scope=worker name=presets stage=preset_activate.run elapsed=14ms
+[19:56:35] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.read elapsed=2ms
+[19:56:35] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.parse elapsed=1ms
+[19:56:35] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.identity elapsed=7ms
+[19:56:35] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=0ms
+[19:56:35] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.templates.load elapsed=0ms
+[19:56:35] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.strategy_catalogs.load elapsed=1ms
+[19:56:35] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.sources.build elapsed=2ms
+[19:56:35] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.profile_list_item.build elapsed=2ms
+[19:56:35] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.total elapsed=18ms
+[19:56:35] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=1ms
+[19:56:35] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.cached elapsed=4ms
+[19:56:35] [⏱ UI] ⏱ UiMetric: scope=worker name=profile_list stage=profile_feature.worker.list_profiles.total elapsed=33ms
+[19:56:35] [⏱ UI] ⏱ UiMetric: scope=ui name=Zapret2PresetSetupPage stage=profile_ui.apply_payload.total elapsed=1ms
+[19:56:36] [INFO] Preset mode switch запросили, актуальное поколение 4 (zapret2_mode)
+[19:56:36] [INFO] Применяем пресет...
+[19:56:36] [INFO] Preset switch: starting from preset C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2_builtin\white sni (circular).txt
+[19:56:36] [INFO] Winws2 launch command: C:\Users\какашка\AppData\Roaming\ZapretTwo\exe\winws2.exe @C:\Users\какашка\AppData\Roaming\ZapretTwo\user\tmp\winws2_at_config\winws2_at_1430e8d4f22bfd86b742.txt
+[19:56:36] [INFO] Winws2 launch cwd: C:\Users\какашка\AppData\Roaming\ZapretTwo
+[19:56:36] [INFO] Winws2 launch @config: path=C:\Users\какашка\AppData\Roaming\ZapretTwo\user\tmp\winws2_at_config\winws2_at_1430e8d4f22bfd86b742.txt, bytes=10411, sha1=dd6ceb23e0dfe0a5e6b77eaabb88765d7b6a440a, source=C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2_builtin\white sni (circular).txt
+[19:56:36] [SUCCESS] Preset switch successful (PID: 3060)
+[19:56:36] [INFO] Preset switch handoff: stopping previous process 'Пресет: Preset X v2 (game filter)' (PID: 7760)
+[19:56:36] [SUCCESS] Previous preset process stopped after handoff, exit confirmed (PID: 7760)
+[19:56:36] [⏱ UI] ⏱ UiMetric: scope=worker name=dpi stage=preset_switch.run elapsed=487ms
+[19:56:36] [INFO] Preset mode switch успешно завершён, поколение 4 (zapret2_mode)
+[19:56:36] [INFO] ✅ Пресет успешно применён
+[19:56:40] [INFO] Discord не запущен, перезапуск не требуется
+[19:57:11] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_PRESET_RAW_EDITOR stage=open.navigation.repeat elapsed=3ms budget=40ms
+[19:57:11] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_PRESET_RAW_EDITOR stage=open.activation.repeat elapsed=0ms budget=40ms
+[19:57:11] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_PRESET_RAW_EDITOR stage=content.ready.repeat elapsed=5ms budget=40ms
+[20:02:26] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_PRESET_RAW_EDITOR stage=open.activation.repeat elapsed=0ms budget=40ms
+[20:02:26] [WARNING] ⏱ UiMetric: scope=page name=ZAPRET2_PRESET_RAW_EDITOR stage=content.ready.repeat elapsed=315171ms budget=40ms
+[20:02:29] [INFO] Окно вернулось из фона (311 с): удержано 320 МБ; подтянуто 339 МБ за 22 мс; подкачек за 3 с после возврата: 820
+[20:02:31] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_MODE_CONTROL stage=open.activation.repeat elapsed=0ms budget=40ms
+[20:02:31] [WARNING] ⏱ UiMetric: scope=page name=ZAPRET2_MODE_CONTROL stage=content.ready.first elapsed=440652ms budget=200ms
+[20:02:33] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=open.navigation.repeat elapsed=3ms budget=120ms
+[20:02:33] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=open.activation.repeat elapsed=0ms budget=40ms
+[20:02:33] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=content.ready.repeat elapsed=4ms budget=40ms
+[20:02:33] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.build elapsed=4ms detail=137 presets
+[20:02:33] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.apply elapsed=0ms
+[20:02:39] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[20:02:40] [INFO] Импортирован пресет 'zapret preset Bryansk fix (2)'
+[20:02:40] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.metadata.read elapsed=10ms detail=138 presets
+[20:02:40] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.build elapsed=17ms detail=138 presets
+[20:02:40] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.apply elapsed=1ms
+[20:02:43] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_MODE_CONTROL stage=open.activation.repeat elapsed=0ms budget=40ms
+[20:02:43] [WARNING] ⏱ UiMetric: scope=page name=ZAPRET2_MODE_CONTROL stage=content.ready.first elapsed=452187ms budget=200ms
+[20:02:45] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=open.navigation.repeat elapsed=3ms budget=120ms
+[20:02:45] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=open.activation.repeat elapsed=0ms budget=40ms
+[20:02:45] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=content.ready.repeat elapsed=4ms budget=40ms
+[20:02:57] [INFO] Пресет переключен: zapret preset Bryansk fix (2).txt
+[20:02:57] [INFO] Применение выбранного source preset (zapret2_mode, reason=preset_switched, preset=zapret preset Bryansk fix (2).txt) -> preset mode switch pipeline
+[20:02:57] [⏱ UI] ⏱ UiMetric: scope=worker name=presets stage=preset_activate.run elapsed=9ms
+[20:02:57] [INFO] Активирован пресет 'zapret preset Bryansk fix (2)'
+[20:02:57] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.read elapsed=2ms
+[20:02:58] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.parse elapsed=2ms
+[20:02:58] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.identity elapsed=1ms
+[20:02:58] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=0ms
+[20:02:58] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.templates.load elapsed=0ms
+[20:02:58] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.strategy_catalogs.load elapsed=1ms
+[20:02:58] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.sources.build elapsed=5ms
+[20:02:58] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.profile_list_item.build elapsed=2ms
+[20:02:58] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.total elapsed=16ms
+[20:02:58] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=0ms
+[20:02:58] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.cached elapsed=4ms
+[20:02:58] [⏱ UI] ⏱ UiMetric: scope=worker name=profile_list stage=profile_feature.worker.list_profiles.total elapsed=24ms
+[20:02:58] [⏱ UI] ⏱ UiMetric: scope=ui name=Zapret2PresetSetupPage stage=profile_ui.apply_payload.total elapsed=1ms
+[20:02:58] [INFO] Preset mode switch запросили, актуальное поколение 5 (zapret2_mode)
+[20:02:58] [INFO] Применяем пресет...
+[20:02:58] [INFO] Preset switch: starting from preset C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2\zapret preset Bryansk fix (2).txt
+[20:02:58] [INFO] Winws2 launch command: C:\Users\какашка\AppData\Roaming\ZapretTwo\exe\winws2.exe @C:\Users\какашка\AppData\Roaming\ZapretTwo\user\tmp\winws2_at_config\winws2_at_fe2bcef5fc6dd70a0698.txt
+[20:02:58] [INFO] Winws2 launch cwd: C:\Users\какашка\AppData\Roaming\ZapretTwo
+[20:02:58] [INFO] Winws2 launch @config: path=C:\Users\какашка\AppData\Roaming\ZapretTwo\user\tmp\winws2_at_config\winws2_at_fe2bcef5fc6dd70a0698.txt, bytes=10411, sha1=dd6ceb23e0dfe0a5e6b77eaabb88765d7b6a440a, source=C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2\zapret preset Bryansk fix (2).txt
+[20:02:58] [SUCCESS] Preset switch successful (PID: 15452)
+[20:02:58] [INFO] Preset switch handoff: stopping previous process 'Пресет: white sni (circular)' (PID: 3060)
+[20:02:58] [SUCCESS] Previous preset process stopped after handoff, exit confirmed (PID: 3060)
+[20:02:58] [⏱ UI] ⏱ UiMetric: scope=worker name=dpi stage=preset_switch.run elapsed=465ms
+[20:02:58] [INFO] Preset mode switch успешно завершён, поколение 5 (zapret2_mode)
+[20:02:58] [INFO] ✅ Пресет успешно применён
+[20:03:03] [INFO] Discord запущен. Перезапускаем...
+[20:03:08] [INFO] Discord перезапущен: C:\Users\какашка\AppData\Local\Discord\app-1.0.9268\Discord.exe
+[20:04:55] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[20:07:33] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=open.activation.repeat elapsed=0ms budget=40ms
+[20:07:33] [WARNING] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=content.ready.repeat elapsed=287850ms budget=40ms
+[20:07:35] [⏱ UI] ⏱ UiMetric: scope=page name=LOGS stage=open.navigation.repeat elapsed=1ms budget=120ms
+[20:07:35] [⏱ UI] ⏱ UiMetric: scope=page name=LOGS stage=open.activation.repeat elapsed=0ms budget=40ms
+[20:07:35] [⏱ UI] ⏱ UiMetric: scope=page name=LOGS stage=content.ready.repeat elapsed=2ms budget=40ms
+[20:07:35] [⏱ UI] ⏱ UiMetric: scope=page name=ABOUT stage=open.navigation.repeat elapsed=2ms budget=120ms
+[20:07:35] [⏱ UI] ⏱ UiMetric: scope=page name=ABOUT stage=open.activation.repeat elapsed=0ms budget=40ms
+[20:07:35] [⏱ UI] ⏱ UiMetric: scope=page name=ABOUT stage=content.ready.repeat elapsed=3ms budget=40ms
+[20:07:36] [INFO] Окно вернулось из фона (268 с): удержано 320 МБ; подтянуто 343 МБ за 24 мс; подкачек за 3 с после возврата: 1541
+[20:07:51] [INFO] Открыт Telegram: zaprethelp
+[20:07:57] [INFO] Открыт Telegram: bypassblock
+[20:22:52] [⏱ UI] ⏱ UiMetric: scope=page name=ABOUT stage=open.activation.repeat elapsed=0ms budget=40ms
+[20:22:52] [WARNING] ⏱ UiMetric: scope=page name=ABOUT stage=content.ready.repeat elapsed=917073ms budget=40ms
+[20:23:35] [⏱ UI] ⏱ UiMetric: scope=page name=ABOUT stage=open.activation.repeat elapsed=0ms budget=40ms
+[20:23:35] [WARNING] ⏱ UiMetric: scope=page name=ABOUT stage=content.ready.repeat elapsed=960120ms budget=40ms
+[20:23:38] [INFO] Окно вернулось из фона (41 с): удержано 320 МБ; подтянуто 313 МБ за 25 мс; подкачек за 3 с после возврата: 724
+[20:23:49] [INFO] Открыт Telegram: runetvpnyoutubediscord
+[20:26:02] [⏱ UI] ⏱ UiMetric: scope=page name=ABOUT stage=open.activation.repeat elapsed=0ms budget=40ms
+[20:26:02] [WARNING] ⏱ UiMetric: scope=page name=ABOUT stage=content.ready.repeat elapsed=1106798ms budget=40ms
+[20:26:05] [INFO] Окно вернулось из фона (90 с): удержано 320 МБ; подтянуто 313 МБ за 20 мс; подкачек за 3 с после возврата: 91
+[20:48:50] [⏱ STARTUP] ⏱ Startup StartupHostsAddressCheckSkipped: 3600722ms | шлюз проб: ещё рано или идёт проверка по кнопке
+[20:48:50] [⏱ STARTUP] ⏱ Startup StartupHostsAppliedSelectionRefreshFinished: 3600723ms | changed=False (блока ZapretGUI в hosts нет)
+[21:48:50] [⏱ STARTUP] ⏱ Startup StartupHostsAddressCheckSkipped: 7200723ms | шлюз проб: ещё рано или идёт проверка по кнопке
+[21:48:50] [⏱ STARTUP] ⏱ Startup StartupHostsAppliedSelectionRefreshFinished: 7200726ms | changed=False (блока ZapretGUI в hosts нет)
+[22:15:56] [⏱ UI] ⏱ UiMetric: scope=page name=DPI_SETTINGS stage=open.navigation.repeat elapsed=29ms budget=120ms
+[22:15:56] [⏱ UI] ⏱ UiMetric: scope=page name=DPI_SETTINGS stage=open.activation.repeat elapsed=1ms budget=40ms
+[22:15:56] [⏱ UI] ⏱ UiMetric: scope=page name=DPI_SETTINGS stage=content.ready.repeat elapsed=33ms budget=40ms
+[22:48:50] [⏱ STARTUP] ⏱ Startup StartupHostsAddressCheckSkipped: 10800736ms | шлюз проб: ещё рано или идёт проверка по кнопке
+[22:48:50] [⏱ STARTUP] ⏱ Startup StartupHostsAppliedSelectionRefreshFinished: 10800740ms | changed=False (блока ZapretGUI в hosts нет)
+[23:48:50] [⏱ STARTUP] ⏱ Startup StartupHostsAddressCheckSkipped: 14400732ms | шлюз проб: ещё рано или идёт проверка по кнопке
+[23:48:50] [⏱ STARTUP] ⏱ Startup StartupHostsAppliedSelectionRefreshFinished: 14400740ms | changed=False (блока ZapretGUI в hosts нет)
+[00:37:59] [⏱ UI] ⏱ UiMetric: scope=page name=DPI_SETTINGS stage=open.activation.repeat elapsed=0ms budget=40ms
+[00:37:59] [WARNING] ⏱ UiMetric: scope=page name=DPI_SETTINGS stage=content.ready.repeat elapsed=8522713ms budget=40ms
+[00:38:02] [INFO] Окно вернулось из фона (8497 с): удержано 320 МБ; подтянуто 206 МБ за 86 мс; подкачек за 3 с после возврата: 7985
+[00:38:12] [⏱ UI] ⏱ UiMetric: scope=page name=DPI_SETTINGS stage=open.activation.repeat elapsed=0ms budget=40ms
+[00:38:12] [WARNING] ⏱ UiMetric: scope=page name=DPI_SETTINGS stage=content.ready.repeat elapsed=8535411ms budget=40ms
+[00:48:50] [⏱ STARTUP] ⏱ Startup StartupHostsAddressCheckSkipped: 18000723ms | шлюз проб: ещё рано или идёт проверка по кнопке
+[00:48:50] [⏱ STARTUP] ⏱ Startup StartupHostsAppliedSelectionRefreshFinished: 18000725ms | changed=False (блока ZapretGUI в hosts нет)
+[01:07:38] [⏱ UI] ⏱ UiMetric: scope=page name=DPI_SETTINGS stage=open.activation.repeat elapsed=0ms budget=40ms
+[01:07:38] [WARNING] ⏱ UiMetric: scope=page name=DPI_SETTINGS stage=content.ready.repeat elapsed=10301604ms budget=40ms
+[01:07:40] [INFO] Windows завершает сеанс: закрываем GUI без диалога
+[01:07:40] [WARNING] Watched winws process exited unexpectedly (code: 1073807364); notifying runtime
+[01:07:40] [INFO] Unexpected exit of 'Пресет: zapret preset Bryansk fix (2)' diagnosed as: diagnosed
+[01:07:40] [INFO] [SIDEBAR] flush при windows_session_end: expanded=True
+[01:07:40] [INFO] Sync runtime shutdown requested: windows_session_end
+[01:07:40] [WARNING] Strategy process exited (code: 1073807364)
+[01:07:40] [WARNING] Strategy process exited (code: 1073807364)
+[01:07:40] [INFO] No running process to stop
+[01:07:40] [INFO] Process Monitor остановлен

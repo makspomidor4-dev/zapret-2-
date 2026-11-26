@@ -1,0 +1,348 @@
+﻿=== Zapret 2 GUI Log - Started 2026-11-19 13:52:16 ===
+Log file: zapret_log_2026-11-19_13-52-16.txt
+Total log files in folder: 1
+============================================================
+
+[13:52:16] [INFO] 🛡️ Crash handler установлен (faulthandler + Python exceptions)
+[13:52:17] [🔹 main] === ЗАПУСК ПРИЛОЖЕНИЯ ===
+[13:52:17] [🔹 main] 22.0.0.0
+[13:52:17] [⏱ STARTUP] ⏱ Startup StartupExeToPython: 78ms | 539ms
+[13:52:17] [⏱ STARTUP] ⏱ Startup StartupSettingsDatabase: 276ms | 197ms
+[13:52:17] [⏱ STARTUP] ⏱ Startup StartupShellBootstrap: 280ms | 5ms
+[13:52:17] [⏱ STARTUP] ⏱ Startup StartupQtRuntimeQApplication: 320ms | 28ms
+[13:52:17] 
+[13:52:17] [1;33m📢 Tips:[0m QFluentWidgets Pro is now released. Click [1;96mhttps://qfluentwidgets.com/pages/pro[0m to learn more about it.
+[13:52:17] 
+[13:52:17] [⏱ STARTUP] ⏱ Startup StartupQtFluentTranslator: 523ms | 201ms
+[13:52:17] [⏱ STARTUP] ⏱ Startup StartupQtInfoBarDuration: 523ms | 0ms
+[13:52:17] [⏱ STARTUP] ⏱ Startup StartupQtInfoBarLayout: 523ms | 0ms
+[13:52:17] [⏱ STARTUP] ⏱ Startup StartupQtComboPopupGuard: 527ms | 2ms
+[13:52:17] [⏱ STARTUP] ⏱ Startup StartupQtNativeToolTipGuard: 529ms | 2ms
+[13:52:17] [⏱ STARTUP] ⏱ Startup StartupQtAnimationCompat: 529ms | 0ms
+[13:52:17] [⏱ STARTUP] ⏱ Startup StartupQtThemeSignalGuards: 530ms | 0ms
+[13:52:17] [⏱ STARTUP] ⏱ Startup StartupQtFluentIconCache: 530ms | 0ms
+[13:52:17] [⏱ STARTUP] ⏱ Startup StartupQtFluentStyleCache: 530ms | 0ms
+[13:52:17] [⏱ STARTUP] ⏱ Startup StartupQtButtonMotion: 533ms | 3ms
+[13:52:17] [⏱ STARTUP] ⏱ Startup StartupQtAccentSignal: 533ms | 0ms
+[13:52:17] [⏱ STARTUP] ⏱ Startup StartupQtRuntimeReadyHooks: 533ms | 213ms
+[13:52:17] [⏱ STARTUP] ⏱ Startup StartupQtRuntimeEnsure: 533ms | 253ms
+[13:52:17] [⏱ STARTUP] ⏱ Startup StartupQtApplicationIcon: 561ms | 28ms
+[13:52:17] [INFO] 🛡️ Qt crash handler установлен
+[13:52:17] [⏱ STARTUP] ⏱ Startup StartupQtCrashHandler: 561ms | 0ms
+[13:52:17] [⏱ STARTUP] ⏱ Startup StartupQtThemeMode: 561ms | 0ms
+[13:52:17] [⏱ STARTUP] ⏱ Startup StartupQtRoundMenuHairlineFix: 562ms | 0ms
+[13:52:17] [⏱ STARTUP] ⏱ Startup StartupQtSmoothScrollPolicy: 562ms | 0ms
+[13:52:17] [⏱ STARTUP] ⏱ Startup StartupQtAccent: 562ms | 0ms
+[13:52:17] [⏱ STARTUP] ⏱ Startup StartupApplicationBootstrap: 562ms | 282ms
+[13:52:17] [⏱ STARTUP] ⏱ Startup StartupApplicationControllerImport: 614ms | 51ms
+[13:52:17] [⏱ STARTUP] ⏱ Startup StartupQtAwesomePolicyReady: 649ms | 35ms
+[13:52:17] [⏱ STARTUP] ⏱ Startup StartupWindowClassImport: 656ms | 6ms
+[13:52:17] [⏱ STARTUP] ⏱ Startup StartupApplicationControllerInit: 656ms | 0ms
+[13:52:17] [⏱ STARTUP] ⏱ Startup StartupFluentWindowSuper: 853ms | 197ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupWindowCtorSuper: 1120ms | 464ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupWindowBootstrapWindow: 1120ms | 464ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupWindowRegisterAppWindow: 1120ms | 0ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupWindowTrayPort: 1120ms | 0ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupWindowFeatureDeps: 1120ms | 0ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupWindowInitialUiState: 1129ms | 9ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupAppRuntimePaths: 1129ms | 0ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupAppRuntimeStateAccess: 1129ms | 0ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupWindowStateActions: 1129ms | 0ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupWindowFeatureDepsFactory: 1129ms | 0ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupAppRuntimeFeatureDeps: 1129ms | 0ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupFeatureFacadeImport.appearance: 1129ms | 0ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupFeatureFacadeImport.blockcheck: 1130ms | 1ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupFeatureFacadeImport.dns: 1131ms | 1ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupFeatureFacadeImport.dpi_settings: 1132ms | 1ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupFeatureFacadeImport.external: 1133ms | 0ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupFeatureFacadeImport.fakes: 1133ms | 1ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupFeatureFacadeImport.hosts: 1134ms | 1ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupFeatureFacadeImport.lists: 1135ms | 0ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupFeatureFacadeImport.logs: 1135ms | 0ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupFeatureFacadeImport.orchestra: 1142ms | 7ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupFeatureFacadeImport.premium: 1144ms | 1ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupFeatureFacadeImport.program_settings: 1144ms | 1ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupFeatureFacadeImport.runtime: 1148ms | 4ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupFeatureFacadeImport.telegram_proxy: 1151ms | 3ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupFeatureFacadeImport.tray: 1153ms | 1ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupFeatureFacadeImport.updater: 1153ms | 1ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupFeatureFacadeImport.window_geometry: 1154ms | 1ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupFeatureAssemblyImports: 1154ms | 25ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupFeatureAssemblyOrchestra: 1154ms | 0ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupFeatureAssemblyPresetProfileImport: 1182ms | 28ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupFeatureAssemblyPresets: 1182ms | 0ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupFeatureAssemblyProfile: 1182ms | 0ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupFeatureAssemblyPresetProfile: 1182ms | 28ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupFeatureAssemblyRuntime: 1189ms | 7ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupFeatureAssemblyTelegramProxy: 1189ms | 0ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupFeatureAssemblyTray: 1189ms | 0ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupFeatureAssemblySecondary: 1190ms | 0ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupAppRuntimeFeatures: 1190ms | 61ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupAppRuntimeBuild: 1190ms | 70ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupWindowInitNotifications: 1190ms | 0ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupWindowInitPageActions: 1190ms | 0ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupWindowInitStartupDeps: 1190ms | 0ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupWindowUiRootImport: 1220ms | 29ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupWindowUiRootConstruct: 1220ms | 0ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupWindowInitUiRootAttach: 1220ms | 30ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupWindowInitRestoreGeometry: 1221ms | 1ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupWindowAttachRuntime: 1221ms | 31ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupWindowUiRootInitialize: 1226ms | 0ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupWindowUiRootRuntimeCoordinator: 1228ms | 2ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup UI Section: ZAPRET2_MODE_CONTROL __init__.base_page 3ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup UI Section: ZAPRET2_MODE_CONTROL _build_ui.status_card 6ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup UI Section: ZAPRET2_MODE_CONTROL _build_ui.top_summary 16ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup UI Section: ZAPRET2_MODE_CONTROL _build_ui.settings_runtime 2ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup UI Section: ZAPRET2_MODE_CONTROL _build_ui.settings_reload_schedule 0ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup UI Section: ZAPRET2_MODE_CONTROL _build_ui.total 25ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup UI Section: ZAPRET2_MODE_CONTROL __init__.total 34ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupWindowUiRootEagerPages: 1275ms | 47ms
+[13:52:18] [INFO] [SIDEBAR] restore: панель развёрнута (width=900)
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupWindowUiRootNavigation: 1306ms | 31ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupWindowUiRootStack: 1309ms | 0ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupTTFF: 1317ms | first showEvent
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupWindowInitShowCall: 1326ms | 17ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupInteractive: 1326ms | ui_ready, +9ms after StartupTTFF
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupContinueAfterUiReadyQueued: 1326ms | 0ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupLateBootstrapShutdownHook: 1327ms | 0ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupLateBootstrapAppearance: 1328ms | 2ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupLateBootstrapShowBridge: 1329ms | 1ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupLateBootstrapDeferredHooks: 1335ms | 3ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupLateBootstrapTotal: 1335ms | 9ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupFirstPaint: 1339ms | first paint
+[13:52:18] [⏱ STARTUP] ⏱ Startup UI Section: ZAPRET2_MODE_CONTROL activation.total 1ms
+[13:52:18] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_MODE_CONTROL stage=open.activation.first elapsed=0ms budget=200ms
+[13:52:18] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_MODE_CONTROL stage=content.ready.first elapsed=0ms budget=200ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupContinueAfterUiReadyDispatch: 1378ms | continue_startup_requested
+[13:52:18] [INFO] Инициализация компонентов...
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupRuntimeInitQueued: 1395ms | 0ms gaps
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupPostInitChecksQueued: 1395ms | 6500ms after interactive
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupTelegramProxyPageWarmupQueued: 1395ms | 3000ms after interactive
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupSecondaryPageWarmupQueued: 1395ms | ZAPRET2_USER_PRESETS 5000ms after interactive
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupSecondaryPageWarmupQueued: 1396ms | APPEARANCE 6200ms after interactive
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupSecondaryPageWarmupQueued: 1396ms | PREMIUM 7400ms after interactive
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupNetworkDataWarmupQueued: 1396ms | 10000ms after interactive
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupHostsPageWarmupQueued: 1397ms | 0ms after interactive
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupBackendPageDataWarmupQueued: 1397ms | 8000ms after interactive; premium 18000ms after interactive
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupProfileWarmupQueued: 1398ms | 0ms current after interactive
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupProfileSetupUiWarmupQueued: 1398ms | 1000ms after interactive
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupPresetSetupUiWarmupQueued: 1398ms | 2200ms after interactive
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupBuiltinPresetOverrideRefreshQueued: 1398ms | all
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupUserPresetContractMigrationQueued: 1424ms | zapret2_mode
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupUserPresetsWarmupQueued: 1424ms | 8000ms current after interactive; 15000ms secondary after interactive
+[13:52:18] [INFO] Используется winws2.exe для режима zapret2_mode
+[13:52:18] [INFO] Launch runtime API инициализирован
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupStepLaunchRuntimeApi: 1439ms | launch runtime API 12ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup UI PageInit TOP: ZAPRET2_MODE_CONTROL=45ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupProfileWarmupStarted: 1463ms | zapret2_mode
+[13:52:18] [INFO] Launch runtime инициализирован
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupStepLaunchRuntime: 1482ms | launch runtime 9ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupRuntimePhaseTwoQueued: 1482ms | 0ms gaps
+[13:52:18] [✅ SUCCESS] Основной startup-контур готов
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupCoreReady: 1486ms | startup_coordinator, +160ms after StartupInteractive
+[13:52:18] [INFO] Инициализация завершена
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupStepStartupCoreReady: 1486ms | startup core 0ms
+[13:52:18] [INFO] ✅ Инициализация завершена
+[13:52:18] [✅ SUCCESS] Критический startup-контур успешно инициализирован
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupPostInitDeferredScheduled: 1524ms | auto, 0ms after post-init
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupDpiAutostart: 1524ms | auto, 0ms after post-init
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupPostInitQuickPhase: 1524ms | 37ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupPostInit: 1524ms | post_init_scheduled:auto, +38ms after StartupCoreReady
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupPostInitTelegramProxyQueued: 1524ms | 6500ms after post-init
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupPostInitListsQueued: 1524ms | 7500ms after post-init
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupPostInitTrayQueued: 1524ms | 1500ms after post-init
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupDnsAddressMigrationFinished: 1554ms | changed=0
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupLocalDnsProxyChecked: 1560ms | repaired=0
+[13:52:18] [INFO] Инициализация подписок...
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupPostInitResolveMethod: 1678ms | zapret2_mode 0ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupPostInitDeferredStart: 1678ms | zapret2_mode
+[13:52:18] [INFO] Автозапуск передан в единый DPI runtime-путь: zapret2_mode
+[13:52:18] [INFO] 🚀 Запуск DPI (прямой winws2): Пресет
+[13:52:18] [INFO] Запуск асинхронного старта DPI: Пресет (метод: прямой winws2)
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupPostInitDeferredDispatch: 1680ms | zapret2_mode 2ms
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupStepThemeManager: 1681ms | theme manager 0ms
+[13:52:18] [INFO] Используется метод запуска: zapret2_mode
+[13:52:18] [INFO] Process Monitor инициализирован
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupStepProcessMonitor: 1686ms | process monitor 2ms
+[13:52:18] [INFO] Process-monitor thread started (WinAPI canonical mode)
+[13:52:18] [INFO] Подготовка к запуску...
+[13:52:18] [INFO] Hosts, проверка адресов: проверено 0, изменилось: False.
+[13:52:18] [⏱ STARTUP] ⏱ Startup StartupHostsAddressCheckFinished: 1846ms | checked=0 changed=False
+[13:52:19] [INFO] [UPDATE] Имена сайтов проекта: git2.zapret.moe ответило за 0.4 с; список имён: git.zapret.moe, ohwbjkqcft.zapret.moe, cwdnvtsqdc.zapret.moe, git2.zapret.moe, git3.zapret.moe, git4.zapret.moe, git5.zapret.moe, git6.zapret.moe
+[13:52:19] [INFO] Подписка: Free (уровень: -, дней: None, источник: api, статус: Устройство не привязано)
+[13:52:19] [INFO] Подписка инициализирована
+[13:52:19] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[13:52:19] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.read elapsed=6ms
+[13:52:19] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.read elapsed=11ms
+[13:52:19] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.parse elapsed=19ms
+[13:52:19] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.parse elapsed=10ms
+[13:52:19] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.identity elapsed=41ms
+[13:52:19] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.identity elapsed=48ms
+[13:52:19] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=1ms
+[13:52:19] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.templates.load elapsed=12ms
+[13:52:19] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.strategy_catalogs.load elapsed=49ms
+[13:52:19] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.sources.build elapsed=2ms
+[13:52:19] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.profile_list_item.build elapsed=33ms
+[13:52:19] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.total elapsed=1071ms
+[13:52:19] [⏱ UI] ⏱ UiMetric: scope=warmup name=zapret2_mode stage=profile_warmup.list_profiles elapsed=1071ms
+[13:52:19] [⏱ UI] ⏱ UiMetric: scope=warmup name=zapret2_mode stage=profile_warmup.view_state elapsed=10ms
+[13:52:19] [⏱ UI] ⏱ UiMetric: scope=warmup name=zapret2_mode stage=profile.full elapsed=1088ms
+[13:52:20] [INFO] Системный трей инициализирован
+[13:52:20] [⏱ STARTUP] ⏱ Startup StartupTrayInit: 3122ms | 93ms
+[13:52:20] [INFO] [UPDATE] Имена сайтов проекта: wiki3.zapret.moe ответило за 1.6 с; список имён: wiki.zapret.moe, dqcgtipanq.zapret.moe, jzesawgjsz.zapret.moe, wiki2.zapret.moe, wiki3.zapret.moe, wiki4.zapret.moe, wiki5.zapret.moe, wiki6.zapret.moe; не ответили: wiki2.zapret.moe: ConnectionError: ('Connection aborted.', ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', No
+[13:52:20] [⏱ STARTUP] ⏱ Startup StartupQtScrollStyle: 3321ms | 0ms | skipped: scrollbars already permanent
+[13:52:20] [INFO] Проверка обновлений...
+[13:52:20] [🔁 UPDATE] Автоматическая проверка обновлений...
+[13:52:20] [INFO] Запуск из preset файла: C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2\zapret preset Bryansk fix (2).txt
+[13:52:20] [INFO] Запуск DPI...
+[13:52:20] [INFO] Winws2StrategyRunner initialized. exe: C:\Users\какашка\AppData\Roaming\ZapretTwo\exe\winws2.exe
+[13:52:20] [INFO] Winws2StrategyRunner initialized
+[13:52:20] [⏱ STARTUP] ⏱ Startup StartupStepCoreStartup: 3776ms | core startup 1169ms
+[13:52:20] [INFO] Файл hosts успешно прочитан с кодировкой: utf-8
+[13:52:20] [⏱ STARTUP] ⏱ Startup StartupHostsAppliedSelectionRefreshFinished: 3777ms | changed=False (блока ZapretGUI в hosts нет)
+[13:52:20] [INFO] Starting: starting from preset C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2\zapret preset Bryansk fix (2).txt
+[13:52:20] [INFO] Winws2 launch command: C:\Users\какашка\AppData\Roaming\ZapretTwo\exe\winws2.exe @C:\Users\какашка\AppData\Roaming\ZapretTwo\user\tmp\winws2_at_config\winws2_at_a94007ce0922cfb676b4.txt
+[13:52:20] [INFO] Winws2 launch cwd: C:\Users\какашка\AppData\Roaming\ZapretTwo
+[13:52:20] [INFO] Winws2 launch @config: path=C:\Users\какашка\AppData\Roaming\ZapretTwo\user\tmp\winws2_at_config\winws2_at_a94007ce0922cfb676b4.txt, bytes=10394, sha1=62b6c36a146ac69aa0885f16b964af302be73145, source=C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2\zapret preset Bryansk fix (2).txt
+[13:52:20] [INFO] Strategy: Пресет: zapret preset Bryansk fix (2)
+[13:52:20] [⏱ STARTUP] ⏱ Startup StartupImportWarmupFinished: 3803ms | asyncio, requests, psutil, telegram_proxy.runtime.commands, telegram_proxy.manager, tray
+[13:52:20] [⏱ STARTUP] ⏱ Startup StartupHostsPageWarmupStarted: 3803ms | backend_cache
+[13:52:20] [⏱ UI] ⏱ UiMetric: scope=warmup name=hosts stage=hosts_warmup.snapshot elapsed=22ms
+[13:52:20] [⏱ STARTUP] ⏱ Startup StartupHostsPageWarmupFinished: 3825ms | backend_cache
+[13:52:20] [⏱ UI] ⏱ UiMetric: scope=warmup name=hosts stage=backend_page_data elapsed=22ms
+[13:52:21] [🔄 RELEASE] ✅ Forgejo: выпуск 22.0.0.0 (0.62 с)
+[13:52:21] [🔁 UPDATE] Обновлений нет (v22.0.0.0)
+[13:52:21] [INFO] Обновлений нет, установлена версия 22.0.0.0
+[13:52:21] [⏱ STARTUP] Notification received: source=startup.update_check, level=success, queue=immediate
+[13:52:21] [⏱ STARTUP] Notification presenting: source=startup.update_check, presentation=infobar
+[13:52:21] [⏱ UI] ⏱ UiMetric: scope=warmup name=zapret2_mode stage=profile_warmup.strategy_usage elapsed=660ms
+[13:52:21] [SUCCESS] Strategy 'Пресет: zapret preset Bryansk fix (2)' started from preset (PID: 8884)
+[13:52:21] [✅ SUCCESS] Пресет 'Пресет: zapret preset Bryansk fix (2)' успешно запущен
+[13:52:21] [⏱ UI] ⏱ UiMetric: scope=worker name=dpi stage=dpi_start.run elapsed=2975ms
+[13:52:21] [INFO] DPI запущен асинхронно
+[13:52:21] [INFO] ✅ DPI успешно запущен
+[13:52:24] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_PROFILE_SETUP stage=factory.constructor elapsed=89ms
+[13:52:24] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_PROFILE_SETUP stage=ensure.create elapsed=120ms
+[13:52:24] [⏱ STARTUP] ⏱ Startup UI PageInit: ZAPRET2_PROFILE_SETUP 120ms
+[13:52:24] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_PROFILE_SETUP stage=constructor elapsed=120ms budget=200ms
+[13:52:24] [⏱ STARTUP] ⏱ Startup StartupProfileSetupUiWarmupFinished: 7547ms | ZAPRET2_PROFILE_SETUP
+[13:52:24] [⏱ UI] ⏱ UiMetric: scope=warmup name=ZAPRET2_PROFILE_SETUP stage=ui_page.profile_setup elapsed=149ms
+[13:52:24] [⏱ STARTUP] ⏱ Startup StartupPostInitMaintenanceStarted: 7548ms | telega_association_worker
+[13:52:24] [⏱ STARTUP] Telega deferred check: found=no
+[13:52:24] [⏱ STARTUP] Deferred maintenance notifications collected: count=0
+[13:52:24] [⏱ STARTUP] ⏱ Startup StartupPostInitMaintenanceFinished: 7570ms | 21ms
+[13:52:24] [⏱ STARTUP] ⏱ Startup StartupInstallationIntegrity: 7669ms | 153 файлов, deep=False
+[13:52:25] [⏱ STARTUP] ⏱ Startup StartupPostInitChecksStarted: 7886ms | startup_checks_worker
+[13:52:25] [🧹 bfe_util] Выполняется проверка службы Base Filtering Engine (BFE)
+[13:52:25] [☑ INFO] Все системные команды доступны
+[13:52:25] [CHECK_START] Application path: C:\Users\какашка\AppData\Roaming\ZapretTwo
+[13:52:25] [⏱ STARTUP] Startup notifications collected: count=0
+[13:52:25] [⏱ STARTUP] Kaspersky startup check: detected=no
+[13:52:25] [⏱ STARTUP] ⏱ Startup StartupPostInitChecksFinished: 7967ms | 80ms
+[13:52:25] [🔹 main] ✅ Все проверки пройдены
+[13:52:25] [INFO] Telegram Proxy включён и запланирован после старта приложения
+[13:52:25] [⏱ STARTUP] ⏱ Startup StartupPresetSetupUiWarmupFinished: 8189ms | ZAPRET2_PRESET_SETUP
+[13:52:25] [⏱ UI] ⏱ UiMetric: scope=warmup name=ZAPRET2_PRESET_SETUP stage=ui_page.preset_setup elapsed=35ms
+[13:52:25] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=0ms
+[13:52:25] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.cached elapsed=9ms
+[13:52:25] [⏱ UI] ⏱ UiMetric: scope=worker name=profile_list stage=profile_feature.worker.list_profiles.total elapsed=17ms
+[13:52:25] [⏱ UI] ⏱ UiMetric: scope=ui name=Zapret2PresetSetupPage stage=profile_ui.profile_list.build elapsed=1ms detail=119 items
+[13:52:25] [⏱ UI] ⏱ UiMetric: scope=ui name=Zapret2PresetSetupPage stage=profile_ui.apply_payload.total elapsed=15ms
+[13:52:25] [⏱ UI] ⏱ UiMetric: scope=page name=TELEGRAM_PROXY stage=ensure.create elapsed=92ms
+[13:52:25] [⏱ UI] ⏱ UiMetric: scope=page name=TELEGRAM_PROXY stage=constructor elapsed=91ms budget=160ms
+[13:52:25] [⏱ STARTUP] ⏱ Startup StartupTelegramProxyPageWarmupFinished: 8819ms | ui_page
+[13:52:25] [⏱ UI] ⏱ UiMetric: scope=warmup name=TELEGRAM_PROXY stage=ui_page.telegram_proxy elapsed=233ms
+[13:52:25] [⏱ UI] ⏱ UiMetric: scope=ui name=telegram_proxy stage=telegram_proxy_ui.initial_state.load elapsed=148ms
+[13:52:26] [HOSTLISTS] === Проверка хостлистов при запуске ===
+[13:52:26] [INFO] other.txt: 183 строк, user: 0
+[13:52:26] [IPSETS] === Проверка IPsets при запуске ===
+[13:52:26] [INFO] ipset-all.txt: 33048 строк, user: 0
+[13:52:26] [INFO] ipset-ru.txt: 658 строк, user: 0
+[13:52:26] [SUCCESS] ✅ Hostlist-файлы проверены и готовы
+[13:52:26] [SUCCESS] ✅ IPset-файлы проверены и готовы
+[13:52:26] [⏱ STARTUP] ⏱ Startup StartupSecondaryPageWarmupFinished: 9310ms | ZAPRET2_USER_PRESETS
+[13:52:26] [⏱ UI] ⏱ UiMetric: scope=warmup name=ZAPRET2_USER_PRESETS stage=ui_page.secondary.zapret2_user_presets elapsed=82ms
+[13:52:26] [⏱ STARTUP] ⏱ Startup StartupBackendPageDataWarmupStarted: 9398ms | appearance, logs
+[13:52:26] [⏱ UI] ⏱ UiMetric: scope=warmup name=Appearance stage=backend_page_data elapsed=1ms
+[13:52:26] [⏱ UI] ⏱ UiMetric: scope=warmup name=Logs stage=backend_page_data elapsed=16ms
+[13:52:26] [⏱ STARTUP] ⏱ Startup StartupUserPresetsWarmupStarted: 9419ms | zapret2_mode
+[13:52:26] [⏱ UI] ⏱ UiMetric: scope=warmup name=zapret2_mode stage=user_presets.metadata elapsed=18ms detail=138 presets
+[13:52:26] [⏱ STARTUP] ⏱ Startup StartupSecondaryPageWarmupFinished: 9779ms | APPEARANCE
+[13:52:26] [⏱ UI] ⏱ UiMetric: scope=warmup name=APPEARANCE stage=ui_page.secondary.appearance elapsed=63ms
+[13:52:27] [⏱ STARTUP] ⏱ Startup StartupSecondaryPageWarmupFinished: 10220ms | PREMIUM
+[13:52:27] [⏱ UI] ⏱ UiMetric: scope=warmup name=PREMIUM stage=ui_page.secondary.premium elapsed=39ms
+[13:52:28] [⏱ STARTUP] ⏱ Startup StartupPostInitNetworkDataWarmupStarted: 11385ms | backend_cache
+[13:52:28] [⏱ UI] ⏱ UiMetric: scope=warmup name=network stage=backend_page_data elapsed=6ms
+[13:52:33] [⏱ STARTUP] ⏱ Startup StartupUserPresetsWarmupStarted: 16418ms | zapret1_mode
+[13:52:33] [⏱ UI] ⏱ UiMetric: scope=warmup name=zapret1_mode stage=user_presets.metadata elapsed=19ms detail=173 presets
+[13:52:36] [⏱ STARTUP] ⏱ Startup StartupBackendPageDataWarmupStarted: 19410ms | premium
+[13:52:36] [⏱ UI] ⏱ UiMetric: scope=warmup name=Premium stage=backend_page_data elapsed=79ms
+[13:52:43] [⏱ STARTUP] ⏱ Startup RemotePresetsSyncQueued: 26413ms | startup
+[14:21:55] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[14:26:15] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[14:31:21] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[14:35:41] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[14:37:00] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[14:41:02] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[14:52:20] [⏱ STARTUP] ⏱ Startup StartupHostsAddressCheckSkipped: 3601390ms | шлюз проб: ещё рано или идёт проверка по кнопке
+[14:52:20] [⏱ STARTUP] ⏱ Startup StartupHostsAppliedSelectionRefreshFinished: 3601393ms | changed=False (блока ZapretGUI в hosts нет)
+[15:11:33] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_MODE_CONTROL stage=open.activation.repeat elapsed=0ms budget=40ms
+[15:11:33] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_MODE_CONTROL stage=content.ready.first elapsed=0ms budget=200ms
+[15:52:20] [⏱ STARTUP] ⏱ Startup StartupHostsAddressCheckSkipped: 7201401ms | шлюз проб: ещё рано или идёт проверка по кнопке
+[15:52:20] [⏱ STARTUP] ⏱ Startup StartupHostsAppliedSelectionRefreshFinished: 7201414ms | changed=False (блока ZapretGUI в hosts нет)
+[16:02:44] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[16:05:01] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[16:52:20] [⏱ STARTUP] ⏱ Startup StartupHostsAddressCheckSkipped: 10801406ms | шлюз проб: ещё рано или идёт проверка по кнопке
+[16:52:20] [⏱ STARTUP] ⏱ Startup StartupHostsAppliedSelectionRefreshFinished: 10801410ms | changed=False (блока ZapretGUI в hosts нет)
+[16:55:06] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_MODE_CONTROL stage=open.activation.repeat elapsed=0ms budget=40ms
+[16:55:06] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_MODE_CONTROL stage=content.ready.first elapsed=0ms budget=200ms
+[16:55:09] [INFO] Окно вернулось из фона (6213 с): удержано 237 МБ; подтянуто 160 МБ за 65 мс; подкачек за 3 с после возврата: 7237
+[17:52:20] [⏱ STARTUP] ⏱ Startup StartupHostsAddressCheckSkipped: 14401413ms | шлюз проб: ещё рано или идёт проверка по кнопке
+[17:52:20] [⏱ STARTUP] ⏱ Startup StartupHostsAppliedSelectionRefreshFinished: 14401420ms | changed=False (блока ZapretGUI в hosts нет)
+[18:02:23] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[18:06:30] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[18:37:07] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_MODE_CONTROL stage=open.activation.repeat elapsed=0ms budget=40ms
+[18:37:07] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_MODE_CONTROL stage=content.ready.first elapsed=0ms budget=200ms
+[18:37:09] [INFO] Окно вернулось из фона (5903 с): удержано 237 МБ; подтянуто 156 МБ за 37 мс; подкачек за 3 с после возврата: 6667
+[18:52:20] [⏱ STARTUP] ⏱ Startup StartupHostsAddressCheckSkipped: 18001406ms | шлюз проб: ещё рано или идёт проверка по кнопке
+[18:52:20] [⏱ STARTUP] ⏱ Startup StartupHostsAppliedSelectionRefreshFinished: 18001409ms | changed=False (блока ZapretGUI в hosts нет)
+[19:52:20] [⏱ STARTUP] ⏱ Startup RemotePresetsSyncQueued: 21601426ms | periodic
+[19:52:20] [INFO] Hosts, проверка адресов: проверено 0, изменилось: False.
+[19:52:20] [⏱ STARTUP] ⏱ Startup StartupHostsAddressCheckFinished: 21601764ms | checked=0 changed=False
+[19:52:20] [⏱ STARTUP] ⏱ Startup StartupHostsAppliedSelectionRefreshFinished: 21601767ms | changed=False (блока ZapretGUI в hosts нет)
+[20:13:05] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[20:15:21] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[20:26:44] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[20:29:00] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[20:52:20] [⏱ STARTUP] ⏱ Startup StartupHostsAddressCheckSkipped: 25201422ms | шлюз проб: ещё рано или идёт проверка по кнопке
+[20:52:20] [⏱ STARTUP] ⏱ Startup StartupHostsAppliedSelectionRefreshFinished: 25201435ms | changed=False (блока ZapretGUI в hosts нет)
+[21:35:45] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_MODE_CONTROL stage=open.activation.repeat elapsed=0ms budget=40ms
+[21:35:45] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_MODE_CONTROL stage=content.ready.first elapsed=0ms budget=200ms
+[21:52:20] [⏱ STARTUP] ⏱ Startup StartupHostsAddressCheckSkipped: 28801440ms | шлюз проб: ещё рано или идёт проверка по кнопке
+[21:52:20] [⏱ STARTUP] ⏱ Startup StartupHostsAppliedSelectionRefreshFinished: 28801452ms | changed=False (блока ZapretGUI в hosts нет)
+[22:37:36] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_MODE_CONTROL stage=open.activation.repeat elapsed=0ms budget=40ms
+[22:37:36] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_MODE_CONTROL stage=content.ready.first elapsed=0ms budget=200ms
+[22:37:38] [INFO] Окно вернулось из фона (3709 с): удержано 237 МБ; подтянуто 152 МБ за 44 мс; подкачек за 3 с после возврата: 7417
+[22:52:20] [⏱ STARTUP] ⏱ Startup StartupHostsAddressCheckSkipped: 32401470ms | шлюз проб: ещё рано или идёт проверка по кнопке
+[22:52:20] [⏱ STARTUP] ⏱ Startup StartupHostsAppliedSelectionRefreshFinished: 32401475ms | changed=False (блока ZapretGUI в hosts нет)
+[23:15:06] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[23:17:22] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[23:52:20] [⏱ STARTUP] ⏱ Startup StartupHostsAddressCheckSkipped: 36001482ms | шлюз проб: ещё рано или идёт проверка по кнопке
+[23:52:20] [⏱ STARTUP] ⏱ Startup StartupHostsAppliedSelectionRefreshFinished: 36001486ms | changed=False (блока ZapretGUI в hosts нет)
+[00:52:20] [⏱ STARTUP] ⏱ Startup StartupHostsAddressCheckSkipped: 39601481ms | шлюз проб: ещё рано или идёт проверка по кнопке
+[00:52:20] [⏱ STARTUP] ⏱ Startup StartupHostsAppliedSelectionRefreshFinished: 39601485ms | changed=False (блока ZapretGUI в hosts нет)
+[01:52:20] [⏱ STARTUP] ⏱ Startup RemotePresetsSyncQueued: 43201464ms | periodic
+[01:52:20] [INFO] Hosts, проверка адресов: проверено 0, изменилось: False.
+[01:52:20] [⏱ STARTUP] ⏱ Startup StartupHostsAddressCheckFinished: 43201777ms | checked=0 changed=False
+[01:52:20] [⏱ STARTUP] ⏱ Startup StartupHostsAppliedSelectionRefreshFinished: 43201779ms | changed=False (блока ZapretGUI в hosts нет)
+[02:52:20] [⏱ STARTUP] ⏱ Startup StartupHostsAddressCheckSkipped: 46801500ms | шлюз проб: ещё рано или идёт проверка по кнопке
+[02:52:20] [⏱ STARTUP] ⏱ Startup StartupHostsAppliedSelectionRefreshFinished: 46801503ms | changed=False (блока ZapretGUI в hosts нет)
+[03:18:10] [INFO] Windows завершает сеанс: закрываем GUI без диалога
+[03:18:10] [WARNING] Watched winws process exited unexpectedly (code: 1073807364); notifying runtime
+[03:18:10] [INFO] Unexpected exit of 'Пресет: zapret preset Bryansk fix (2)' diagnosed as: diagnosed
+[03:18:11] [INFO] [SIDEBAR] flush при windows_session_end: expanded=True
+[03:18:11] [INFO] Sync runtime shutdown requested: windows_session_end
+[03:18:11] [WARNING] Strategy process exited (code: 1073807364)
+[03:18:11] [WARNING] Strategy process exited (code: 1073807364)
+[03:18:11] [INFO] No running process to stop
+[03:18:11] [INFO] Process Monitor остановлен

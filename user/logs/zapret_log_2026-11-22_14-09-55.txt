@@ -1,0 +1,1187 @@
+﻿=== Zapret 2 GUI Log - Started 2026-11-22 14:09:55 ===
+Log file: zapret_log_2026-11-22_14-09-55.txt
+Total log files in folder: 4
+============================================================
+
+[14:09:55] [INFO] 🛡️ Crash handler установлен (faulthandler + Python exceptions)
+[14:09:56] [🔹 main] === ЗАПУСК ПРИЛОЖЕНИЯ ===
+[14:09:56] [🔹 main] 22.0.0.0
+[14:09:56] [⏱ STARTUP] ⏱ Startup StartupExeToPython: 88ms | 662ms
+[14:09:56] [⏱ STARTUP] ⏱ Startup StartupSettingsDatabase: 354ms | 266ms
+[14:09:56] [⏱ STARTUP] ⏱ Startup StartupShellBootstrap: 360ms | 6ms
+[14:09:56] [⏱ STARTUP] ⏱ Startup StartupQtRuntimeQApplication: 456ms | 84ms
+[14:09:56] 
+[14:09:56] [1;33m📢 Tips:[0m QFluentWidgets Pro is now released. Click [1;96mhttps://qfluentwidgets.com/pages/pro[0m to learn more about it.
+[14:09:56] 
+[14:09:56] [⏱ STARTUP] ⏱ Startup StartupQtFluentTranslator: 670ms | 213ms
+[14:09:56] [⏱ STARTUP] ⏱ Startup StartupQtInfoBarDuration: 671ms | 0ms
+[14:09:56] [⏱ STARTUP] ⏱ Startup StartupQtInfoBarLayout: 671ms | 0ms
+[14:09:56] [⏱ STARTUP] ⏱ Startup StartupQtComboPopupGuard: 675ms | 2ms
+[14:09:56] [⏱ STARTUP] ⏱ Startup StartupQtNativeToolTipGuard: 677ms | 2ms
+[14:09:56] [⏱ STARTUP] ⏱ Startup StartupQtAnimationCompat: 677ms | 0ms
+[14:09:56] [⏱ STARTUP] ⏱ Startup StartupQtThemeSignalGuards: 678ms | 0ms
+[14:09:56] [⏱ STARTUP] ⏱ Startup StartupQtFluentIconCache: 678ms | 0ms
+[14:09:56] [⏱ STARTUP] ⏱ Startup StartupQtFluentStyleCache: 678ms | 0ms
+[14:09:56] [⏱ STARTUP] ⏱ Startup StartupQtButtonMotion: 682ms | 4ms
+[14:09:56] [⏱ STARTUP] ⏱ Startup StartupQtAccentSignal: 682ms | 0ms
+[14:09:56] [⏱ STARTUP] ⏱ Startup StartupQtRuntimeReadyHooks: 682ms | 226ms
+[14:09:56] [⏱ STARTUP] ⏱ Startup StartupQtRuntimeEnsure: 682ms | 322ms
+[14:09:56] [⏱ STARTUP] ⏱ Startup StartupQtApplicationIcon: 700ms | 18ms
+[14:09:56] [INFO] 🛡️ Qt crash handler установлен
+[14:09:56] [⏱ STARTUP] ⏱ Startup StartupQtCrashHandler: 700ms | 0ms
+[14:09:56] [⏱ STARTUP] ⏱ Startup StartupQtThemeMode: 700ms | 0ms
+[14:09:56] [⏱ STARTUP] ⏱ Startup StartupQtRoundMenuHairlineFix: 701ms | 0ms
+[14:09:56] [⏱ STARTUP] ⏱ Startup StartupQtSmoothScrollPolicy: 701ms | 0ms
+[14:09:56] [⏱ STARTUP] ⏱ Startup StartupQtAccent: 701ms | 0ms
+[14:09:56] [⏱ STARTUP] ⏱ Startup StartupApplicationBootstrap: 701ms | 341ms
+[14:09:56] [⏱ STARTUP] ⏱ Startup StartupApplicationControllerImport: 756ms | 54ms
+[14:09:56] [⏱ STARTUP] ⏱ Startup StartupQtAwesomePolicyReady: 799ms | 43ms
+[14:09:56] [⏱ STARTUP] ⏱ Startup StartupWindowClassImport: 807ms | 8ms
+[14:09:56] [⏱ STARTUP] ⏱ Startup StartupApplicationControllerInit: 807ms | 0ms
+[14:09:57] [⏱ STARTUP] ⏱ Startup StartupFluentWindowSuper: 1045ms | 238ms
+[14:09:57] [⏱ STARTUP] ⏱ Startup StartupWindowCtorSuper: 1975ms | 1168ms
+[14:09:57] [⏱ STARTUP] ⏱ Startup StartupWindowBootstrapWindow: 1975ms | 1168ms
+[14:09:57] [⏱ STARTUP] ⏱ Startup StartupWindowRegisterAppWindow: 1975ms | 0ms
+[14:09:57] [⏱ STARTUP] ⏱ Startup StartupWindowTrayPort: 1975ms | 0ms
+[14:09:57] [⏱ STARTUP] ⏱ Startup StartupWindowFeatureDeps: 1975ms | 0ms
+[14:09:57] [⏱ STARTUP] ⏱ Startup StartupWindowInitialUiState: 1985ms | 10ms
+[14:09:57] [⏱ STARTUP] ⏱ Startup StartupAppRuntimePaths: 1985ms | 0ms
+[14:09:57] [⏱ STARTUP] ⏱ Startup StartupAppRuntimeStateAccess: 1985ms | 0ms
+[14:09:57] [⏱ STARTUP] ⏱ Startup StartupWindowStateActions: 1985ms | 0ms
+[14:09:57] [⏱ STARTUP] ⏱ Startup StartupWindowFeatureDepsFactory: 1985ms | 0ms
+[14:09:57] [⏱ STARTUP] ⏱ Startup StartupAppRuntimeFeatureDeps: 1985ms | 0ms
+[14:09:57] [⏱ STARTUP] ⏱ Startup StartupFeatureFacadeImport.appearance: 1986ms | 0ms
+[14:09:57] [⏱ STARTUP] ⏱ Startup StartupFeatureFacadeImport.blockcheck: 1986ms | 1ms
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupFeatureFacadeImport.dns: 1988ms | 2ms
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupFeatureFacadeImport.dpi_settings: 1989ms | 1ms
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupFeatureFacadeImport.external: 1990ms | 1ms
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupFeatureFacadeImport.fakes: 1991ms | 1ms
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupFeatureFacadeImport.hosts: 1992ms | 2ms
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupFeatureFacadeImport.lists: 1993ms | 1ms
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupFeatureFacadeImport.logs: 1994ms | 1ms
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupFeatureFacadeImport.orchestra: 2002ms | 8ms
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupFeatureFacadeImport.premium: 2004ms | 1ms
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupFeatureFacadeImport.program_settings: 2005ms | 1ms
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupFeatureFacadeImport.runtime: 2009ms | 4ms
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupFeatureFacadeImport.telegram_proxy: 2012ms | 4ms
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupFeatureFacadeImport.tray: 2014ms | 1ms
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupFeatureFacadeImport.updater: 2015ms | 1ms
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupFeatureFacadeImport.window_geometry: 2015ms | 1ms
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupFeatureAssemblyImports: 2015ms | 30ms
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupFeatureAssemblyOrchestra: 2015ms | 0ms
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupFeatureAssemblyPresetProfileImport: 2047ms | 32ms
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupFeatureAssemblyPresets: 2047ms | 0ms
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupFeatureAssemblyProfile: 2047ms | 0ms
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupFeatureAssemblyPresetProfile: 2047ms | 32ms
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupFeatureAssemblyRuntime: 2055ms | 7ms
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupFeatureAssemblyTelegramProxy: 2055ms | 0ms
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupFeatureAssemblyTray: 2055ms | 0ms
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupFeatureAssemblySecondary: 2056ms | 0ms
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupAppRuntimeFeatures: 2056ms | 70ms
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupAppRuntimeBuild: 2056ms | 80ms
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupWindowInitNotifications: 2056ms | 0ms
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupWindowInitPageActions: 2056ms | 0ms
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupWindowInitStartupDeps: 2056ms | 0ms
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupWindowUiRootImport: 2085ms | 29ms
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupWindowUiRootConstruct: 2085ms | 0ms
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupWindowInitUiRootAttach: 2085ms | 29ms
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupWindowInitRestoreGeometry: 2087ms | 1ms
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupWindowAttachRuntime: 2087ms | 31ms
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupWindowUiRootInitialize: 2091ms | 0ms
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupWindowUiRootRuntimeCoordinator: 2093ms | 2ms
+[14:09:58] [⏱ STARTUP] ⏱ Startup UI Section: ZAPRET2_MODE_CONTROL __init__.base_page 4ms
+[14:09:58] [⏱ STARTUP] ⏱ Startup UI Section: ZAPRET2_MODE_CONTROL _build_ui.status_card 8ms
+[14:09:58] [⏱ STARTUP] ⏱ Startup UI Section: ZAPRET2_MODE_CONTROL _build_ui.top_summary 18ms
+[14:09:58] [⏱ STARTUP] ⏱ Startup UI Section: ZAPRET2_MODE_CONTROL _build_ui.settings_runtime 2ms
+[14:09:58] [⏱ STARTUP] ⏱ Startup UI Section: ZAPRET2_MODE_CONTROL _build_ui.settings_reload_schedule 0ms
+[14:09:58] [⏱ STARTUP] ⏱ Startup UI Section: ZAPRET2_MODE_CONTROL _build_ui.total 29ms
+[14:09:58] [⏱ STARTUP] ⏱ Startup UI Section: ZAPRET2_MODE_CONTROL __init__.total 41ms
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupWindowUiRootEagerPages: 2149ms | 55ms
+[14:09:58] [INFO] [SIDEBAR] restore: панель развёрнута (width=900)
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupWindowUiRootNavigation: 2200ms | 51ms
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupWindowUiRootStack: 2204ms | 0ms
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupTTFF: 2219ms | first showEvent
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupWindowInitShowCall: 2228ms | 24ms
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupInteractive: 2229ms | ui_ready, +10ms after StartupTTFF
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupContinueAfterUiReadyQueued: 2229ms | 0ms
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupLateBootstrapShutdownHook: 2229ms | 0ms
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupLateBootstrapAppearance: 2232ms | 2ms
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupLateBootstrapShowBridge: 2233ms | 1ms
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupLateBootstrapDeferredHooks: 2243ms | 5ms
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupLateBootstrapTotal: 2243ms | 14ms
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupFirstPaint: 2251ms | first paint
+[14:09:58] [⏱ STARTUP] ⏱ Startup UI Section: ZAPRET2_MODE_CONTROL activation.total 1ms
+[14:09:58] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_MODE_CONTROL stage=open.activation.first elapsed=0ms budget=200ms
+[14:09:58] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_MODE_CONTROL stage=content.ready.first elapsed=0ms budget=200ms
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupContinueAfterUiReadyDispatch: 2322ms | continue_startup_requested
+[14:09:58] [INFO] Инициализация компонентов...
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupRuntimeInitQueued: 2356ms | 0ms gaps
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupPostInitChecksQueued: 2356ms | 6500ms after interactive
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupTelegramProxyPageWarmupQueued: 2356ms | 3000ms after interactive
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupSecondaryPageWarmupQueued: 2356ms | ZAPRET2_USER_PRESETS 5000ms after interactive
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupSecondaryPageWarmupQueued: 2356ms | APPEARANCE 6200ms after interactive
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupSecondaryPageWarmupQueued: 2356ms | PREMIUM 7400ms after interactive
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupNetworkDataWarmupQueued: 2357ms | 10000ms after interactive
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupHostsPageWarmupQueued: 2359ms | 0ms after interactive
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupBackendPageDataWarmupQueued: 2359ms | 8000ms after interactive; premium 18000ms after interactive
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupProfileWarmupQueued: 2359ms | 0ms current after interactive
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupProfileSetupUiWarmupQueued: 2359ms | 1000ms after interactive
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupPresetSetupUiWarmupQueued: 2360ms | 2200ms after interactive
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupBuiltinPresetOverrideRefreshQueued: 2360ms | all
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupUserPresetContractMigrationQueued: 2386ms | zapret2_mode
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupUserPresetsWarmupQueued: 2387ms | 8000ms current after interactive; 15000ms secondary after interactive
+[14:09:58] [INFO] Используется winws2.exe для режима zapret2_mode
+[14:09:58] [INFO] Launch runtime API инициализирован
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupStepLaunchRuntimeApi: 2399ms | launch runtime API 10ms
+[14:09:58] [⏱ STARTUP] ⏱ Startup UI PageInit TOP: ZAPRET2_MODE_CONTROL=52ms
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupProfileWarmupStarted: 2418ms | zapret2_mode
+[14:09:58] [INFO] Launch runtime инициализирован
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupStepLaunchRuntime: 2499ms | launch runtime 20ms
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupRuntimePhaseTwoQueued: 2507ms | 0ms gaps
+[14:09:58] [✅ SUCCESS] Основной startup-контур готов
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupCoreReady: 2516ms | startup_coordinator, +287ms after StartupInteractive
+[14:09:58] [INFO] Инициализация завершена
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupStepStartupCoreReady: 2517ms | startup core 1ms
+[14:09:58] [INFO] ✅ Инициализация завершена
+[14:09:58] [✅ SUCCESS] Критический startup-контур успешно инициализирован
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupPostInitDeferredScheduled: 2518ms | auto, 0ms after post-init
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupDpiAutostart: 2518ms | auto, 0ms after post-init
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupPostInitQuickPhase: 2518ms | 1ms
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupPostInit: 2518ms | post_init_scheduled:auto, +2ms after StartupCoreReady
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupPostInitTelegramProxyQueued: 2519ms | 6500ms after post-init
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupPostInitListsQueued: 2519ms | 7500ms after post-init
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupPostInitTrayQueued: 2520ms | 1500ms after post-init
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupDnsAddressMigrationFinished: 2556ms | changed=0
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupLocalDnsProxyChecked: 2570ms | repaired=0
+[14:09:58] [INFO] Инициализация подписок...
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupPostInitResolveMethod: 2747ms | zapret2_mode 0ms
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupPostInitDeferredStart: 2747ms | zapret2_mode
+[14:09:58] [INFO] Автозапуск передан в единый DPI runtime-путь: zapret2_mode
+[14:09:58] [INFO] 🚀 Запуск DPI (прямой winws2): Пресет
+[14:09:58] [INFO] Запуск асинхронного старта DPI: Пресет (метод: прямой winws2)
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupPostInitDeferredDispatch: 2751ms | zapret2_mode 4ms
+[14:09:58] [INFO] Используется метод запуска: zapret2_mode
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupStepThemeManager: 2752ms | theme manager 0ms
+[14:09:58] [INFO] Process Monitor инициализирован
+[14:09:58] [⏱ STARTUP] ⏱ Startup StartupStepProcessMonitor: 2767ms | process monitor 4ms
+[14:09:58] [INFO] Process-monitor thread started (WinAPI canonical mode)
+[14:09:58] [INFO] Подготовка к запуску...
+[14:09:59] [INFO] [UPDATE] Имена сайтов проекта: git2.zapret.moe ответило за 0.4 с; список имён: iianajhlkh.zapret.moe, yklgyfpuzd.zapret.moe, gufltrdllf.zapret.moe, vtmwadhkda.zapret.moe, hfsktrgjgt.zapret.moe, ynbejohrap.zapret.moe, ijyqghvxdj.zapret.moe, git.zapret.moe, ohwbjkqcft.zapret.moe, cwdnvtsqdc.zapret.moe, git2.zapret.moe, git3.zapret.moe, git4.zapret.moe, git5.zapret.moe, git6.zapret.moe
+[14:09:59] [INFO] Подписка: Free (уровень: -, дней: None, источник: api, статус: Устройство не привязано)
+[14:09:59] [INFO] Подписка инициализирована
+[14:09:59] [INFO] Hosts, проверка адресов: проверено 0, изменилось: False.
+[14:09:59] [⏱ STARTUP] ⏱ Startup StartupHostsAddressCheckFinished: 3299ms | checked=0 changed=False
+[14:09:59] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[14:09:59] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.read elapsed=10ms
+[14:09:59] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.read elapsed=9ms
+[14:09:59] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.parse elapsed=45ms
+[14:09:59] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.parse elapsed=53ms
+[14:09:59] [INFO] [UPDATE] Имена сайтов проекта: wiki3.zapret.moe ответило за 0.9 с; список имён: lqjlgfmldl.zapret.moe, otukcszfwr.zapret.moe, wiki.zapret.moe, dqcgtipanq.zapret.moe, jzesawgjsz.zapret.moe, wiki2.zapret.moe, wiki3.zapret.moe, wiki4.zapret.moe, wiki5.zapret.moe, wiki6.zapret.moe
+[14:09:59] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.identity elapsed=104ms
+[14:09:59] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.identity elapsed=110ms
+[14:09:59] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=9ms
+[14:09:59] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.templates.load elapsed=64ms
+[14:09:59] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.strategy_catalogs.load elapsed=111ms
+[14:09:59] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.sources.build elapsed=3ms
+[14:10:00] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.profile_list_item.build elapsed=83ms
+[14:10:00] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.total elapsed=1415ms
+[14:10:00] [⏱ UI] ⏱ UiMetric: scope=warmup name=zapret2_mode stage=profile_warmup.list_profiles elapsed=1415ms
+[14:10:00] [⏱ UI] ⏱ UiMetric: scope=warmup name=zapret2_mode stage=profile_warmup.view_state elapsed=19ms
+[14:10:00] [⏱ UI] ⏱ UiMetric: scope=warmup name=zapret2_mode stage=profile.full elapsed=1463ms
+[14:10:00] [INFO] Системный трей инициализирован
+[14:10:00] [⏱ STARTUP] ⏱ Startup StartupTrayInit: 4182ms | 148ms
+[14:10:00] [⏱ STARTUP] ⏱ Startup StartupQtScrollStyle: 4242ms | 0ms | skipped: scrollbars already permanent
+[14:10:00] [INFO] Проверка обновлений...
+[14:10:00] [🔁 UPDATE] Автоматическая проверка обновлений...
+[14:10:01] [INFO] Запуск из preset файла: C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2\zapret preset Bryansk circular.txt
+[14:10:01] [INFO] Запуск DPI...
+[14:10:01] [INFO] Winws2StrategyRunner initialized. exe: C:\Users\какашка\AppData\Roaming\ZapretTwo\exe\winws2.exe
+[14:10:01] [INFO] Winws2StrategyRunner initialized
+[14:10:01] [⏱ STARTUP] ⏱ Startup StartupStepCoreStartup: 5306ms | core startup 1224ms
+[14:10:01] [INFO] Файл hosts успешно прочитан с кодировкой: utf-8
+[14:10:01] [⏱ STARTUP] ⏱ Startup StartupHostsAppliedSelectionRefreshFinished: 5306ms | changed=False (блока ZapretGUI в hosts нет)
+[14:10:01] [INFO] Starting: starting from preset C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2\zapret preset Bryansk circular.txt
+[14:10:01] [INFO] Winws2 launch command: C:\Users\какашка\AppData\Roaming\ZapretTwo\exe\winws2.exe @C:\Users\какашка\AppData\Roaming\ZapretTwo\user\tmp\winws2_at_config\winws2_at_bb3073e7d5ba293effdf.txt
+[14:10:01] [INFO] Winws2 launch cwd: C:\Users\какашка\AppData\Roaming\ZapretTwo
+[14:10:01] [INFO] Winws2 launch @config: path=C:\Users\какашка\AppData\Roaming\ZapretTwo\user\tmp\winws2_at_config\winws2_at_bb3073e7d5ba293effdf.txt, bytes=12242, sha1=9bb7b5e330fb51b4196d38ebb914848e00d69125, source=C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2\zapret preset Bryansk circular.txt
+[14:10:01] [INFO] Strategy: Пресет: zapret preset Bryansk fix FULL (Discord + YouTube + Games)
+[14:10:01] [⏱ STARTUP] ⏱ Startup StartupImportWarmupFinished: 5331ms | asyncio, requests, psutil, telegram_proxy.runtime.commands, telegram_proxy.manager, tray
+[14:10:01] [⏱ STARTUP] ⏱ Startup StartupHostsPageWarmupStarted: 5331ms | backend_cache
+[14:10:01] [⏱ UI] ⏱ UiMetric: scope=warmup name=hosts stage=hosts_warmup.snapshot elapsed=26ms
+[14:10:01] [⏱ STARTUP] ⏱ Startup StartupHostsPageWarmupFinished: 5357ms | backend_cache
+[14:10:01] [⏱ UI] ⏱ UiMetric: scope=warmup name=hosts stage=backend_page_data elapsed=26ms
+[14:10:02] [⏱ UI] ⏱ UiMetric: scope=warmup name=zapret2_mode stage=profile_warmup.strategy_usage elapsed=670ms
+[14:10:02] [SUCCESS] Strategy 'Пресет: zapret preset Bryansk fix FULL (Discord + YouTube + Games)' started from preset (PID: 1132)
+[14:10:02] [✅ SUCCESS] Пресет 'Пресет: zapret preset Bryansk fix FULL (Discord + YouTube + Games)' успешно запущен
+[14:10:02] [⏱ UI] ⏱ UiMetric: scope=worker name=dpi stage=dpi_start.run elapsed=3466ms
+[14:10:02] [INFO] DPI запущен асинхронно
+[14:10:02] [INFO] ✅ DPI успешно запущен
+[14:10:03] [🔄 RELEASE] ✅ Зеркало VPS Update (Новый основной) (HTTPS): выпуск 22.0.0.0
+[14:10:03] [🔁 UPDATE] Обновлений нет (v22.0.0.0)
+[14:10:03] [INFO] Обновлений нет, установлена версия 22.0.0.0
+[14:10:03] [⏱ STARTUP] Notification received: source=startup.update_check, level=success, queue=immediate
+[14:10:03] [⏱ STARTUP] Notification presenting: source=startup.update_check, presentation=infobar
+[14:10:04] [⏱ STARTUP] ⏱ Startup StartupPostInitMaintenanceStarted: 8516ms | telega_association_worker
+[14:10:04] [⏱ STARTUP] Telega deferred check: found=no
+[14:10:04] [⏱ STARTUP] Deferred maintenance notifications collected: count=0
+[14:10:04] [⏱ STARTUP] ⏱ Startup StartupPostInitMaintenanceFinished: 8527ms | 10ms
+[14:10:04] [⏱ STARTUP] ⏱ Startup StartupInstallationIntegrity: 8736ms | 153 файлов, deep=False
+[14:10:04] [⏱ STARTUP] ⏱ Startup StartupPostInitChecksStarted: 8856ms | startup_checks_worker
+[14:10:04] [🧹 bfe_util] Выполняется проверка службы Base Filtering Engine (BFE)
+[14:10:04] [☑ INFO] Все системные команды доступны
+[14:10:04] [CHECK_START] Application path: C:\Users\какашка\AppData\Roaming\ZapretTwo
+[14:10:04] [⏱ STARTUP] Startup notifications collected: count=0
+[14:10:04] [⏱ STARTUP] Kaspersky startup check: detected=no
+[14:10:04] [⏱ STARTUP] ⏱ Startup StartupPostInitChecksFinished: 8972ms | 115ms
+[14:10:04] [🔹 main] ✅ Все проверки пройдены
+[14:10:05] [INFO] Telegram Proxy включён и запланирован после старта приложения
+[14:10:05] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_PROFILE_SETUP stage=factory.constructor elapsed=113ms
+[14:10:05] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_PROFILE_SETUP stage=ensure.create elapsed=153ms
+[14:10:05] [⏱ STARTUP] ⏱ Startup UI PageInit: ZAPRET2_PROFILE_SETUP 153ms
+[14:10:05] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_PROFILE_SETUP stage=constructor elapsed=153ms budget=200ms
+[14:10:05] [⏱ STARTUP] ⏱ Startup StartupProfileSetupUiWarmupFinished: 9750ms | ZAPRET2_PROFILE_SETUP
+[14:10:05] [⏱ UI] ⏱ UiMetric: scope=warmup name=ZAPRET2_PROFILE_SETUP stage=ui_page.profile_setup elapsed=185ms
+[14:10:06] [HOSTLISTS] === Проверка хостлистов при запуске ===
+[14:10:06] [INFO] other.txt: 183 строк, user: 0
+[14:10:06] [IPSETS] === Проверка IPsets при запуске ===
+[14:10:06] [INFO] ipset-all.txt: 33048 строк, user: 0
+[14:10:06] [INFO] ipset-ru.txt: 658 строк, user: 0
+[14:10:06] [SUCCESS] ✅ Hostlist-файлы проверены и готовы
+[14:10:06] [SUCCESS] ✅ IPset-файлы проверены и готовы
+[14:10:06] [⏱ STARTUP] ⏱ Startup StartupPresetSetupUiWarmupFinished: 10214ms | ZAPRET2_PRESET_SETUP
+[14:10:06] [⏱ UI] ⏱ UiMetric: scope=warmup name=ZAPRET2_PRESET_SETUP stage=ui_page.preset_setup elapsed=60ms
+[14:10:06] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=1ms
+[14:10:06] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.cached elapsed=19ms
+[14:10:06] [⏱ UI] ⏱ UiMetric: scope=worker name=profile_list stage=profile_feature.worker.list_profiles.total elapsed=48ms
+[14:10:06] [⏱ UI] ⏱ UiMetric: scope=ui name=Zapret2PresetSetupPage stage=profile_ui.profile_list.build elapsed=3ms detail=123 items
+[14:10:06] [⏱ UI] ⏱ UiMetric: scope=ui name=Zapret2PresetSetupPage stage=profile_ui.apply_payload.total elapsed=47ms
+[14:10:06] [⏱ STARTUP] ⏱ Startup StartupBackendPageDataWarmupStarted: 10356ms | appearance, logs
+[14:10:06] [⏱ UI] ⏱ UiMetric: scope=warmup name=Appearance stage=backend_page_data elapsed=1ms
+[14:10:06] [⏱ UI] ⏱ UiMetric: scope=warmup name=Logs stage=backend_page_data elapsed=9ms
+[14:10:06] [⏱ STARTUP] ⏱ Startup StartupUserPresetsWarmupStarted: 10386ms | zapret2_mode
+[14:10:06] [⏱ UI] ⏱ UiMetric: scope=warmup name=zapret2_mode stage=user_presets.metadata elapsed=4ms detail=138 presets
+[14:10:06] [⏱ STARTUP] ⏱ Startup StartupTelegramProxyPageWarmupFinished: 10731ms | ui_page
+[14:10:06] [⏱ UI] ⏱ UiMetric: scope=warmup name=TELEGRAM_PROXY stage=ui_page.telegram_proxy elapsed=123ms
+[14:10:07] [⏱ STARTUP] ⏱ Startup StartupSecondaryPageWarmupFinished: 11192ms | ZAPRET2_USER_PRESETS
+[14:10:07] [⏱ UI] ⏱ UiMetric: scope=warmup name=ZAPRET2_USER_PRESETS stage=ui_page.secondary.zapret2_user_presets elapsed=54ms
+[14:10:07] [⏱ STARTUP] ⏱ Startup StartupSecondaryPageWarmupFinished: 11701ms | APPEARANCE
+[14:10:07] [⏱ UI] ⏱ UiMetric: scope=warmup name=APPEARANCE stage=ui_page.secondary.appearance elapsed=111ms
+[14:10:08] [⏱ UI] ⏱ UiMetric: scope=page name=PREMIUM stage=ensure.create elapsed=90ms
+[14:10:08] [⏱ UI] ⏱ UiMetric: scope=page name=PREMIUM stage=constructor elapsed=90ms budget=120ms
+[14:10:08] [⏱ STARTUP] ⏱ Startup StartupSecondaryPageWarmupFinished: 12264ms | PREMIUM
+[14:10:08] [⏱ UI] ⏱ UiMetric: scope=warmup name=PREMIUM stage=ui_page.secondary.premium elapsed=155ms
+[14:10:08] [⏱ STARTUP] ⏱ Startup StartupPostInitNetworkDataWarmupStarted: 12357ms | backend_cache
+[14:10:08] [⏱ UI] ⏱ UiMetric: scope=warmup name=network stage=backend_page_data elapsed=29ms
+[14:10:12] [INFO] [UPDATE] Имена сайтов проекта: git2.zapret.moe: ConnectionError: HTTPSConnectionPool(host='git2.zapret.moe', port=443): Read timed out.
+[14:10:12] [⚠ WARNING] Интерфейс не отвечает 2.5с. Стек GUI-потока:
+  File "C:\Users\3AB0~1\AppData\Roaming\ZAPRET~1\_INTER~1\main.py", line 25, in <module>
+  File "C:\Users\3AB0~1\AppData\Roaming\ZAPRET~1\_INTER~1\main\launch_gate.py", line 123, in run_guarded
+  File "C:\Users\3AB0~1\AppData\Roaming\ZAPRET~1\_INTER~1\main.py", line 21, in _run
+  File "C:\Users\3AB0~1\AppData\Roaming\ZAPRET~1\_INTER~1\main\entry.py", line 355, in main
+  File "C:\Users\3AB0~1\AppData\Roaming\ZAPRET~1\_INTER~1\ui\fluent_app_window.py", line 145, in event
+  File "C:\Users\3AB0~1\AppData\Roaming\ZAPRET~1\_INTER~1\qframelesswindow\windows\__init__.py", line 248, in event
+  File "C:\Users\3AB0~1\AppData\Roaming\ZAPRET~1\_INTER~1\presets\ui\control\status_hero_card.py", line 386, in paintEvent
+Занятые фоновые потоки:
+  tg-proxy-loop: C:\Users\3AB0~1\AppData\Roaming\ZAPRET~1\_INTER~1\asyncio\windows_events.py:778 _poll
+  winws-exit-watcher: C:\Users\3AB0~1\AppData\Roaming\ZAPRET~1\_INTER~1\subprocess.py:1605 _wait
+  update-forgejo: C:\Users\3AB0~1\AppData\Roaming\ZAPRET~1\_INTER~1\socket.py:987 getaddrinfo
+  3932: C:\Users\3AB0~1\AppData\Roaming\ZAPRET~1\_INTER~1\utils\windows_process_probe.py:116 iter_process_records_winapi_strict
+  update-release-watch: C:\Users\3AB0~1\AppData\Roaming\ZAPRET~1\_INTER~1\ssl.py:1138 read
+  busy-sampler: C:\Users\3AB0~1\AppData\Roaming\ZAPRET~1\_INTER~1\zapret_update\screen.py:184 _sample_forever
+  show-event-watcher: C:\Users\3AB0~1\AppData\Roaming\ZAPRET~1\_INTER~1\startup\single_instance.py:104 wait_fn
+[14:10:13] [⏱ STARTUP] ⏱ Startup StartupUserPresetsWarmupStarted: 17419ms | zapret1_mode
+[14:10:13] [INFO] Интерфейс снова отвечает, блокировка длилась 3.1с
+[14:10:13] [⏱ UI] ⏱ UiMetric: scope=warmup name=zapret1_mode stage=user_presets.metadata elapsed=184ms detail=173 presets
+[14:10:16] [⏱ STARTUP] ⏱ Startup StartupBackendPageDataWarmupStarted: 20359ms | premium
+[14:10:16] [⏱ UI] ⏱ UiMetric: scope=warmup name=Premium stage=backend_page_data elapsed=73ms
+[14:10:23] [⏱ STARTUP] ⏱ Startup RemotePresetsSyncQueued: 27391ms | startup
+[14:10:23] [INFO] [UPDATE] Имена сайтов проекта: iianajhlkh.zapret.moe: ConnectionError: HTTPSConnectionPool(host='iianajhlkh.zapret.moe', port=443): Read timed out.
+[14:10:42] [⏱ UI] ⏱ UiMetric: scope=page name=PREMIUM stage=open.navigation.first elapsed=5ms budget=120ms
+[14:10:42] [⏱ UI] ⏱ UiMetric: scope=page name=PREMIUM stage=open.activation.first elapsed=0ms budget=120ms
+[14:10:42] [⏱ UI] ⏱ UiMetric: scope=page name=PREMIUM stage=content.ready.first elapsed=8ms budget=120ms
+[14:11:14] [⏱ UI] ⏱ UiMetric: scope=page name=PREMIUM stage=open.activation.repeat elapsed=0ms budget=40ms
+[14:11:14] [WARNING] ⏱ UiMetric: scope=page name=PREMIUM stage=content.ready.first elapsed=32846ms budget=120ms
+[14:12:58] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_MODE_CONTROL stage=open.navigation.first elapsed=7ms budget=200ms
+[14:12:58] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_MODE_CONTROL stage=open.activation.repeat elapsed=0ms budget=40ms
+[14:12:58] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_MODE_CONTROL stage=content.ready.first elapsed=13ms budget=200ms
+[14:12:59] [WARNING] 🛑 Остановка DPI (прямой winws2)...
+[14:12:59] [INFO] Запуск асинхронной остановки DPI (метод: прямой winws2)
+[14:12:59] [WARNING] Остановка DPI...
+[14:12:59] [INFO] Завершение процессов...
+[14:12:59] [INFO] Sync runtime shutdown requested: preset_stop_worker:zapret2_mode
+[14:12:59] [INFO] Stopping strategy 'Пресет: zapret preset Bryansk fix FULL (Discord + YouTube + Games)' (PID: 1132)
+[14:12:59] [SUCCESS] Process stopped, exit confirmed (PID: 1132)
+[14:12:59] [INFO] Драйвер Monkey выгружен, запись службы убрана
+[14:12:59] [⏱ UI] ⏱ UiMetric: scope=worker name=dpi stage=dpi_stop.run elapsed=297ms
+[14:12:59] [INFO] DPI остановлен асинхронно
+[14:12:59] [INFO] ✅ DPI успешно остановлен
+[14:12:59] [INFO] DPI успешно остановлен
+[14:13:14] [INFO] 🚀 Запуск DPI (прямой winws2): Пресет
+[14:13:14] [INFO] Запуск асинхронного старта DPI: Пресет (метод: прямой winws2)
+[14:13:14] [INFO] Используется метод запуска: zapret2_mode
+[14:13:14] [INFO] Используется выбранный source-пресет: C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2\zapret preset Bryansk circular.txt
+[14:13:14] [INFO] Подготовка к запуску...
+[14:13:14] [INFO] Запуск из preset файла: C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2\zapret preset Bryansk circular.txt
+[14:13:14] [INFO] Winws2StrategyRunner initialized. exe: C:\Users\какашка\AppData\Roaming\ZapretTwo\exe\winws2.exe
+[14:13:14] [INFO] Winws2StrategyRunner initialized
+[14:13:14] [INFO] Запуск DPI...
+[14:13:14] [INFO] Starting: starting from preset C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2\zapret preset Bryansk circular.txt
+[14:13:14] [INFO] Winws2 launch command: C:\Users\какашка\AppData\Roaming\ZapretTwo\exe\winws2.exe @C:\Users\какашка\AppData\Roaming\ZapretTwo\user\tmp\winws2_at_config\winws2_at_bb3073e7d5ba293effdf.txt
+[14:13:14] [INFO] Winws2 launch cwd: C:\Users\какашка\AppData\Roaming\ZapretTwo
+[14:13:14] [INFO] Winws2 launch @config: path=C:\Users\какашка\AppData\Roaming\ZapretTwo\user\tmp\winws2_at_config\winws2_at_bb3073e7d5ba293effdf.txt, bytes=12242, sha1=9bb7b5e330fb51b4196d38ebb914848e00d69125, source=C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2\zapret preset Bryansk circular.txt
+[14:13:14] [INFO] Strategy: Пресет: zapret preset Bryansk fix FULL (Discord + YouTube + Games)
+[14:13:15] [SUCCESS] Strategy 'Пресет: zapret preset Bryansk fix FULL (Discord + YouTube + Games)' started from preset (PID: 20436)
+[14:13:15] [✅ SUCCESS] Пресет 'Пресет: zapret preset Bryansk fix FULL (Discord + YouTube + Games)' успешно запущен
+[14:13:15] [⏱ UI] ⏱ UiMetric: scope=worker name=dpi stage=dpi_start.run elapsed=561ms
+[14:13:15] [INFO] DPI запущен асинхронно
+[14:13:15] [INFO] ✅ DPI успешно запущен
+[14:13:19] [INFO] Discord запущен. Перезапускаем...
+[14:13:24] [INFO] Discord перезапущен: C:\Users\какашка\AppData\Local\Discord\app-1.0.9269\Discord.exe
+[14:20:38] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Server 2 (Резервный)
+[14:24:56] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[14:25:16] [⚠ WARNING] Интерфейс не отвечает 2.2с. Стек GUI-потока:
+  File "C:\Users\3AB0~1\AppData\Roaming\ZAPRET~1\_INTER~1\ui\native_tooltip_guard.py", line 56, in eventFilter
+  File "C:\Users\3AB0~1\AppData\Roaming\ZAPRET~1\_INTER~1\enum.py", line 709, in __call__
+Занятые фоновые потоки:
+  winws-exit-watcher: C:\Users\3AB0~1\AppData\Roaming\ZAPRET~1\_INTER~1\subprocess.py:1605 _wait
+  tg-proxy-loop: C:\Users\3AB0~1\AppData\Roaming\ZAPRET~1\_INTER~1\asyncio\windows_events.py:778 _poll
+  3932: C:\Users\3AB0~1\AppData\Roaming\ZAPRET~1\_INTER~1\utils\windows_process_probe.py:116 iter_process_records_winapi_strict
+  update-release-watch: C:\Users\3AB0~1\AppData\Roaming\ZAPRET~1\_INTER~1\ssl.py:1138 read
+  busy-sampler: C:\Users\3AB0~1\AppData\Roaming\ZAPRET~1\_INTER~1\zapret_update\screen.py:184 _sample_forever
+  show-event-watcher: C:\Users\3AB0~1\AppData\Roaming\ZAPRET~1\_INTER~1\startup\single_instance.py:104 wait_fn
+[14:25:17] [INFO] Интерфейс снова отвечает, блокировка длилась 2.7с
+[14:31:51] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[14:34:08] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[14:42:12] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[14:43:06] [⚠ WARNING] Интерфейс не отвечает 2.0с. Стек GUI-потока:
+  File "C:\Users\3AB0~1\AppData\Roaming\ZAPRET~1\_INTER~1\main.py", line 25, in <module>
+  File "C:\Users\3AB0~1\AppData\Roaming\ZAPRET~1\_INTER~1\main\launch_gate.py", line 123, in run_guarded
+  File "C:\Users\3AB0~1\AppData\Roaming\ZAPRET~1\_INTER~1\main.py", line 21, in _run
+  File "C:\Users\3AB0~1\AppData\Roaming\ZAPRET~1\_INTER~1\main\entry.py", line 355, in main
+Занятые фоновые потоки:
+  winws-exit-watcher: C:\Users\3AB0~1\AppData\Roaming\ZAPRET~1\_INTER~1\subprocess.py:1605 _wait
+  tg-proxy-loop: C:\Users\3AB0~1\AppData\Roaming\ZAPRET~1\_INTER~1\asyncio\windows_events.py:778 _poll
+  busy-sampler: C:\Users\3AB0~1\AppData\Roaming\ZAPRET~1\_INTER~1\zapret_update\screen.py:184 _sample_forever
+  show-event-watcher: C:\Users\3AB0~1\AppData\Roaming\ZAPRET~1\_INTER~1\startup\single_instance.py:104 wait_fn
+[14:43:07] [INFO] Интерфейс снова отвечает, блокировка длилась 2.5с
+[14:44:29] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[14:47:06] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[14:49:23] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[14:52:02] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[14:54:18] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[15:02:07] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[15:04:23] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[15:09:58] [⏱ STARTUP] ⏱ Startup StartupHostsAddressCheckSkipped: 3602397ms | шлюз проб: ещё рано или идёт проверка по кнопке
+[15:09:58] [⏱ STARTUP] ⏱ Startup StartupHostsAppliedSelectionRefreshFinished: 3602432ms | changed=False (блока ZapretGUI в hosts нет)
+[15:12:27] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[15:14:43] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[15:22:32] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[15:24:49] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[15:32:53] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[15:35:10] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[15:42:19] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[15:44:35] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[15:52:41] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[15:54:57] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[16:02:47] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[16:06:59] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[16:09:58] [⏱ STARTUP] ⏱ Startup StartupHostsAddressCheckSkipped: 7202389ms | шлюз проб: ещё рано или идёт проверка по кнопке
+[16:09:58] [⏱ STARTUP] ⏱ Startup StartupHostsAppliedSelectionRefreshFinished: 7202391ms | changed=False (блока ZapretGUI в hosts нет)
+[16:15:13] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[16:19:18] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[16:26:13] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[16:28:47] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_MODE_CONTROL stage=open.activation.repeat elapsed=0ms budget=40ms
+[16:28:47] [WARNING] ⏱ UiMetric: scope=page name=ZAPRET2_MODE_CONTROL stage=content.ready.first elapsed=8149099ms budget=200ms
+[16:28:50] [INFO] Окно вернулось из фона (5993 с): удержано 279 МБ; подтянуто 109 МБ за 63 мс; подкачек за 3 с после возврата: 6869
+[16:30:28] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[16:38:16] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[16:40:32] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[16:48:21] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[16:50:37] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[16:58:42] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[17:00:58] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[17:09:02] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[17:09:58] [⏱ STARTUP] ⏱ Startup StartupHostsAddressCheckSkipped: 10802401ms | шлюз проб: ещё рано или идёт проверка по кнопке
+[17:09:58] [⏱ STARTUP] ⏱ Startup StartupHostsAppliedSelectionRefreshFinished: 10802422ms | changed=False (блока ZapretGUI в hosts нет)
+[17:11:18] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[17:19:22] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[17:21:38] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[17:29:43] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[17:32:11] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[17:34:27] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[17:43:38] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[17:47:40] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[17:54:31] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[17:58:39] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[18:05:34] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[18:09:50] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[18:09:58] [⏱ STARTUP] ⏱ Startup StartupHostsAddressCheckSkipped: 14402398ms | шлюз проб: ещё рано или идёт проверка по кнопке
+[18:09:58] [⏱ STARTUP] ⏱ Startup StartupHostsAppliedSelectionRefreshFinished: 14402400ms | changed=False (блока ZapretGUI в hosts нет)
+[18:18:00] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[18:21:05] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_MODE_CONTROL stage=open.activation.repeat elapsed=0ms budget=40ms
+[18:21:05] [WARNING] ⏱ UiMetric: scope=page name=ZAPRET2_MODE_CONTROL stage=content.ready.first elapsed=14887003ms budget=200ms
+[18:21:07] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=open.navigation.first elapsed=67ms budget=200ms
+[18:21:07] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=open.activation.first elapsed=76ms budget=200ms
+[18:21:07] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=content.ready.first elapsed=151ms budget=200ms
+[18:21:07] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.metadata.read elapsed=50ms detail=138 presets
+[18:21:07] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.build elapsed=19ms detail=138 presets
+[18:21:07] [⏱ UI] ⏱ UiMetric: scope=ui name=Winws2UserPresetsPage stage=user_presets.lightweight_reload elapsed=102ms detail=138 presets
+[18:21:07] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.apply elapsed=29ms
+[18:21:08] [INFO] Окно вернулось из фона (1362 с): удержано 279 МБ; подтянуто 91 МБ за 10 мс; подкачек за 3 с после возврата: 7440
+[18:22:16] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[18:29:11] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[18:33:24] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[18:39:25] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[18:41:41] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[18:49:50] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Server 2 (Резервный)
+[18:52:08] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[18:54:49] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Server 2 (Резервный)
+[18:57:05] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[19:05:11] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[19:07:27] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[19:09:58] [⏱ STARTUP] ⏱ Startup StartupHostsAddressCheckSkipped: 18002419ms | шлюз проб: ещё рано или идёт проверка по кнопке
+[19:09:58] [⏱ STARTUP] ⏱ Startup StartupHostsAppliedSelectionRefreshFinished: 18002442ms | changed=False (блока ZapretGUI в hosts нет)
+[19:15:33] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[19:17:48] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[19:25:36] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[19:27:52] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[19:30:30] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[19:32:47] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[19:37:10] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=open.activation.repeat elapsed=0ms budget=40ms
+[19:37:10] [WARNING] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=content.ready.first elapsed=4562526ms budget=200ms
+[19:37:13] [INFO] Окно вернулось из фона (4308 с): удержано 279 МБ; подтянуто 117 МБ за 63 мс; подкачек за 3 с после возврата: 5582
+[19:40:53] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[19:43:10] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[19:45:48] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[19:48:24] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[19:52:37] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[19:58:10] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[19:58:14] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Server 2 (Резервный)
+[20:02:18] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[20:09:58] [⏱ STARTUP] ⏱ Startup RemotePresetsSyncQueued: 21602405ms | periodic
+[20:09:58] [⏱ STARTUP] ⏱ Startup StartupHostsAddressCheckSkipped: 21602413ms | шлюз проб: ещё рано или идёт проверка по кнопке
+[20:09:58] [⏱ STARTUP] ⏱ Startup StartupHostsAppliedSelectionRefreshFinished: 21602415ms | changed=False (блока ZapretGUI в hosts нет)
+[20:10:31] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[20:12:48] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[20:20:37] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[20:24:52] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[20:25:31] [INFO] Пресет переключен: zapret preset Bryansk fix.txt
+[20:25:31] [INFO] Применение выбранного source preset (zapret2_mode, reason=preset_switched, preset=zapret preset Bryansk fix.txt) -> preset mode switch pipeline
+[20:25:31] [⏱ UI] ⏱ UiMetric: scope=worker name=presets stage=preset_activate.run elapsed=91ms
+[20:25:31] [INFO] Активирован пресет 'zapret preset Bryansk fix'
+[20:25:32] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.read elapsed=9ms
+[20:25:32] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.parse elapsed=18ms
+[20:25:32] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.identity elapsed=30ms
+[20:25:32] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=2ms
+[20:25:32] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.templates.load elapsed=0ms
+[20:25:32] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.strategy_catalogs.load elapsed=6ms
+[20:25:32] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.sources.build elapsed=10ms
+[20:25:32] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.profile_list_item.build elapsed=18ms
+[20:25:32] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.total elapsed=134ms
+[20:25:32] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=1ms
+[20:25:32] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.cached elapsed=9ms
+[20:25:32] [⏱ UI] ⏱ UiMetric: scope=worker name=profile_list stage=profile_feature.worker.list_profiles.total elapsed=153ms
+[20:25:32] [⏱ UI] ⏱ UiMetric: scope=ui name=Zapret2PresetSetupPage stage=profile_ui.apply_payload.total elapsed=13ms
+[20:25:32] [INFO] Preset mode switch запросили, актуальное поколение 1 (zapret2_mode)
+[20:25:32] [INFO] Применяем пресет...
+[20:25:32] [INFO] Preset switch: starting from preset C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2\zapret preset Bryansk fix.txt
+[20:25:32] [INFO] Winws2 launch command: C:\Users\какашка\AppData\Roaming\ZapretTwo\exe\winws2.exe @C:\Users\какашка\AppData\Roaming\ZapretTwo\user\tmp\winws2_at_config\winws2_at_2f6b383de74adb0fd2d3.txt
+[20:25:32] [INFO] Winws2 launch cwd: C:\Users\какашка\AppData\Roaming\ZapretTwo
+[20:25:32] [INFO] Winws2 launch @config: path=C:\Users\какашка\AppData\Roaming\ZapretTwo\user\tmp\winws2_at_config\winws2_at_2f6b383de74adb0fd2d3.txt, bytes=10411, sha1=dd6ceb23e0dfe0a5e6b77eaabb88765d7b6a440a, source=C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2\zapret preset Bryansk fix.txt
+[20:25:33] [SUCCESS] Preset switch successful (PID: 25040)
+[20:25:33] [INFO] Preset switch handoff: stopping previous process 'Пресет: zapret preset Bryansk fix FULL (Discord + YouTube + Games)' (PID: 20436)
+[20:25:33] [SUCCESS] Previous preset process stopped after handoff, exit confirmed (PID: 20436)
+[20:25:33] [⏱ UI] ⏱ UiMetric: scope=worker name=dpi stage=preset_switch.run elapsed=1072ms
+[20:25:33] [INFO] Preset mode switch успешно завершён, поколение 1 (zapret2_mode)
+[20:25:33] [INFO] ✅ Пресет успешно применён
+[20:25:37] [INFO] Discord не запущен, перезапуск не требуется
+[20:31:55] [⏱ UI] ⏱ UiMetric: scope=worker name=presets stage=preset_activate.run elapsed=20ms
+[20:31:55] [INFO] Пресет переключен: zapret preset Bryansk circular.txt
+[20:31:55] [INFO] Применение выбранного source preset (zapret2_mode, reason=preset_switched, preset=zapret preset Bryansk circular.txt) -> preset mode switch pipeline
+[20:31:55] [INFO] Активирован пресет 'zapret preset Bryansk circular'
+[20:31:56] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.read elapsed=6ms
+[20:31:56] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.parse elapsed=10ms
+[20:31:56] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.identity elapsed=9ms
+[20:31:56] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=2ms
+[20:31:56] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.cached elapsed=43ms
+[20:31:56] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=2ms
+[20:31:56] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.cached elapsed=10ms
+[20:31:56] [⏱ UI] ⏱ UiMetric: scope=worker name=profile_list stage=profile_feature.worker.list_profiles.total elapsed=71ms
+[20:31:56] [⏱ UI] ⏱ UiMetric: scope=ui name=Zapret2PresetSetupPage stage=profile_ui.apply_payload.total elapsed=1ms
+[20:31:56] [INFO] Preset mode switch запросили, актуальное поколение 2 (zapret2_mode)
+[20:31:56] [INFO] Применяем пресет...
+[20:31:56] [INFO] Preset switch: starting from preset C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2\zapret preset Bryansk circular.txt
+[20:31:56] [INFO] Winws2 launch command: C:\Users\какашка\AppData\Roaming\ZapretTwo\exe\winws2.exe @C:\Users\какашка\AppData\Roaming\ZapretTwo\user\tmp\winws2_at_config\winws2_at_b5c9366ef32aa11a4bb0.txt
+[20:31:56] [INFO] Winws2 launch cwd: C:\Users\какашка\AppData\Roaming\ZapretTwo
+[20:31:56] [INFO] Winws2 launch @config: path=C:\Users\какашка\AppData\Roaming\ZapretTwo\user\tmp\winws2_at_config\winws2_at_b5c9366ef32aa11a4bb0.txt, bytes=12259, sha1=60fff9477e47641797ccb5f9b3816e6702fa69ce, source=C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2\zapret preset Bryansk circular.txt
+[20:31:57] [SUCCESS] Preset switch successful (PID: 17332)
+[20:31:57] [INFO] Preset switch handoff: stopping previous process 'Пресет: zapret preset Bryansk fix' (PID: 25040)
+[20:31:57] [SUCCESS] Previous preset process stopped after handoff, exit confirmed (PID: 25040)
+[20:31:57] [⏱ UI] ⏱ UiMetric: scope=worker name=dpi stage=preset_switch.run elapsed=576ms
+[20:31:57] [INFO] Preset mode switch успешно завершён, поколение 2 (zapret2_mode)
+[20:31:57] [INFO] ✅ Пресет успешно применён
+[20:32:01] [INFO] Discord запущен. Перезапускаем...
+[20:32:07] [INFO] Discord перезапущен: C:\Users\какашка\AppData\Local\Discord\app-1.0.9269\Discord.exe
+[20:33:04] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[20:35:31] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[20:37:47] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[20:45:51] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[20:49:59] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[20:56:47] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[20:57:23] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=open.activation.repeat elapsed=0ms budget=40ms
+[20:57:23] [WARNING] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=content.ready.first elapsed=9375472ms budget=200ms
+[20:57:26] [INFO] Окно вернулось из фона (1526 с): удержано 279 МБ; подтянуто 117 МБ за 12 мс; подкачек за 3 с после возврата: 1289
+[20:57:28] [⏱ UI] ⏱ UiMetric: scope=worker name=presets stage=preset_activate.run elapsed=21ms
+[20:57:28] [INFO] Пресет переключен: zapret preset Bryansk fix.txt
+[20:57:28] [INFO] Применение выбранного source preset (zapret2_mode, reason=preset_switched, preset=zapret preset Bryansk fix.txt) -> preset mode switch pipeline
+[20:57:28] [INFO] Активирован пресет 'zapret preset Bryansk fix'
+[20:57:28] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.read elapsed=2ms
+[20:57:28] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.parse elapsed=2ms
+[20:57:28] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.identity elapsed=2ms
+[20:57:28] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=0ms
+[20:57:28] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.cached elapsed=13ms
+[20:57:28] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=3ms
+[20:57:28] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.cached elapsed=8ms
+[20:57:28] [⏱ UI] ⏱ UiMetric: scope=worker name=profile_list stage=profile_feature.worker.list_profiles.total elapsed=25ms
+[20:57:28] [⏱ UI] ⏱ UiMetric: scope=ui name=Zapret2PresetSetupPage stage=profile_ui.apply_payload.total elapsed=1ms
+[20:57:29] [INFO] Preset mode switch запросили, актуальное поколение 3 (zapret2_mode)
+[20:57:29] [INFO] Применяем пресет...
+[20:57:29] [INFO] Preset switch: starting from preset C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2\zapret preset Bryansk fix.txt
+[20:57:29] [INFO] Winws2 launch command: C:\Users\какашка\AppData\Roaming\ZapretTwo\exe\winws2.exe @C:\Users\какашка\AppData\Roaming\ZapretTwo\user\tmp\winws2_at_config\winws2_at_2f6b383de74adb0fd2d3.txt
+[20:57:29] [INFO] Winws2 launch cwd: C:\Users\какашка\AppData\Roaming\ZapretTwo
+[20:57:29] [INFO] Winws2 launch @config: path=C:\Users\какашка\AppData\Roaming\ZapretTwo\user\tmp\winws2_at_config\winws2_at_2f6b383de74adb0fd2d3.txt, bytes=10411, sha1=dd6ceb23e0dfe0a5e6b77eaabb88765d7b6a440a, source=C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2\zapret preset Bryansk fix.txt
+[20:57:29] [SUCCESS] Preset switch successful (PID: 13452)
+[20:57:29] [INFO] Preset switch handoff: stopping previous process 'Пресет: zapret preset Bryansk fix FULL (Discord + YouTube + Games)' (PID: 17332)
+[20:57:29] [SUCCESS] Previous preset process stopped after handoff, exit confirmed (PID: 17332)
+[20:57:29] [⏱ UI] ⏱ UiMetric: scope=worker name=dpi stage=preset_switch.run elapsed=459ms
+[20:57:29] [INFO] Preset mode switch успешно завершён, поколение 3 (zapret2_mode)
+[20:57:29] [INFO] ✅ Пресет успешно применён
+[20:57:33] [INFO] Discord запущен. Перезапускаем...
+[20:57:39] [INFO] Discord перезапущен: C:\Users\какашка\AppData\Local\Discord\app-1.0.9269\Discord.exe
+[21:01:05] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[21:07:56] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[21:09:58] [INFO] Hosts, проверка адресов: проверено 0, изменилось: False.
+[21:09:58] [⏱ STARTUP] ⏱ Startup StartupHostsAddressCheckFinished: 25202519ms | checked=0 changed=False
+[21:09:58] [⏱ STARTUP] ⏱ Startup StartupHostsAppliedSelectionRefreshFinished: 25202520ms | changed=False (блока ZapretGUI в hosts нет)
+[21:12:07] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[21:20:21] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Server 2 (Резервный)
+[21:24:32] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[21:26:20] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Server 2 (Резервный)
+[21:30:34] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[21:38:48] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[21:40:41] [INFO] Пресет переключен: zapret preset Bryansk circular.txt
+[21:40:41] [INFO] Применение выбранного source preset (zapret2_mode, reason=preset_switched, preset=zapret preset Bryansk circular.txt) -> preset mode switch pipeline
+[21:40:41] [⏱ UI] ⏱ UiMetric: scope=worker name=presets stage=preset_activate.run elapsed=25ms
+[21:40:41] [INFO] Активирован пресет 'zapret preset Bryansk circular'
+[21:40:41] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.read elapsed=4ms
+[21:40:41] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.parse elapsed=8ms
+[21:40:41] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.identity elapsed=18ms
+[21:40:41] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=1ms
+[21:40:41] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.cached elapsed=47ms
+[21:40:41] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=1ms
+[21:40:41] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.cached elapsed=8ms
+[21:40:41] [⏱ UI] ⏱ UiMetric: scope=worker name=profile_list stage=profile_feature.worker.list_profiles.total elapsed=97ms
+[21:40:41] [⏱ UI] ⏱ UiMetric: scope=ui name=Zapret2PresetSetupPage stage=profile_ui.apply_payload.total elapsed=2ms
+[21:40:42] [INFO] Preset mode switch запросили, актуальное поколение 4 (zapret2_mode)
+[21:40:42] [INFO] Применяем пресет...
+[21:40:42] [INFO] Preset switch: starting from preset C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2\zapret preset Bryansk circular.txt
+[21:40:42] [INFO] Winws2 launch command: C:\Users\какашка\AppData\Roaming\ZapretTwo\exe\winws2.exe @C:\Users\какашка\AppData\Roaming\ZapretTwo\user\tmp\winws2_at_config\winws2_at_b5c9366ef32aa11a4bb0.txt
+[21:40:42] [INFO] Winws2 launch cwd: C:\Users\какашка\AppData\Roaming\ZapretTwo
+[21:40:42] [INFO] Winws2 launch @config: path=C:\Users\какашка\AppData\Roaming\ZapretTwo\user\tmp\winws2_at_config\winws2_at_b5c9366ef32aa11a4bb0.txt, bytes=12259, sha1=60fff9477e47641797ccb5f9b3816e6702fa69ce, source=C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2\zapret preset Bryansk circular.txt
+[21:40:43] [SUCCESS] Preset switch successful (PID: 8656)
+[21:40:43] [INFO] Preset switch handoff: stopping previous process 'Пресет: zapret preset Bryansk fix' (PID: 13452)
+[21:40:43] [SUCCESS] Previous preset process stopped after handoff, exit confirmed (PID: 13452)
+[21:40:43] [⏱ UI] ⏱ UiMetric: scope=worker name=dpi stage=preset_switch.run elapsed=988ms
+[21:40:43] [INFO] Preset mode switch успешно завершён, поколение 4 (zapret2_mode)
+[21:40:43] [INFO] ✅ Пресет успешно применён
+[21:40:47] [INFO] Discord запущен. Перезапускаем...
+[21:40:53] [INFO] Discord перезапущен: C:\Users\какашка\AppData\Local\Discord\app-1.0.9269\Discord.exe
+[21:43:02] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[21:47:15] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[21:55:33] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Server 2 (Резервный)
+[21:59:48] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[22:06:10] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=open.activation.repeat elapsed=0ms budget=40ms
+[22:06:10] [WARNING] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=content.ready.first elapsed=13502716ms budget=200ms
+[22:06:12] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=open.activation.repeat elapsed=0ms budget=40ms
+[22:06:12] [WARNING] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=content.ready.first elapsed=13505186ms budget=200ms
+[22:06:44] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Server 2 (Резервный)
+[22:09:58] [⏱ STARTUP] ⏱ Startup StartupHostsAddressCheckSkipped: 28802434ms | шлюз проб: ещё рано или идёт проверка по кнопке
+[22:09:58] [⏱ STARTUP] ⏱ Startup StartupHostsAppliedSelectionRefreshFinished: 28802435ms | changed=False (блока ZapretGUI в hosts нет)
+[22:10:50] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[22:13:28] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[22:15:45] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[22:23:50] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[22:24:55] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=open.activation.repeat elapsed=0ms budget=40ms
+[22:24:55] [WARNING] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=content.ready.first elapsed=14627821ms budget=200ms
+[22:24:58] [INFO] Окно вернулось из фона (1121 с): удержано 279 МБ; подтянуто 115 МБ за 12 мс; подкачек за 3 с после возврата: 1576
+[22:28:26] [🔁 UPDATE] Очередь обновлений на сервере сейчас недоступна (нет ответа (тайм-аут)): программа проверяет обновления сама
+[22:31:59] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[22:33:41] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[22:37:56] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[22:46:12] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[22:50:16] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[22:57:13] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=open.activation.repeat elapsed=0ms budget=40ms
+[22:57:13] [WARNING] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=content.ready.first elapsed=16565354ms budget=200ms
+[22:58:28] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[23:02:36] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[23:09:58] [⏱ STARTUP] ⏱ Startup StartupHostsAddressCheckSkipped: 32402426ms | шлюз проб: ещё рано или идёт проверка по кнопке
+[23:09:58] [⏱ STARTUP] ⏱ Startup StartupHostsAppliedSelectionRefreshFinished: 32402427ms | changed=False (блока ZapretGUI в hosts нет)
+[23:10:50] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[23:14:57] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[23:18:44] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=open.activation.repeat elapsed=0ms budget=40ms
+[23:18:44] [WARNING] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=content.ready.first elapsed=17857157ms budget=200ms
+[23:19:03] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=open.activation.repeat elapsed=0ms budget=40ms
+[23:19:03] [WARNING] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=content.ready.first elapsed=17875954ms budget=200ms
+[23:21:43] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=open.activation.repeat elapsed=0ms budget=40ms
+[23:21:43] [WARNING] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=content.ready.first elapsed=18036307ms budget=200ms
+[23:21:45] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_PRESET_RAW_EDITOR stage=factory.constructor elapsed=96ms
+[23:21:45] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_PRESET_RAW_EDITOR stage=ensure.create elapsed=108ms
+[23:21:45] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_PRESET_RAW_EDITOR stage=constructor elapsed=106ms budget=200ms
+[23:21:45] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_PRESET_RAW_EDITOR stage=open.navigation.first elapsed=5ms budget=200ms
+[23:21:45] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_PRESET_RAW_EDITOR stage=open.activation.first elapsed=0ms budget=200ms
+[23:21:45] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_PRESET_RAW_EDITOR stage=content.ready.first elapsed=18ms budget=200ms
+[23:21:46] [INFO] Окно вернулось из фона (134 с): удержано 279 МБ; подтянуто 160 МБ за 12 мс; подкачек за 3 с после возврата: 6845
+[23:21:47] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[23:21:57] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=open.navigation.repeat elapsed=1ms budget=120ms
+[23:21:57] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=open.activation.repeat elapsed=0ms budget=40ms
+[23:21:57] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=content.ready.repeat elapsed=3ms budget=40ms
+[23:22:05] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_PRESET_RAW_EDITOR stage=open.navigation.repeat elapsed=3ms budget=40ms
+[23:22:05] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_PRESET_RAW_EDITOR stage=open.activation.repeat elapsed=0ms budget=40ms
+[23:22:05] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_PRESET_RAW_EDITOR stage=content.ready.repeat elapsed=5ms budget=40ms
+[23:22:08] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=open.navigation.repeat elapsed=1ms budget=120ms
+[23:22:08] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=open.activation.repeat elapsed=0ms budget=40ms
+[23:22:08] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=content.ready.repeat elapsed=3ms budget=40ms
+[23:22:11] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.build elapsed=2ms detail=138 presets
+[23:22:11] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.apply elapsed=0ms
+[23:22:12] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.build elapsed=2ms detail=138 presets
+[23:22:12] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.apply elapsed=6ms
+[23:22:13] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.build elapsed=1ms detail=138 presets
+[23:22:13] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.apply elapsed=1ms
+[23:22:22] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_PRESET_RAW_EDITOR stage=open.navigation.repeat elapsed=1ms budget=40ms
+[23:22:22] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_PRESET_RAW_EDITOR stage=open.activation.repeat elapsed=0ms budget=40ms
+[23:22:22] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_PRESET_RAW_EDITOR stage=content.ready.repeat elapsed=2ms budget=40ms
+[23:22:30] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=open.navigation.repeat elapsed=1ms budget=120ms
+[23:22:30] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=open.activation.repeat elapsed=0ms budget=40ms
+[23:22:30] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=content.ready.repeat elapsed=2ms budget=40ms
+[23:23:42] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_PRESET_RAW_EDITOR stage=open.navigation.repeat elapsed=2ms budget=40ms
+[23:23:42] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_PRESET_RAW_EDITOR stage=open.activation.repeat elapsed=0ms budget=40ms
+[23:23:42] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_PRESET_RAW_EDITOR stage=content.ready.repeat elapsed=6ms budget=40ms
+[23:23:44] [WARNING] 🛑 Остановка DPI (прямой winws2)...
+[23:23:44] [INFO] Запуск асинхронной остановки DPI (метод: прямой winws2)
+[23:23:44] [WARNING] Остановка DPI...
+[23:23:44] [INFO] Завершение процессов...
+[23:23:44] [INFO] Sync runtime shutdown requested: preset_stop_worker:zapret2_mode
+[23:23:44] [INFO] Stopping strategy 'Пресет: zapret preset Bryansk fix FULL (Discord + YouTube + Games)' (PID: 8656)
+[23:23:44] [SUCCESS] Process stopped, exit confirmed (PID: 8656)
+[23:23:44] [INFO] Драйвер Monkey выгружен, запись службы убрана
+[23:23:44] [⏱ UI] ⏱ UiMetric: scope=worker name=dpi stage=dpi_stop.run elapsed=194ms
+[23:23:44] [INFO] DPI остановлен асинхронно
+[23:23:44] [INFO] ✅ DPI успешно остановлен
+[23:23:44] [INFO] DPI успешно остановлен
+[23:23:49] [⏱ UI] ⏱ UiMetric: scope=worker name=presets stage=preset_save.run elapsed=838ms
+[23:23:49] [⏱ UI] ⏱ UiMetric: scope=worker name=presets stage=preset_save.run elapsed=22ms
+[23:23:49] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.read elapsed=3ms
+[23:23:49] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.parse elapsed=2ms
+[23:23:49] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.identity elapsed=2ms
+[23:23:49] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=1ms
+[23:23:49] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.templates.load elapsed=0ms
+[23:23:49] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.strategy_catalogs.load elapsed=1ms
+[23:23:49] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.sources.build elapsed=3ms
+[23:23:49] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.profile_list_item.build elapsed=2ms
+[23:23:49] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.total elapsed=19ms
+[23:23:49] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=0ms
+[23:23:49] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.cached elapsed=3ms
+[23:23:49] [⏱ UI] ⏱ UiMetric: scope=worker name=profile_list stage=profile_feature.worker.list_profiles.total elapsed=24ms
+[23:23:49] [⏱ UI] ⏱ UiMetric: scope=ui name=Zapret2PresetSetupPage stage=profile_ui.apply_payload.total elapsed=1ms
+[23:23:51] [INFO] 🚀 Запуск DPI (прямой winws2): Пресет
+[23:23:51] [INFO] Запуск асинхронного старта DPI: Пресет (метод: прямой winws2)
+[23:23:51] [INFO] Используется метод запуска: zapret2_mode
+[23:23:51] [INFO] Используется выбранный source-пресет: C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2\zapret preset Bryansk circular.txt
+[23:23:51] [INFO] Подготовка к запуску...
+[23:23:51] [INFO] Запуск из preset файла: C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2\zapret preset Bryansk circular.txt
+[23:23:51] [INFO] Winws2StrategyRunner initialized. exe: C:\Users\какашка\AppData\Roaming\ZapretTwo\exe\winws2.exe
+[23:23:51] [INFO] Winws2StrategyRunner initialized
+[23:23:51] [INFO] Запуск DPI...
+[23:23:51] [INFO] Starting: starting from preset C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2\zapret preset Bryansk circular.txt
+[23:23:51] [INFO] Winws2 launch command: C:\Users\какашка\AppData\Roaming\ZapretTwo\exe\winws2.exe @C:\Users\какашка\AppData\Roaming\ZapretTwo\user\tmp\winws2_at_config\winws2_at_bb3073e7d5ba293effdf.txt
+[23:23:51] [INFO] Winws2 launch cwd: C:\Users\какашка\AppData\Roaming\ZapretTwo
+[23:23:51] [INFO] Winws2 launch @config: path=C:\Users\какашка\AppData\Roaming\ZapretTwo\user\tmp\winws2_at_config\winws2_at_bb3073e7d5ba293effdf.txt, bytes=12242, sha1=9bb7b5e330fb51b4196d38ebb914848e00d69125, source=C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2\zapret preset Bryansk circular.txt
+[23:23:51] [INFO] Strategy: Пресет: zapret preset Bryansk fix
+[23:23:51] [SUCCESS] Strategy 'Пресет: zapret preset Bryansk fix' started from preset (PID: 19148)
+[23:23:51] [✅ SUCCESS] Пресет 'Пресет: zapret preset Bryansk fix' успешно запущен
+[23:23:51] [⏱ UI] ⏱ UiMetric: scope=worker name=dpi stage=dpi_start.run elapsed=615ms
+[23:23:51] [INFO] DPI запущен асинхронно
+[23:23:51] [INFO] ✅ DPI успешно запущен
+[23:23:56] [INFO] Discord запущен. Перезапускаем...
+[23:24:01] [INFO] Discord перезапущен: C:\Users\какашка\AppData\Local\Discord\app-1.0.9269\Discord.exe
+[23:26:04] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[23:34:10] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[23:36:26] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[23:44:30] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[23:46:46] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[23:52:24] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=open.navigation.repeat elapsed=13ms budget=120ms
+[23:52:24] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=open.activation.repeat elapsed=13ms budget=40ms
+[23:52:24] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=content.ready.repeat elapsed=37ms budget=40ms
+[23:52:24] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.build elapsed=45ms detail=138 presets
+[23:52:24] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.apply elapsed=3ms
+[23:52:31] [INFO] Импортирован пресет 'zapret_preset_Bryansk_YouTube_Shorts_fix'
+[23:52:31] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.metadata.read elapsed=24ms detail=139 presets
+[23:52:31] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.build elapsed=63ms detail=139 presets
+[23:52:31] [⏱ UI] ⏱ UiMetric: scope=ui name=Winws2UserPresetsPage stage=user_presets.lightweight_reload elapsed=93ms detail=139 presets
+[23:52:31] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.apply elapsed=1ms
+[23:52:33] [INFO] Пресет переключен: zapret_preset_Bryansk_YouTube_Shorts_fix.txt
+[23:52:33] [INFO] Применение выбранного source preset (zapret2_mode, reason=preset_switched, preset=zapret_preset_Bryansk_YouTube_Shorts_fix.txt) -> preset mode switch pipeline
+[23:52:33] [⏱ UI] ⏱ UiMetric: scope=worker name=presets stage=preset_activate.run elapsed=29ms
+[23:52:33] [INFO] Активирован пресет 'zapret_preset_Bryansk_YouTube_Shorts_fix'
+[23:52:33] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.read elapsed=2ms
+[23:52:33] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.parse elapsed=2ms
+[23:52:33] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.identity elapsed=15ms
+[23:52:33] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=0ms
+[23:52:33] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.templates.load elapsed=0ms
+[23:52:33] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.strategy_catalogs.load elapsed=3ms
+[23:52:33] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.sources.build elapsed=6ms
+[23:52:33] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.profile_list_item.build elapsed=15ms
+[23:52:33] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.total elapsed=54ms
+[23:52:33] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=1ms
+[23:52:33] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.cached elapsed=6ms
+[23:52:33] [⏱ UI] ⏱ UiMetric: scope=worker name=profile_list stage=profile_feature.worker.list_profiles.total elapsed=71ms
+[23:52:33] [⏱ UI] ⏱ UiMetric: scope=ui name=Zapret2PresetSetupPage stage=profile_ui.apply_payload.total elapsed=6ms
+[23:52:34] [INFO] Preset mode switch запросили, актуальное поколение 5 (zapret2_mode)
+[23:52:34] [INFO] Применяем пресет...
+[23:52:34] [INFO] Preset switch: starting from preset C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2\zapret_preset_Bryansk_YouTube_Shorts_fix.txt
+[23:52:34] [INFO] Winws2 launch command: C:\Users\какашка\AppData\Roaming\ZapretTwo\exe\winws2.exe @C:\Users\какашка\AppData\Roaming\ZapretTwo\user\tmp\winws2_at_config\winws2_at_b2f045bd96b6ff604076.txt
+[23:52:34] [INFO] Winws2 launch cwd: C:\Users\какашка\AppData\Roaming\ZapretTwo
+[23:52:34] [INFO] Winws2 launch @config: path=C:\Users\какашка\AppData\Roaming\ZapretTwo\user\tmp\winws2_at_config\winws2_at_b2f045bd96b6ff604076.txt, bytes=12458, sha1=0c02eeea60391eaca936a4782ed27d78d9e39916, source=C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2\zapret_preset_Bryansk_YouTube_Shorts_fix.txt
+[23:52:34] [SUCCESS] Preset switch successful (PID: 23436)
+[23:52:34] [INFO] Preset switch handoff: stopping previous process 'Пресет: zapret preset Bryansk fix' (PID: 19148)
+[23:52:34] [SUCCESS] Previous preset process stopped after handoff, exit confirmed (PID: 19148)
+[23:52:34] [⏱ UI] ⏱ UiMetric: scope=worker name=dpi stage=preset_switch.run elapsed=508ms
+[23:52:34] [INFO] Preset mode switch успешно завершён, поколение 5 (zapret2_mode)
+[23:52:34] [INFO] ✅ Пресет успешно применён
+[23:52:38] [INFO] Discord не запущен, перезапуск не требуется
+[23:54:51] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[23:58:51] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=open.activation.repeat elapsed=0ms budget=40ms
+[23:58:51] [WARNING] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=content.ready.repeat elapsed=386984ms budget=40ms
+[23:58:51] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[23:59:00] [INFO] Импортирован пресет 'zapret_preset_Bryansk_YouTube_Shorts_circular'
+[23:59:00] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.metadata.read elapsed=17ms detail=140 presets
+[23:59:00] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.build elapsed=20ms detail=140 presets
+[23:59:00] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.apply elapsed=0ms
+[23:59:07] [INFO] Пресет переключен: zapret_preset_Bryansk_YouTube_Shorts_circular.txt
+[23:59:07] [INFO] Применение выбранного source preset (zapret2_mode, reason=preset_switched, preset=zapret_preset_Bryansk_YouTube_Shorts_circular.txt) -> preset mode switch pipeline
+[23:59:07] [⏱ UI] ⏱ UiMetric: scope=worker name=presets stage=preset_activate.run elapsed=11ms
+[23:59:07] [INFO] Активирован пресет 'zapret_preset_Bryansk_YouTube_Shorts_circular'
+[23:59:07] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.read elapsed=2ms
+[23:59:07] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.parse elapsed=5ms
+[23:59:07] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.identity elapsed=7ms
+[23:59:07] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=1ms
+[23:59:07] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.templates.load elapsed=0ms
+[23:59:07] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.strategy_catalogs.load elapsed=1ms
+[23:59:07] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.sources.build elapsed=2ms
+[23:59:07] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.profile_list_item.build elapsed=7ms
+[23:59:07] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.total elapsed=29ms
+[23:59:07] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=1ms
+[23:59:07] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.cached elapsed=7ms
+[23:59:07] [⏱ UI] ⏱ UiMetric: scope=worker name=profile_list stage=profile_feature.worker.list_profiles.total elapsed=45ms
+[23:59:07] [⏱ UI] ⏱ UiMetric: scope=ui name=Zapret2PresetSetupPage stage=profile_ui.apply_payload.total elapsed=1ms
+[23:59:07] [INFO] Preset mode switch запросили, актуальное поколение 6 (zapret2_mode)
+[23:59:07] [INFO] Применяем пресет...
+[23:59:07] [INFO] Preset switch: starting from preset C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2\zapret_preset_Bryansk_YouTube_Shorts_circular.txt
+[23:59:07] [INFO] Winws2 launch command: C:\Users\какашка\AppData\Roaming\ZapretTwo\exe\winws2.exe @C:\Users\какашка\AppData\Roaming\ZapretTwo\user\tmp\winws2_at_config\winws2_at_8312c09d35988ec4c879.txt
+[23:59:07] [INFO] Winws2 launch cwd: C:\Users\какашка\AppData\Roaming\ZapretTwo
+[23:59:07] [INFO] Winws2 launch @config: path=C:\Users\какашка\AppData\Roaming\ZapretTwo\user\tmp\winws2_at_config\winws2_at_8312c09d35988ec4c879.txt, bytes=13553, sha1=eb287dc4b82495d39829991684ce6652589f9ea3, source=C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2\zapret_preset_Bryansk_YouTube_Shorts_circular.txt
+[23:59:08] [SUCCESS] Preset switch successful (PID: 25256)
+[23:59:08] [INFO] Preset switch handoff: stopping previous process 'Пресет: zapret_preset_Bryansk_YouTube_Shorts_fix' (PID: 23436)
+[23:59:08] [SUCCESS] Previous preset process stopped after handoff, exit confirmed (PID: 23436)
+[23:59:08] [⏱ UI] ⏱ UiMetric: scope=worker name=dpi stage=preset_switch.run elapsed=497ms
+[23:59:08] [INFO] Preset mode switch успешно завершён, поколение 6 (zapret2_mode)
+[23:59:08] [INFO] ✅ Пресет успешно применён
+[23:59:12] [INFO] Discord не запущен, перезапуск не требуется
+[00:01:19] [INFO] Импортирован пресет 'zapret_preset_Bryansk_YouTube_Shorts_browser_CDN_circular'
+[00:01:19] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.metadata.read elapsed=17ms detail=141 presets
+[00:01:19] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.build elapsed=16ms detail=141 presets
+[00:01:19] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.apply elapsed=1ms
+[00:01:23] [INFO] Пресет переключен: zapret_preset_Bryansk_YouTube_Shorts_browser_CDN_circular.txt
+[00:01:23] [INFO] Применение выбранного source preset (zapret2_mode, reason=preset_switched, preset=zapret_preset_Bryansk_YouTube_Shorts_browser_CDN_circular.txt) -> preset mode switch pipeline
+[00:01:23] [INFO] Активирован пресет 'zapret_preset_Bryansk_YouTube_Shorts_browser_CDN_circular'
+[00:01:23] [⏱ UI] ⏱ UiMetric: scope=worker name=presets stage=preset_activate.run elapsed=17ms
+[00:01:23] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.read elapsed=2ms
+[00:01:23] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.parse elapsed=6ms
+[00:01:23] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.identity elapsed=7ms
+[00:01:23] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=0ms
+[00:01:23] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.templates.load elapsed=0ms
+[00:01:23] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.strategy_catalogs.load elapsed=1ms
+[00:01:23] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.sources.build elapsed=2ms
+[00:01:23] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.profile_list_item.build elapsed=3ms
+[00:01:23] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.total elapsed=27ms
+[00:01:23] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=1ms
+[00:01:23] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.cached elapsed=4ms
+[00:01:23] [⏱ UI] ⏱ UiMetric: scope=worker name=profile_list stage=profile_feature.worker.list_profiles.total elapsed=43ms
+[00:01:23] [⏱ UI] ⏱ UiMetric: scope=ui name=Zapret2PresetSetupPage stage=profile_ui.apply_payload.total elapsed=1ms
+[00:01:24] [INFO] Preset mode switch запросили, актуальное поколение 7 (zapret2_mode)
+[00:01:24] [INFO] Применяем пресет...
+[00:01:24] [INFO] Preset switch: starting from preset C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2\zapret_preset_Bryansk_YouTube_Shorts_browser_CDN_circular.txt
+[00:01:24] [INFO] Winws2 launch command: C:\Users\какашка\AppData\Roaming\ZapretTwo\exe\winws2.exe @C:\Users\какашка\AppData\Roaming\ZapretTwo\user\tmp\winws2_at_config\winws2_at_55bd7faa58cde0289fc5.txt
+[00:01:24] [INFO] Winws2 launch cwd: C:\Users\какашка\AppData\Roaming\ZapretTwo
+[00:01:24] [INFO] Winws2 launch @config: path=C:\Users\какашка\AppData\Roaming\ZapretTwo\user\tmp\winws2_at_config\winws2_at_55bd7faa58cde0289fc5.txt, bytes=14178, sha1=23f1ea6f55506e32ffd6382ef161fb87e2b5b3cd, source=C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2\zapret_preset_Bryansk_YouTube_Shorts_browser_CDN_circular.txt
+[00:01:24] [WARNING] Preset switch failed: process exited (code: 87)
+[00:01:24] [WARNING] Error: we have 16 user defined desync profile(s) and default low priority profile 0
+[00:01:24] [WARNING] winws2 startup output (2878 B): github version v1.0.6-40-g8abcf55-native (8abcf5516be36a7ae8fa7cd15051522f81f63567) lua_compat_ver 6 |  | we have 16 user defined desync profile(s) and default low priority profile 0 | we have 0 user defined desync template(s) | Loading hostlist C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/simplex.txt | loading plain text list | Loaded 3 hosts from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/simplex.txt | Loading hostlist C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/matrix.txt | loading plain text list | Loaded 3 hosts from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/matrix.txt | Loading hostlist C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/signal.txt | loading plain text list | Loaded 1 hosts from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/signal.txt | Loading hostlist C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/zapret-moe.txt | loading plain text list | Loaded 1 hosts from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/zapret-moe.txt | Loading hostlist C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/cloudflare.txt | loading plain text list | Loaded 7 hosts from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/cloudflare.txt | Loading hostlist C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/discord-media.txt | loading plain text list | Loaded 1 hosts from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/discord-media.txt | Loading hostlist C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/discord.txt | loading plain text list | Loaded 43 hosts from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/discord.txt | Loading hostlist C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/discord-updates.txt | loading plain text list | Loaded 1 hosts from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/discord-updates.txt | Loading hostlist C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/netrogat.txt | loading plain text list | Loaded 70 hosts from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/netrogat.txt | Loading ipset C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-discord.txt | loading pla […]
+[00:01:24] [INFO] Diagnosis: В пресете опечатка: Lua-функции «split2» не существует. Возможно, имелось в виду «slowsplit» | Fix: Исправьте в строке --lua-desync имя «split2» на «slowsplit» — в редакторе пресета строка подчёркнута, Ctrl+. исправит её | win32_error=87 | exit_code=87 | exact=True | auto_fix=None
+[00:01:24] [⏱ UI] ⏱ UiMetric: scope=worker name=dpi stage=preset_switch.run elapsed=126ms
+[00:01:24] [❌ ERROR] Ошибка preset mode switch, поколение 7 (zapret2_mode): winws2 не запустился. Найдена причина: В пресете опечатка: Lua-функции «split2» не существует. Возможно, имелось в виду «slowsplit» (код ошибки 87). Что сделать: Исправьте в строке --lua-desync имя «split2» на «slowsplit» — в редакторе пресета строка подчёркнута, Ctrl+. исправит её
+[00:01:24] [WARNING] ❌ Ошибка переключения пресета: winws2 не запустился. Найдена причина: В пресете опечатка: Lua-функции «split2» не существует. Возможно, имелось в виду «slowsplit» (код ошибки 87). Что сделать: Исправьте в строке --lua-desync имя «split2» на «slowsplit» — в редакторе пресета строка подчёркнута, Ctrl+. исправит её
+[00:01:24] [⏱ STARTUP] Notification received: source=launch.dpi_error, level=error, queue=immediate
+[00:01:24] [⏱ STARTUP] Notification presenting: source=launch.dpi_error, presentation=infobar
+[00:01:37] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_PRESET_RAW_EDITOR stage=open.navigation.repeat elapsed=5ms budget=40ms
+[00:01:37] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_PRESET_RAW_EDITOR stage=open.activation.repeat elapsed=0ms budget=40ms
+[00:01:37] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_PRESET_RAW_EDITOR stage=content.ready.repeat elapsed=9ms budget=40ms
+[00:02:50] [WARNING] 🛑 Остановка DPI (прямой winws2)...
+[00:02:50] [INFO] Запуск асинхронной остановки DPI (метод: прямой winws2)
+[00:02:50] [WARNING] Остановка DPI...
+[00:02:50] [INFO] Завершение процессов...
+[00:02:50] [INFO] Sync runtime shutdown requested: preset_stop_worker:zapret2_mode
+[00:02:50] [INFO] Останавливаем процессы winws из папки программы...
+[00:02:50] [WARNING] Watched winws process exited unexpectedly (code: 0); notifying runtime
+[00:02:50] [INFO] Процессы движка завершены, выход подтверждён: PID=[25256]
+[00:02:50] [✅ SUCCESS] Все процессы остановлены
+[00:02:50] [INFO] Драйвер Monkey выгружен, запись службы убрана
+[00:02:50] [⏱ UI] ⏱ UiMetric: scope=worker name=dpi stage=dpi_stop.run elapsed=158ms
+[00:02:50] [INFO] DPI остановлен асинхронно
+[00:02:50] [INFO] ✅ DPI успешно остановлен
+[00:02:50] [INFO] DPI успешно остановлен
+[00:02:52] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=open.navigation.repeat elapsed=1ms budget=120ms
+[00:02:52] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=open.activation.repeat elapsed=0ms budget=40ms
+[00:02:52] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=content.ready.repeat elapsed=2ms budget=40ms
+[00:02:59] [INFO] Удалён пресет 'zapret_preset_Bryansk_YouTube_Shorts_circular'
+[00:02:59] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.metadata.read elapsed=7ms detail=140 presets
+[00:02:59] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.build elapsed=13ms detail=140 presets
+[00:02:59] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.apply elapsed=0ms
+[00:02:59] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.metadata.read elapsed=3ms detail=140 presets
+[00:02:59] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.build elapsed=1ms detail=140 presets
+[00:02:59] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.apply elapsed=0ms
+[00:03:02] [INFO] Удалён пресет 'zapret preset Bryansk circular'
+[00:03:02] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.metadata.read elapsed=6ms detail=139 presets
+[00:03:02] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.build elapsed=14ms detail=139 presets
+[00:03:02] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.apply elapsed=0ms
+[00:03:03] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.metadata.read elapsed=3ms detail=139 presets
+[00:03:03] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.build elapsed=1ms detail=139 presets
+[00:03:03] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.apply elapsed=0ms
+[00:03:10] [INFO] Удалён пресет 'zapret preset Bryansk fix'
+[00:03:10] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.metadata.read elapsed=8ms detail=138 presets
+[00:03:10] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.build elapsed=13ms detail=138 presets
+[00:03:10] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.apply elapsed=0ms
+[00:03:10] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.metadata.read elapsed=5ms detail=138 presets
+[00:03:10] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.build elapsed=1ms detail=138 presets
+[00:03:10] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.apply elapsed=0ms
+[00:03:12] [INFO] Удалён пресет 'zapret_preset_Bryansk_YouTube_Shorts_fix'
+[00:03:12] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.metadata.read elapsed=3ms detail=137 presets
+[00:03:12] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.build elapsed=12ms detail=137 presets
+[00:03:12] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.apply elapsed=1ms
+[00:03:13] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.metadata.read elapsed=3ms detail=137 presets
+[00:03:13] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.build elapsed=1ms detail=137 presets
+[00:03:13] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.apply elapsed=0ms
+[00:03:19] [INFO] Импортирован пресет 'zapret_preset_Bryansk_YouTube_Shorts_browser_CDN_circular_fix'
+[00:03:19] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.metadata.read elapsed=12ms detail=138 presets
+[00:03:19] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.build elapsed=16ms detail=138 presets
+[00:03:19] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.apply elapsed=0ms
+[00:03:20] [INFO] Пресет переключен: zapret_preset_Bryansk_YouTube_Shorts_browser_CDN_circular_fix.txt
+[00:03:20] [⏱ UI] ⏱ UiMetric: scope=worker name=presets stage=preset_activate.run elapsed=10ms
+[00:03:20] [INFO] Активирован пресет 'zapret_preset_Bryansk_YouTube_Shorts_browser_CDN_circular_fix'
+[00:03:21] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.read elapsed=2ms
+[00:03:21] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.parse elapsed=3ms
+[00:03:21] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.identity elapsed=2ms
+[00:03:21] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=0ms
+[00:03:21] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.templates.load elapsed=0ms
+[00:03:21] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.strategy_catalogs.load elapsed=0ms
+[00:03:21] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.sources.build elapsed=5ms
+[00:03:21] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.profile_list_item.build elapsed=2ms
+[00:03:21] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.total elapsed=17ms
+[00:03:21] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=0ms
+[00:03:21] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.cached elapsed=4ms
+[00:03:21] [⏱ UI] ⏱ UiMetric: scope=worker name=profile_list stage=profile_feature.worker.list_profiles.total elapsed=26ms
+[00:03:21] [⏱ UI] ⏱ UiMetric: scope=ui name=Zapret2PresetSetupPage stage=profile_ui.apply_payload.total elapsed=1ms
+[00:03:31] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_MODE_CONTROL stage=open.activation.repeat elapsed=0ms budget=40ms
+[00:03:31] [WARNING] ⏱ UiMetric: scope=page name=ZAPRET2_MODE_CONTROL stage=content.ready.first elapsed=35433135ms budget=200ms
+[00:03:32] [INFO] 🚀 Запуск DPI (прямой winws2): Пресет
+[00:03:32] [INFO] Запуск асинхронного старта DPI: Пресет (метод: прямой winws2)
+[00:03:32] [INFO] Используется метод запуска: zapret2_mode
+[00:03:32] [INFO] Используется выбранный source-пресет: C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2\zapret_preset_Bryansk_YouTube_Shorts_browser_CDN_circular_fix.txt
+[00:03:32] [INFO] Подготовка к запуску...
+[00:03:32] [INFO] Запуск из preset файла: C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2\zapret_preset_Bryansk_YouTube_Shorts_browser_CDN_circular_fix.txt
+[00:03:32] [INFO] Winws2StrategyRunner initialized. exe: C:\Users\какашка\AppData\Roaming\ZapretTwo\exe\winws2.exe
+[00:03:32] [INFO] Winws2StrategyRunner initialized
+[00:03:32] [INFO] Запуск DPI...
+[00:03:32] [INFO] Starting: starting from preset C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2\zapret_preset_Bryansk_YouTube_Shorts_browser_CDN_circular_fix.txt
+[00:03:32] [INFO] Winws2 launch command: C:\Users\какашка\AppData\Roaming\ZapretTwo\exe\winws2.exe @C:\Users\какашка\AppData\Roaming\ZapretTwo\user\tmp\winws2_at_config\winws2_at_df4e08b9efbe38dcb0f8.txt
+[00:03:32] [INFO] Winws2 launch cwd: C:\Users\какашка\AppData\Roaming\ZapretTwo
+[00:03:32] [INFO] Winws2 launch @config: path=C:\Users\какашка\AppData\Roaming\ZapretTwo\user\tmp\winws2_at_config\winws2_at_df4e08b9efbe38dcb0f8.txt, bytes=14172, sha1=bdba9a1a5c4e55c884a9b2ff48931236340e1a14, source=C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2\zapret_preset_Bryansk_YouTube_Shorts_browser_CDN_circular_fix.txt
+[00:03:32] [INFO] Strategy: Пресет: zapret_preset_Bryansk_YouTube_Shorts_browser_CDN_circular_fix
+[00:03:33] [SUCCESS] Strategy 'Пресет: zapret_preset_Bryansk_YouTube_Shorts_browser_CDN_circular_fix' started from preset (PID: 24636)
+[00:03:33] [✅ SUCCESS] Пресет 'Пресет: zapret_preset_Bryansk_YouTube_Shorts_browser_CDN_circular_fix' успешно запущен
+[00:03:33] [⏱ UI] ⏱ UiMetric: scope=worker name=dpi stage=dpi_start.run elapsed=569ms
+[00:03:33] [INFO] DPI запущен асинхронно
+[00:03:33] [INFO] ✅ DPI успешно запущен
+[00:03:37] [INFO] Discord не запущен, перезапуск не требуется
+[00:05:42] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[00:07:44] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_MODE_CONTROL stage=open.activation.repeat elapsed=0ms budget=40ms
+[00:07:44] [WARNING] ⏱ UiMetric: scope=page name=ZAPRET2_MODE_CONTROL stage=content.ready.first elapsed=35686595ms budget=200ms
+[00:07:46] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=open.navigation.repeat elapsed=2ms budget=120ms
+[00:07:46] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=open.activation.repeat elapsed=0ms budget=40ms
+[00:07:46] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=content.ready.repeat elapsed=3ms budget=40ms
+[00:07:47] [INFO] Окно вернулось из фона (250 с): удержано 279 МБ; подтянуто 218 МБ за 17 мс; подкачек за 3 с после возврата: 1900
+[00:07:58] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[00:08:06] [INFO] Импортирован пресет 'zapret_preset_Bryansk_YouTube_Shorts_circular_tuned (4)'
+[00:08:06] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.metadata.read elapsed=16ms detail=139 presets
+[00:08:06] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.build elapsed=14ms detail=139 presets
+[00:08:06] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.apply elapsed=0ms
+[00:08:11] [INFO] Пресет переключен: zapret_preset_Bryansk_YouTube_Shorts_circular_tuned (4).txt
+[00:08:11] [INFO] Применение выбранного source preset (zapret2_mode, reason=preset_switched, preset=zapret_preset_Bryansk_YouTube_Shorts_circular_tuned (4).txt) -> preset mode switch pipeline
+[00:08:11] [⏱ UI] ⏱ UiMetric: scope=worker name=presets stage=preset_activate.run elapsed=11ms
+[00:08:11] [INFO] Активирован пресет 'zapret_preset_Bryansk_YouTube_Shorts_circular_tuned (4)'
+[00:08:11] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.read elapsed=5ms
+[00:08:11] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.parse elapsed=2ms
+[00:08:11] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.identity elapsed=2ms
+[00:08:11] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=0ms
+[00:08:11] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.templates.load elapsed=0ms
+[00:08:11] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.strategy_catalogs.load elapsed=1ms
+[00:08:11] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.sources.build elapsed=2ms
+[00:08:11] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.profile_list_item.build elapsed=2ms
+[00:08:11] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.total elapsed=18ms
+[00:08:11] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=1ms
+[00:08:11] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.cached elapsed=7ms
+[00:08:11] [⏱ UI] ⏱ UiMetric: scope=worker name=profile_list stage=profile_feature.worker.list_profiles.total elapsed=32ms
+[00:08:11] [⏱ UI] ⏱ UiMetric: scope=ui name=Zapret2PresetSetupPage stage=profile_ui.apply_payload.total elapsed=1ms
+[00:08:12] [INFO] Preset mode switch запросили, актуальное поколение 8 (zapret2_mode)
+[00:08:12] [INFO] Применяем пресет...
+[00:08:12] [INFO] Preset switch: starting from preset C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2\zapret_preset_Bryansk_YouTube_Shorts_circular_tuned (4).txt
+[00:08:12] [INFO] Winws2 launch command: C:\Users\какашка\AppData\Roaming\ZapretTwo\exe\winws2.exe @C:\Users\какашка\AppData\Roaming\ZapretTwo\user\tmp\winws2_at_config\winws2_at_feaa07a591b2bca0226d.txt
+[00:08:12] [INFO] Winws2 launch cwd: C:\Users\какашка\AppData\Roaming\ZapretTwo
+[00:08:12] [INFO] Winws2 launch @config: path=C:\Users\какашка\AppData\Roaming\ZapretTwo\user\tmp\winws2_at_config\winws2_at_feaa07a591b2bca0226d.txt, bytes=14207, sha1=338898db133ec124c82a35fab41bf3ad9a40a41f, source=C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2\zapret_preset_Bryansk_YouTube_Shorts_circular_tuned (4).txt
+[00:08:12] [SUCCESS] Preset switch successful (PID: 22092)
+[00:08:12] [INFO] Preset switch handoff: stopping previous process 'Пресет: zapret_preset_Bryansk_YouTube_Shorts_browser_CDN_circular_fix' (PID: 24636)
+[00:08:12] [SUCCESS] Previous preset process stopped after handoff, exit confirmed (PID: 24636)
+[00:08:12] [⏱ UI] ⏱ UiMetric: scope=worker name=dpi stage=preset_switch.run elapsed=503ms
+[00:08:12] [INFO] Preset mode switch успешно завершён, поколение 8 (zapret2_mode)
+[00:08:12] [INFO] ✅ Пресет успешно применён
+[00:08:16] [INFO] Discord не запущен, перезапуск не требуется
+[00:08:39] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=open.activation.repeat elapsed=0ms budget=40ms
+[00:08:39] [WARNING] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=content.ready.repeat elapsed=52755ms budget=40ms
+[00:08:49] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=open.activation.repeat elapsed=0ms budget=40ms
+[00:08:49] [WARNING] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=content.ready.repeat elapsed=62361ms budget=40ms
+[00:08:52] [INFO] Пресет переключен: zapret_preset_Bryansk_YouTube_Shorts_browser_CDN_circular_fix.txt
+[00:08:52] [INFO] Применение выбранного source preset (zapret2_mode, reason=preset_switched, preset=zapret_preset_Bryansk_YouTube_Shorts_browser_CDN_circular_fix.txt) -> preset mode switch pipeline
+[00:08:52] [⏱ UI] ⏱ UiMetric: scope=worker name=presets stage=preset_activate.run elapsed=12ms
+[00:08:52] [INFO] Активирован пресет 'zapret_preset_Bryansk_YouTube_Shorts_browser_CDN_circular_fix'
+[00:08:52] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.read elapsed=4ms
+[00:08:52] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.parse elapsed=3ms
+[00:08:52] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.identity elapsed=2ms
+[00:08:52] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=0ms
+[00:08:52] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.cached elapsed=12ms
+[00:08:52] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=0ms
+[00:08:52] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.cached elapsed=4ms
+[00:08:52] [⏱ UI] ⏱ UiMetric: scope=worker name=profile_list stage=profile_feature.worker.list_profiles.total elapsed=27ms
+[00:08:52] [⏱ UI] ⏱ UiMetric: scope=ui name=Zapret2PresetSetupPage stage=profile_ui.apply_payload.total elapsed=1ms
+[00:08:52] [INFO] Preset mode switch запросили, актуальное поколение 9 (zapret2_mode)
+[00:08:52] [INFO] Применяем пресет...
+[00:08:52] [INFO] Preset switch: starting from preset C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2\zapret_preset_Bryansk_YouTube_Shorts_browser_CDN_circular_fix.txt
+[00:08:52] [INFO] Winws2 launch command: C:\Users\какашка\AppData\Roaming\ZapretTwo\exe\winws2.exe @C:\Users\какашка\AppData\Roaming\ZapretTwo\user\tmp\winws2_at_config\winws2_at_72e35366fb7443ea0736.txt
+[00:08:52] [INFO] Winws2 launch cwd: C:\Users\какашка\AppData\Roaming\ZapretTwo
+[00:08:53] [INFO] Winws2 launch @config: path=C:\Users\какашка\AppData\Roaming\ZapretTwo\user\tmp\winws2_at_config\winws2_at_72e35366fb7443ea0736.txt, bytes=14189, sha1=cfc044a1fb07c84025582aae9a26b5307ed8b33d, source=C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2\zapret_preset_Bryansk_YouTube_Shorts_browser_CDN_circular_fix.txt
+[00:08:53] [SUCCESS] Preset switch successful (PID: 15540)
+[00:08:53] [INFO] Preset switch handoff: stopping previous process 'Пресет: zapret_preset_Bryansk_YouTube_Shorts_circular_tuned (4)' (PID: 22092)
+[00:08:53] [SUCCESS] Previous preset process stopped after handoff, exit confirmed (PID: 22092)
+[00:08:53] [⏱ UI] ⏱ UiMetric: scope=worker name=dpi stage=preset_switch.run elapsed=503ms
+[00:08:53] [INFO] Preset mode switch успешно завершён, поколение 9 (zapret2_mode)
+[00:08:53] [INFO] ✅ Пресет успешно применён
+[00:08:57] [INFO] Discord не запущен, перезапуск не требуется
+[00:09:58] [⏱ STARTUP] ⏱ Startup StartupHostsAddressCheckSkipped: 36002428ms | шлюз проб: ещё рано или идёт проверка по кнопке
+[00:09:58] [⏱ STARTUP] ⏱ Startup StartupHostsAppliedSelectionRefreshFinished: 36002437ms | changed=False (блока ZapretGUI в hosts нет)
+[00:10:22] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=open.activation.repeat elapsed=0ms budget=40ms
+[00:10:22] [WARNING] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=content.ready.repeat elapsed=156020ms budget=40ms
+[00:10:25] [INFO] Окно вернулось из фона (88 с): удержано 279 МБ; подтянуто 217 МБ за 17 мс; подкачек за 3 с после возврата: 685
+[00:11:00] [INFO] Импортирован пресет 'zapret preset Bryansk'
+[00:11:00] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.metadata.read elapsed=17ms detail=140 presets
+[00:11:00] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.build elapsed=20ms detail=140 presets
+[00:11:00] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.apply elapsed=1ms
+[00:11:05] [INFO] Пресет переключен: zapret preset Bryansk.txt
+[00:11:05] [INFO] Применение выбранного source preset (zapret2_mode, reason=preset_switched, preset=zapret preset Bryansk.txt) -> preset mode switch pipeline
+[00:11:05] [⏱ UI] ⏱ UiMetric: scope=worker name=presets stage=preset_activate.run elapsed=10ms
+[00:11:05] [INFO] Активирован пресет 'zapret preset Bryansk'
+[00:11:05] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.read elapsed=1ms
+[00:11:05] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.parse elapsed=5ms
+[00:11:05] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.identity elapsed=2ms
+[00:11:05] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=1ms
+[00:11:05] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.templates.load elapsed=0ms
+[00:11:05] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.strategy_catalogs.load elapsed=1ms
+[00:11:05] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.sources.build elapsed=2ms
+[00:11:05] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.profile_list_item.build elapsed=2ms
+[00:11:05] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.total elapsed=18ms
+[00:11:05] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=4ms
+[00:11:05] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.cached elapsed=9ms
+[00:11:06] [⏱ UI] ⏱ UiMetric: scope=worker name=profile_list stage=profile_feature.worker.list_profiles.total elapsed=33ms
+[00:11:06] [⏱ UI] ⏱ UiMetric: scope=ui name=Zapret2PresetSetupPage stage=profile_ui.apply_payload.total elapsed=1ms
+[00:11:06] [INFO] Preset mode switch запросили, актуальное поколение 10 (zapret2_mode)
+[00:11:06] [INFO] Применяем пресет...
+[00:11:06] [INFO] Preset switch: starting from preset C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2\zapret preset Bryansk.txt
+[00:11:06] [INFO] Winws2 launch command: C:\Users\какашка\AppData\Roaming\ZapretTwo\exe\winws2.exe @C:\Users\какашка\AppData\Roaming\ZapretTwo\user\tmp\winws2_at_config\winws2_at_1b057cff7b933c74745c.txt
+[00:11:06] [INFO] Winws2 launch cwd: C:\Users\какашка\AppData\Roaming\ZapretTwo
+[00:11:06] [INFO] Winws2 launch @config: path=C:\Users\какашка\AppData\Roaming\ZapretTwo\user\tmp\winws2_at_config\winws2_at_1b057cff7b933c74745c.txt, bytes=14189, sha1=cfc044a1fb07c84025582aae9a26b5307ed8b33d, source=C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2\zapret preset Bryansk.txt
+[00:11:06] [SUCCESS] Preset switch successful (PID: 6000)
+[00:11:06] [INFO] Preset switch handoff: stopping previous process 'Пресет: zapret_preset_Bryansk_YouTube_Shorts_browser_CDN_circular_fix' (PID: 15540)
+[00:11:07] [SUCCESS] Previous preset process stopped after handoff, exit confirmed (PID: 15540)
+[00:11:07] [⏱ UI] ⏱ UiMetric: scope=worker name=dpi stage=preset_switch.run elapsed=516ms
+[00:11:07] [INFO] Preset mode switch успешно завершён, поколение 10 (zapret2_mode)
+[00:11:07] [INFO] ✅ Пресет успешно применён
+[00:11:09] [INFO] Удалён пресет 'zapret_preset_Bryansk_YouTube_Shorts_browser_CDN_circular'
+[00:11:09] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.metadata.read elapsed=7ms detail=139 presets
+[00:11:09] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.build elapsed=14ms detail=139 presets
+[00:11:09] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.apply elapsed=0ms
+[00:11:09] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.metadata.read elapsed=4ms detail=139 presets
+[00:11:09] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.build elapsed=1ms detail=139 presets
+[00:11:09] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.apply elapsed=0ms
+[00:11:11] [INFO] Discord не запущен, перезапуск не требуется
+[00:11:11] [INFO] Удалён пресет 'zapret_preset_Bryansk_YouTube_Shorts_browser_CDN_circular_fix'
+[00:11:11] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.metadata.read elapsed=6ms detail=138 presets
+[00:11:11] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.build elapsed=13ms detail=138 presets
+[00:11:11] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.apply elapsed=0ms
+[00:11:12] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.metadata.read elapsed=4ms detail=138 presets
+[00:11:12] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.build elapsed=1ms detail=138 presets
+[00:11:12] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.apply elapsed=0ms
+[00:11:13] [INFO] Пресет переключен: zapret_preset_Bryansk_YouTube_Shorts_circular_tuned (4).txt
+[00:11:13] [INFO] Применение выбранного source preset (zapret2_mode, reason=preset_switched, preset=zapret_preset_Bryansk_YouTube_Shorts_circular_tuned (4).txt) -> preset mode switch pipeline
+[00:11:13] [⏱ UI] ⏱ UiMetric: scope=worker name=presets stage=preset_activate.run elapsed=8ms
+[00:11:13] [INFO] Активирован пресет 'zapret_preset_Bryansk_YouTube_Shorts_circular_tuned (4)'
+[00:11:13] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.read elapsed=2ms
+[00:11:13] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.parse elapsed=4ms
+[00:11:13] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.identity elapsed=4ms
+[00:11:13] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=0ms
+[00:11:13] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.cached elapsed=13ms
+[00:11:13] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=0ms
+[00:11:13] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.cached elapsed=3ms
+[00:11:13] [⏱ UI] ⏱ UiMetric: scope=worker name=profile_list stage=profile_feature.worker.list_profiles.total elapsed=26ms
+[00:11:13] [⏱ UI] ⏱ UiMetric: scope=ui name=Zapret2PresetSetupPage stage=profile_ui.apply_payload.total elapsed=1ms
+[00:11:13] [INFO] Preset mode switch запросили, актуальное поколение 11 (zapret2_mode)
+[00:11:13] [INFO] Применяем пресет...
+[00:11:13] [INFO] Preset switch: starting from preset C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2\zapret_preset_Bryansk_YouTube_Shorts_circular_tuned (4).txt
+[00:11:13] [INFO] Winws2 launch command: C:\Users\какашка\AppData\Roaming\ZapretTwo\exe\winws2.exe @C:\Users\какашка\AppData\Roaming\ZapretTwo\user\tmp\winws2_at_config\winws2_at_feaa07a591b2bca0226d.txt
+[00:11:13] [INFO] Winws2 launch cwd: C:\Users\какашка\AppData\Roaming\ZapretTwo
+[00:11:13] [INFO] Winws2 launch @config: path=C:\Users\какашка\AppData\Roaming\ZapretTwo\user\tmp\winws2_at_config\winws2_at_feaa07a591b2bca0226d.txt, bytes=14207, sha1=338898db133ec124c82a35fab41bf3ad9a40a41f, source=C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2\zapret_preset_Bryansk_YouTube_Shorts_circular_tuned (4).txt
+[00:11:14] [SUCCESS] Preset switch successful (PID: 10152)
+[00:11:14] [INFO] Preset switch handoff: stopping previous process 'Пресет: zapret preset Bryansk' (PID: 6000)
+[00:11:14] [SUCCESS] Previous preset process stopped after handoff, exit confirmed (PID: 6000)
+[00:11:14] [⏱ UI] ⏱ UiMetric: scope=worker name=dpi stage=preset_switch.run elapsed=487ms
+[00:11:14] [INFO] Preset mode switch успешно завершён, поколение 11 (zapret2_mode)
+[00:11:14] [INFO] ✅ Пресет успешно применён
+[00:11:15] [INFO] Пресет переключен: zapret preset Bryansk.txt
+[00:11:15] [INFO] Применение выбранного source preset (zapret2_mode, reason=preset_switched, preset=zapret preset Bryansk.txt) -> preset mode switch pipeline
+[00:11:15] [⏱ UI] ⏱ UiMetric: scope=worker name=presets stage=preset_activate.run elapsed=9ms
+[00:11:15] [INFO] Активирован пресет 'zapret preset Bryansk'
+[00:11:15] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.read elapsed=1ms
+[00:11:15] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.parse elapsed=5ms
+[00:11:15] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.selected_preset.identity elapsed=2ms
+[00:11:15] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=0ms
+[00:11:15] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.cached elapsed=11ms
+[00:11:15] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.folder_state.load elapsed=1ms
+[00:11:15] [⏱ UI] ⏱ UiMetric: scope=feature name=profile stage=profile_feature.list_profiles.cached elapsed=4ms
+[00:11:15] [⏱ UI] ⏱ UiMetric: scope=worker name=profile_list stage=profile_feature.worker.list_profiles.total elapsed=26ms
+[00:11:15] [⏱ UI] ⏱ UiMetric: scope=ui name=Zapret2PresetSetupPage stage=profile_ui.apply_payload.total elapsed=1ms
+[00:11:15] [INFO] Preset mode switch запросили, актуальное поколение 12 (zapret2_mode)
+[00:11:15] [INFO] Применяем пресет...
+[00:11:15] [INFO] Preset switch: starting from preset C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2\zapret preset Bryansk.txt
+[00:11:15] [INFO] Winws2 launch command: C:\Users\какашка\AppData\Roaming\ZapretTwo\exe\winws2.exe @C:\Users\какашка\AppData\Roaming\ZapretTwo\user\tmp\winws2_at_config\winws2_at_1b057cff7b933c74745c.txt
+[00:11:15] [INFO] Winws2 launch cwd: C:\Users\какашка\AppData\Roaming\ZapretTwo
+[00:11:15] [INFO] Winws2 launch @config: path=C:\Users\какашка\AppData\Roaming\ZapretTwo\user\tmp\winws2_at_config\winws2_at_1b057cff7b933c74745c.txt, bytes=14189, sha1=cfc044a1fb07c84025582aae9a26b5307ed8b33d, source=C:\Users\какашка\AppData\Roaming\ZapretTwo\presets\winws2\zapret preset Bryansk.txt
+[00:11:16] [SUCCESS] Preset switch successful (PID: 11508)
+[00:11:16] [INFO] Preset switch handoff: stopping previous process 'Пресет: zapret_preset_Bryansk_YouTube_Shorts_circular_tuned (4)' (PID: 10152)
+[00:11:16] [SUCCESS] Previous preset process stopped after handoff, exit confirmed (PID: 10152)
+[00:11:16] [⏱ UI] ⏱ UiMetric: scope=worker name=dpi stage=preset_switch.run elapsed=466ms
+[00:11:16] [INFO] Preset mode switch успешно завершён, поколение 12 (zapret2_mode)
+[00:11:16] [INFO] ✅ Пресет успешно применён
+[00:11:18] [INFO] Удалён пресет 'zapret_preset_Bryansk_YouTube_Shorts_circular_tuned (4)'
+[00:11:18] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.metadata.read elapsed=4ms detail=137 presets
+[00:11:18] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.build elapsed=14ms detail=137 presets
+[00:11:18] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.apply elapsed=1ms
+[00:11:18] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.metadata.read elapsed=3ms detail=137 presets
+[00:11:18] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.build elapsed=1ms detail=137 presets
+[00:11:18] [⏱ UI] ⏱ UiMetric: scope=feature name=user_presets stage=user_presets.rows_plan.apply elapsed=0ms
+[00:11:18] [INFO] Discord не запущен, перезапуск не требуется
+[00:16:07] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Server 2 (Резервный)
+[00:20:08] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[00:28:14] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[00:32:30] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[00:40:42] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[00:42:58] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[00:50:49] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Server 2 (Резервный)
+[00:55:04] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[00:59:15] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[01:07:21] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=open.activation.repeat elapsed=0ms budget=40ms
+[01:07:21] [WARNING] ⏱ UiMetric: scope=page name=ZAPRET2_USER_PRESETS stage=content.ready.repeat elapsed=3574171ms budget=40ms
+[01:07:22] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_MODE_CONTROL stage=open.activation.repeat elapsed=0ms budget=40ms
+[01:07:22] [WARNING] ⏱ UiMetric: scope=page name=ZAPRET2_MODE_CONTROL stage=content.ready.first elapsed=39264394ms budget=200ms
+[01:07:24] [INFO] Окно вернулось из фона (3343 с): удержано 279 МБ; подтянуто 219 МБ за 59 мс; подкачек за 3 с после возврата: 10458
+[01:07:25] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[01:09:42] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[01:09:58] [⏱ STARTUP] ⏱ Startup StartupHostsAddressCheckSkipped: 39602423ms | шлюз проб: ещё рано или идёт проверка по кнопке
+[01:09:58] [⏱ STARTUP] ⏱ Startup StartupHostsAppliedSelectionRefreshFinished: 39602426ms | changed=False (блока ZapretGUI в hosts нет)
+[01:17:47] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[01:20:04] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[01:27:53] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[01:30:09] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[01:32:48] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[01:35:04] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[01:42:56] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Server 2 (Резервный)
+[01:45:12] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[01:53:00] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[01:55:16] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[02:03:05] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[02:05:21] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[02:06:03] [ERROR] Обнаружен посторонний winws рядом с работающим Zapret — два обхода DPI конфликтуют за WinDivert. Закройте другую копию (PID 11700: c:\bypasstool\winws2.exe)
+[02:06:03] [⏱ STARTUP] Notification received: source=global_logger, level=error, queue=immediate
+[02:06:03] [⏱ STARTUP] Notification presenting: source=global_logger, presentation=infobar
+[02:09:58] [⏱ STARTUP] ⏱ Startup RemotePresetsSyncQueued: 43202405ms | periodic
+[02:09:58] [⏱ STARTUP] ⏱ Startup StartupHostsAddressCheckSkipped: 43202423ms | шлюз проб: ещё рано или идёт проверка по кнопке
+[02:09:58] [⏱ STARTUP] ⏱ Startup StartupHostsAppliedSelectionRefreshFinished: 43202426ms | changed=False (блока ZapretGUI в hosts нет)
+[02:13:26] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[02:15:42] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[02:23:32] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[02:25:48] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[02:28:27] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[02:30:43] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[02:37:38] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[02:41:46] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[02:42:22] [⏱ UI] ⏱ UiMetric: scope=page name=ZAPRET2_MODE_CONTROL stage=open.activation.repeat elapsed=0ms budget=40ms
+[02:42:22] [WARNING] ⏱ UiMetric: scope=page name=ZAPRET2_MODE_CONTROL stage=content.ready.first elapsed=44964086ms budget=200ms
+[02:42:25] [INFO] Окно вернулось из фона (3943 с): удержано 279 МБ; подтянуто 177 МБ за 46 мс; подкачек за 3 с после возврата: 9533
+[02:50:02] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[02:52:19] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[02:54:57] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[02:57:13] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[03:05:02] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[03:07:18] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[03:09:58] [INFO] Hosts, проверка адресов: проверено 0, изменилось: False.
+[03:09:58] [⏱ STARTUP] ⏱ Startup StartupHostsAddressCheckFinished: 46802967ms | checked=0 changed=False
+[03:09:58] [⏱ STARTUP] ⏱ Startup StartupHostsAppliedSelectionRefreshFinished: 46802975ms | changed=False (блока ZapretGUI в hosts нет)
+[03:15:22] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[03:17:38] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[03:25:27] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[03:27:43] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[03:35:33] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[03:37:50] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[03:45:54] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[03:48:11] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[03:55:59] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[04:00:03] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[04:06:58] [🔁 UPDATE] Ждём сигнал о новой версии от источника VPS Update (Новый основной)
+[04:09:58] [⏱ STARTUP] ⏱ Startup StartupHostsAddressCheckSkipped: 50402463ms | шлюз проб: ещё рано или идёт проверка по кнопке
+[04:09:58] [⏱ STARTUP] ⏱ Startup StartupHostsAppliedSelectionRefreshFinished: 50402465ms | changed=False (блока ZapretGUI в hosts нет)
+[04:11:15] [🔁 UPDATE] Ждём сигнал о новой версии от источника Forgejo
+[04:18:28] [INFO] Windows завершает сеанс: закрываем GUI без диалога
+[04:18:29] [WARNING] Watched winws process exited unexpectedly (code: 1073807364); notifying runtime
+[04:18:29] [INFO] Unexpected exit of 'Пресет: zapret preset Bryansk' diagnosed as: diagnosed
+[04:18:29] [INFO] [SIDEBAR] flush при windows_session_end: expanded=True
+[04:18:29] [INFO] Sync runtime shutdown requested: windows_session_end
+[04:18:29] [WARNING] Strategy process exited (code: 1073807364)
+[04:18:29] [WARNING] Strategy process exited (code: 1073807364)
+[04:18:29] [INFO] No running process to stop
+[04:18:29] [INFO] Process Monitor остановлен

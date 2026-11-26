@@ -1,0 +1,47 @@
+github version v1.0.6-40-g8abcf55-native (8abcf5516be36a7ae8fa7cd15051522f81f63567) lua_compat_ver 6
+
+we have 16 user defined desync profile(s) and default low priority profile 0
+we have 0 user defined desync template(s)
+Loading hostlist C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/simplex.txt
+loading plain text list
+Loaded 3 hosts from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/simplex.txt
+Loading hostlist C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/matrix.txt
+loading plain text list
+Loaded 3 hosts from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/matrix.txt
+Loading hostlist C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/signal.txt
+loading plain text list
+Loaded 1 hosts from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/signal.txt
+Loading hostlist C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/zapret-moe.txt
+loading plain text list
+Loaded 1 hosts from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/zapret-moe.txt
+Loading hostlist C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/cloudflare.txt
+loading plain text list
+Loaded 7 hosts from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/cloudflare.txt
+Loading hostlist C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/discord-media.txt
+loading plain text list
+Loaded 1 hosts from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/discord-media.txt
+Loading hostlist C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/netrogat.txt
+loading plain text list
+Loaded 70 hosts from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/netrogat.txt
+Loading hostlist C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/discord.txt
+loading plain text list
+Loaded 43 hosts from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/discord.txt
+Loading hostlist C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/discord-updates.txt
+loading plain text list
+Loaded 1 hosts from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/discord-updates.txt
+Loading ipset C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-exclude.txt
+loading plain text list
+Loaded 11 ip/subnets from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-exclude.txt
+Loading ipset C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-dns.txt
+loading plain text list
+Loaded 25 ip/subnets from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-dns.txt
+Loading ipset C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-ru.txt
+loading plain text list
+Loaded 658 ip/subnets from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-ru.txt
+Loading ipset C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-discord.txt
+loading plain text list
+Loaded 58 ip/subnets from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-discord.txt
+windivert initialized. capture is started.
+LUA v5.1 LuaJIT 2.1.1756211046 OpenResty
+JIT: ON SSE3 SSE4.1 BMI2 fold cse dce fwd dse narrow loop abc sink fuse
+TERM received !

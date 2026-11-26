@@ -1,0 +1,197 @@
+github version v1.0.6-40-g8abcf55-native (8abcf5516be36a7ae8fa7cd15051522f81f63567) lua_compat_ver 6
+
+we have 75 user defined desync profile(s) and default low priority profile 0
+we have 0 user defined desync template(s)
+Loading hostlist C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/github.txt
+loading plain text list
+Loaded 8 hosts from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/github.txt
+Loading hostlist C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/githubusercontent.txt
+loading plain text list
+Loaded 1 hosts from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/githubusercontent.txt
+Loading hostlist C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/other.txt
+loading plain text list
+Loaded 183 hosts from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/other.txt
+Loading hostlist C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/itch.txt
+loading plain text list
+Loaded 6 hosts from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/itch.txt
+Loading hostlist C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/whatsapp.txt
+loading plain text list
+Loaded 6 hosts from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/whatsapp.txt
+Loading hostlist C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/static-whatsapp-net.txt
+loading plain text list
+Loaded 1 hosts from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/static-whatsapp-net.txt
+Loading hostlist C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/microsoft-store.txt
+loading plain text list
+Loaded 38 hosts from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/microsoft-store.txt
+Loading hostlist C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/rutor.txt
+loading plain text list
+Loaded 2 hosts from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/rutor.txt
+Loading hostlist C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/soundcloud.txt
+loading plain text list
+Loaded 21 hosts from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/soundcloud.txt
+Loading hostlist C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/tiktok.txt
+loading plain text list
+Loaded 22 hosts from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/tiktok.txt
+Loading hostlist C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/twitch.txt
+loading plain text list
+Loaded 12 hosts from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/twitch.txt
+Loading hostlist C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ubisoft.txt
+loading plain text list
+Loaded 5 hosts from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ubisoft.txt
+Loading hostlist C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/roblox.txt
+loading plain text list
+Loaded 81 hosts from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/roblox.txt
+Loading hostlist C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/speedtest.txt
+loading plain text list
+Loaded 5 hosts from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/speedtest.txt
+Loading hostlist C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/epicgames-fortnite.txt
+loading plain text list
+Loaded 4 hosts from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/epicgames-fortnite.txt
+Loading hostlist C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/obsidian.txt
+loading plain text list
+Loaded 1 hosts from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/obsidian.txt
+Loading hostlist C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/steam.txt
+loading plain text list
+Loaded 16 hosts from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/steam.txt
+Loading hostlist C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/fandom.txt
+loading plain text list
+Loaded 2 hosts from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/fandom.txt
+Loading hostlist C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ntcparty.txt
+loading plain text list
+Loaded 1 hosts from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ntcparty.txt
+Loading hostlist C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/discord.txt
+loading plain text list
+Loaded 43 hosts from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/discord.txt
+Loading hostlist C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/discord-images.txt
+loading plain text list
+Loaded 3 hosts from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/discord-images.txt
+Loading hostlist C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/discord-media.txt
+loading plain text list
+Loaded 1 hosts from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/discord-media.txt
+Loading hostlist C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/discord-updates.txt
+loading plain text list
+Loaded 1 hosts from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/discord-updates.txt
+Loading hostlist C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/netrogat.txt
+loading plain text list
+Loaded 70 hosts from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/netrogat.txt
+Loading hostlist C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/tankix.txt
+loading plain text list
+Loaded 3 hosts from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/tankix.txt
+Loading hostlist C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/twimg.txt
+loading plain text list
+Loaded 1 hosts from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/twimg.txt
+Loading hostlist C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/twitter.txt
+loading plain text list
+Loaded 3 hosts from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/twitter.txt
+Loading hostlist C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/google-backend.txt
+loading plain text list
+Loaded 4 hosts from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/google-backend.txt
+Loading hostlist C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/youtube.txt
+loading plain text list
+Loaded 21 hosts from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/youtube.txt
+Loading hostlist C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/googlevideo.txt
+loading plain text list
+Loaded 1 hosts from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/googlevideo.txt
+Loading hostlist C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/chatgpt.txt
+loading plain text list
+Loaded 4 hosts from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/chatgpt.txt
+Loading hostlist C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/simplex.txt
+loading plain text list
+Loaded 3 hosts from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/simplex.txt
+Loading hostlist C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/matrix.txt
+loading plain text list
+Loaded 3 hosts from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/matrix.txt
+Loading hostlist C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/signal.txt
+loading plain text list
+Loaded 1 hosts from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/signal.txt
+Loading ipset C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-cloudflare1.txt
+loading plain text list
+Loaded 2053 ip/subnets from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-cloudflare1.txt
+Loading ipset C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/cloudflare-ipset_v6.txt
+loading plain text list
+Loaded 2130 ip/subnets from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/cloudflare-ipset_v6.txt
+Loading ipset C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/cloudflare-ipset.txt
+loading plain text list
+Loaded 7898 ip/subnets from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/cloudflare-ipset.txt
+Loading ipset C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-discord.txt
+loading plain text list
+Loaded 58 ip/subnets from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-discord.txt
+Loading ipset C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-timeweb.txt
+loading plain text list
+Loaded 312 ip/subnets from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-timeweb.txt
+Loading ipset C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-zapretkvn.txt
+loading plain text list
+Loaded 683 ip/subnets from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-zapretkvn.txt
+Loading ipset C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-warp.txt
+loading plain text list
+Loaded 10 ip/subnets from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-warp.txt
+Loading ipset C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-lol-euw.txt
+loading plain text list
+Loaded 8 ip/subnets from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-lol-euw.txt
+Loading ipset C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-lol-ru.txt
+loading plain text list
+Loaded 7 ip/subnets from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-lol-ru.txt
+Loading ipset C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-amazon.txt
+loading plain text list
+Loaded 7876 ip/subnets from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-amazon.txt
+Loading ipset C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-usa-google.txt
+loading plain text list
+Loaded 203 ip/subnets from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-usa-google.txt
+Loading ipset C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-railway.txt
+loading plain text list
+Loaded 17 ip/subnets from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-railway.txt
+Loading ipset C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-akamai.txt
+loading plain text list
+Loaded 109 ip/subnets from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-akamai.txt
+Loading ipset C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-fastly.txt
+loading plain text list
+Loaded 202 ip/subnets from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-fastly.txt
+Loading ipset C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-frantech.txt
+loading plain text list
+Loaded 78 ip/subnets from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-frantech.txt
+Loading ipset C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-novoserve.txt
+loading plain text list
+Loaded 101 ip/subnets from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-novoserve.txt
+Loading ipset C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-datacamp.txt
+loading plain text list
+Loaded 179 ip/subnets from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-datacamp.txt
+Loading ipset C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-digitalocean.txt
+loading plain text list
+Loaded 863 ip/subnets from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-digitalocean.txt
+Loading ipset C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-ovh.txt
+loading plain text list
+Loaded 142 ip/subnets from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-ovh.txt
+Loading ipset C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-worldstream.txt
+loading plain text list
+Loaded 120 ip/subnets from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-worldstream.txt
+Loading ipset C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-hetzner.txt
+loading plain text list
+Loaded 86 ip/subnets from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-hetzner.txt
+Loading ipset C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-cloudflare.txt
+loading plain text list
+Loaded 130 ip/subnets from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-cloudflare.txt
+Loading ipset C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-facebook.txt
+loading plain text list
+Loaded 202 ip/subnets from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-facebook.txt
+Loading ipset C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-google.txt
+loading plain text list
+Loaded 200 ip/subnets from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-google.txt
+Loading ipset C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-exclude.txt
+loading plain text list
+Loaded 11 ip/subnets from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-exclude.txt
+Loading ipset C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-dns.txt
+loading plain text list
+Loaded 25 ip/subnets from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-dns.txt
+Loading ipset C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-ru.txt
+loading plain text list
+Loaded 658 ip/subnets from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-ru.txt
+Loading ipset C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-youtube.txt
+loading plain text list
+Loaded 12 ip/subnets from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-youtube.txt
+Loading ipset C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-anydesk.txt
+loading plain text list
+Loaded 15 ip/subnets from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-anydesk.txt
+windivert initialized. capture is started.
+LUA v5.1 LuaJIT 2.1.1756211046 OpenResty
+JIT: ON SSE3 SSE4.1 BMI2 fold cse dce fwd dse narrow loop abc sink fuse
+TERM received !

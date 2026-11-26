@@ -1,0 +1,51 @@
+github version v1.0.6-40-g8abcf55-native (8abcf5516be36a7ae8fa7cd15051522f81f63567) lua_compat_ver 6
+
+we have 6 user defined desync profile(s) and default low priority profile 0
+we have 0 user defined desync template(s)
+Loading hostlist C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/list-google.txt
+loading plain text list
+Loaded 20 hosts from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/list-google.txt
+Loading hostlist C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/list-exclude.txt
+loading plain text list
+Loaded 130 hosts from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/list-exclude.txt
+Loading hostlist C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/list-general.txt
+loading plain text list
+Loaded 50 hosts from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/list-general.txt
+Loading ipset C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-all.txt
+loading plain text list
+Loaded 33048 ip/subnets from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-all.txt
+Loading ipset C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-exclude.txt
+loading plain text list
+Loaded 11 ip/subnets from C:/Users/какашка/AppData/Roaming/ZapretTwo/lists/ipset-exclude.txt
+windivert initialized. capture is started.
+LUA v5.1 LuaJIT 2.1.1756211046 OpenResty
+JIT: ON SSE3 SSE4.1 BMI2 fold cse dce fwd dse narrow loop abc sink fuse
+LUA ERROR: ...�кашка/AppData/Roaming/ZapretTwo/lua/zapret-lib.lua:554: blob 'blobs/tls_clienthello_www_google_com.bin' unavailable
+desync ERROR. passing packet unmodified.
+LUA ERROR: ...�кашка/AppData/Roaming/ZapretTwo/lua/zapret-lib.lua:554: blob 'blobs/quic_initial_www_google_com.bin' unavailable
+desync ERROR. passing packet unmodified.
+LUA ERROR: ...�кашка/AppData/Roaming/ZapretTwo/lua/zapret-lib.lua:554: blob 'blobs/tls_clienthello_www_google_com.bin' unavailable
+desync ERROR. passing packet unmodified.
+LUA ERROR: ...�кашка/AppData/Roaming/ZapretTwo/lua/zapret-lib.lua:554: blob 'blobs/quic_initial_www_google_com.bin' unavailable
+desync ERROR. passing packet unmodified.
+LUA ERROR: ...�кашка/AppData/Roaming/ZapretTwo/lua/zapret-lib.lua:554: blob 'blobs/tls_clienthello_www_google_com.bin' unavailable
+desync ERROR. passing packet unmodified.
+LUA ERROR: ...�кашка/AppData/Roaming/ZapretTwo/lua/zapret-lib.lua:554: blob 'blobs/tls_clienthello_www_google_com.bin' unavailable
+desync ERROR. passing packet unmodified.
+LUA ERROR: ...�кашка/AppData/Roaming/ZapretTwo/lua/zapret-lib.lua:554: blob 'blobs/tls_clienthello_www_google_com.bin' unavailable
+desync ERROR. passing packet unmodified.
+LUA ERROR: ...�кашка/AppData/Roaming/ZapretTwo/lua/zapret-lib.lua:554: blob 'blobs/tls_clienthello_www_google_com.bin' unavailable
+desync ERROR. passing packet unmodified.
+LUA ERROR: ...�кашка/AppData/Roaming/ZapretTwo/lua/zapret-lib.lua:554: blob 'blobs/tls_clienthello_www_google_com.bin' unavailable
+desync ERROR. passing packet unmodified.
+LUA ERROR: ...�кашка/AppData/Roaming/ZapretTwo/lua/zapret-lib.lua:554: blob 'blobs/tls_clienthello_www_google_com.bin' unavailable
+desync ERROR. passing packet unmodified.
+LUA ERROR: ...�кашка/AppData/Roaming/ZapretTwo/lua/zapret-lib.lua:554: blob 'blobs/tls_clienthello_www_google_com.bin' unavailable
+desync ERROR. passing packet unmodified.
+LUA ERROR: ...�кашка/AppData/Roaming/ZapretTwo/lua/zapret-lib.lua:554: blob 'blobs/tls_clienthello_www_google_com.bin' unavailable
+desync ERROR. passing packet unmodified.
+LUA ERROR: ...�кашка/AppData/Roaming/ZapretTwo/lua/zapret-lib.lua:554: blob 'blobs/tls_clienthello_www_google_com.bin' unavailable
+desync ERROR. passing packet unmodified.
+LUA ERROR: ...�кашка/AppData/Roaming/ZapretTwo/lua/zapret-lib.lua:554: blob 'blobs/tls_clienthello_www_google_com.bin' unavailable
+desync ERROR. passing packet unmodified.
+TERM received !
